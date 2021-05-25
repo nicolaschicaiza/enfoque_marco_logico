@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1621179291 "main.bcf" "main.bbl" "main" 1621564473
-  "main.bcf" 1621476413 90556 67a27e82bc2695d78e76b2ffc210c005 ""
+["biber main"] 1621925866 "main.bcf" "main.bbl" "main" 1621925950
+  "main.bcf" 1621925904 90556 67a27e82bc2695d78e76b2ffc210c005 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1621476410 "main.tex" "main.pdf" "main" 1621564473
+  "main.bbl"
+["pdflatex"] 1621925900 "main.tex" "main.pdf" "main" 1621925950
   "/etc/texmf/web2c/texmf.cnf" 1621101594 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -301,17 +301,17 @@
   "codigofuente/pgf/arbolProblemas.tex" 1621196914 27882 0e6604ca4becf8b84649e3a74c472061 ""
   "codigofuente/planteamientoProblema.tex" 1621196914 110 5c19cb3b6c7ced610ea329164dcc5eac ""
   "codigofuente/preambulo.tex" 1621196914 1983 8b574339ef4eb53ad4210b02c003d2ad ""
-  "codigofuente/problemaIdentificado.tex" 1621564466 1116 98e84bd99554a356342853df962cb229 ""
+  "codigofuente/problemaIdentificado.tex" 1621925907 1596 843c75d458ad6e92849dbd2433512de3 ""
   "img/Escudo.jpg" 1621196914 705753 9f7cd8974de1cd74d98aeeb24f5f82f7 ""
-  "main.aux" 1621476413 4643 cb710ea5c29cbfe3501a9068c35cf38b ""
-  "main.bbl" 1621179292 466 d461c786d5ba60caa26aa3f363275b19 "biber main"
-  "main.out" 1621476413 742 7edf0a6c9c4463849bbb9fd850434fd1 ""
-  "main.run.xml" 1621476413 2417 ef490049ceb391ab91b5392b9d5b3fe8 ""
-  "main.tex" 1621482226 6263 4a2d9a48b7e7edda656e41aba8fc0e92 ""
+  "main.aux" 1621925904 4643 d0f6f8cc357542d3f321ce2189868efc ""
+  "main.bbl" 1621925868 466 d461c786d5ba60caa26aa3f363275b19 "biber main"
+  "main.out" 1621925904 742 7edf0a6c9c4463849bbb9fd850434fd1 ""
+  "main.run.xml" 1621925904 2417 22b02c4698643fb135ed1f68f85a8295 ""
+  "main.tex" 1621620967 6263 4a2d9a48b7e7edda656e41aba8fc0e92 ""
   (generated)
-  "main.run.xml"
-  "main.aux"
-  "main.bcf"
   "main.pdf"
+  "main.aux"
   "main.log"
+  "main.run.xml"
   "main.out"
+  "main.bcf"
