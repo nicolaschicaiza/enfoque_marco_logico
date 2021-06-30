@@ -7,13 +7,11 @@
 % The following commands are not supported in PSTricks at present
 % We define them conditionally, so when they are implemented,
 % this pgf file will use them.
-\begin{figure}[H]
-    \centering
-    \ifx\du\undefined
-      \newlength{\du}
-    \fi
-    \setlength{\du}{15\unitlength}
-    \begin{tikzpicture}[even odd rule]
+\ifx\du\undefined
+  \newlength{\du}
+\fi
+\setlength{\du}{15\unitlength}
+\begin{tikzpicture}[scale=2.5]
     \pgftransformxscale{1.000000}
     \pgftransformyscale{-1.000000}
     \definecolor{dialinecolor}{rgb}{0.000000, 0.000000, 0.000000}
@@ -359,7 +357,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,13.662215\du){1. Alcaldía};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,13.662215\du){\tiny 1. Alcaldía};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -367,7 +365,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,13.873882\du){2. Urbaser};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,13.873882\du){\tiny 2. Urbaser};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -375,7 +373,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.085549\du){3. Secretaria de};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.085549\du){\tiny 3. Secretaria de};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -383,7 +381,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.297215\du){Salud};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.297215\du){\tiny Salud};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -391,7 +389,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.508882\du){4. CRC};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.508882\du){\tiny 4. CRC};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -399,7 +397,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.720549\du){5 Acueducto y};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.720549\du){\tiny 5 Acueducto y};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -407,7 +405,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.932215\du){alcantarillado};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (46.595300\du,14.932215\du){\tiny alcantarillado};
     \pgfsetlinewidth{0.050000\du}
     \pgfsetdash{}{0pt}
     \pgfsetbuttcap
@@ -441,7 +439,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,13.663587\du){1. Población};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,13.663587\du){\tiny 1. Población};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -449,7 +447,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,13.875254\du){aledaña};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,13.875254\du){\tiny aledaña};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -457,7 +455,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,14.086921\du){2. Animales};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (49.515100\du,14.086921\du){\tiny 2. Animales};
     \pgfsetlinewidth{0.050000\du}
     \pgfsetdash{}{0pt}
     \pgfsetbuttcap
@@ -491,7 +489,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,13.666387\du){1. Habitantes sin};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,13.666387\du){\tiny 1. Habitantes sin};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -499,7 +497,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,13.878054\du){intervención a los ríos};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,13.878054\du){\tiny intervención a los ríos};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -507,7 +505,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.089721\du){2. Comunas sin };
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.089721\du){\tiny 2. Comunas sin };
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -515,7 +513,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.301388\du){interacción directa };
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.301388\du){\tiny interacción directa };
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -523,7 +521,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.513054\du){con los ríos};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (52.002400\du,14.513054\du){\tiny con los ríos};
     \pgfsetlinewidth{0.050000\du}
     \pgfsetdash{}{0pt}
     \pgfsetbuttcap
@@ -557,7 +555,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,13.661987\du){1. Turistas};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,13.661987\du){\tiny 1. Turistas};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -565,7 +563,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,13.873654\du){2. Campesinos};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,13.873654\du){\tiny 2. Campesinos};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -573,7 +571,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,14.085321\du){3. Flora y fauna};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (55.008300\du,14.085321\du){\tiny 3. Flora y fauna};
     \pgfsetlinewidth{0.050000\du}
     \pgfsetdash{}{0pt}
     \pgfsetbuttcap
@@ -607,7 +605,7 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (58.010200\du,13.663587\du){1. Microempresas};
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (58.010200\du,13.663587\du){\tiny 1. Microempresas};
     % setfont left to latex
     \definecolor{dialinecolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetstrokecolor{dialinecolor}
@@ -615,6 +613,5 @@
     \definecolor{diafillcolor}{rgb}{0.176471, 0.231373, 0.270588}
     \pgfsetfillcolor{diafillcolor}
     \pgfsetfillopacity{1.000000}
-    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (58.010200\du,13.875254\du){2. Indigentes};
-    \end{tikzpicture}
-\end{figure}
+    \node[anchor=base,inner sep=0pt, outer sep=0pt,color=dialinecolor] at (58.010200\du,13.875254\du){\tiny 2. Indigentes};
+\end{tikzpicture}  
