@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1625011023 "main.tex" "main.pdf" "main" 1625011024
+["pdflatex"] 1625017264 "main.tex" "main.pdf" "main" 1625017479
   "/dev/null" 1624976355 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1622387624 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -7,7 +7,8 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1480098733 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1480098733 31809 8670ca339bf94e56da1fc21c80635e2a ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1480098733 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1480098733 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1480098815 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -106,9 +107,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551493644 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1622387696 3236060 fd056e42459c13cbcb0cc6e0a7cae8d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1622387714 4227212 7ed702a6805a2c41ff57093eccde89ff ""
-  "main.aux" 1625011024 8 a94a2480d3289e625eea47cd1b285758 ""
-  "main.tex" 1625020342 112 14f03e7b35bc094cd5e631b56b526f54 ""
-  "pgf/arbolProblemas.tex" 1625011021 35893 3c4f21b9fc3375c26f1bca61ec2e6a12 ""
+  "main.aux" 1625017265 8 a94a2480d3289e625eea47cd1b285758 ""
+  "main.tex" 1625017280 112 14f03e7b35bc094cd5e631b56b526f54 ""
+  "pgf/arbolProblemas.tex" 1625017272 35916 5a3d5c1f28c83bbac80359500dea8939 ""
   (generated)
   "main.pdf"
   "main.log"

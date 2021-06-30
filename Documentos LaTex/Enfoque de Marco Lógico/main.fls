@@ -554,6 +554,7 @@ INPUT codigofuente/pgf/arbolProblemas.tex
 INPUT codigofuente/pgf/arbolProblemas.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futb8t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT codigofuente/analisisObjetivos.tex
 INPUT codigofuente/analisisObjetivos.tex
 INPUT codigofuente/pgf/arbolObjetivos.tex
@@ -565,6 +566,9 @@ INPUT ./img/Escudo.jpg
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/fourier/futb8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-alt-bold.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/fourier/futr8t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futr8r.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-alt.tfm
 INPUT codigofuente/matrizML.tex
 INPUT codigofuente/matrizML.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm
