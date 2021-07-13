@@ -8,7 +8,7 @@ Los investigadores de la Universidad de Salamanca José Luis Molina y Santiago Z
 
 Concretamente, los científicos han desarrollado **nuevas técnicas para el análisis y el cálculo del caudal en ríos** mediante el empleo de modelización causal que ofrece entre sus futuras aplicaciones mejoras en la "regulación y gestión de infraestructuras hidráulicas como embalses y canales", según informa José Luis Molina, responsable de la investigación, a Comunicación USAL.
 
-**La investigación persigue identificar y cuantificar fracciones de caudal de un río en función de su dependencia temporal**, en decir "de la memoria que tenga la cuenca", subraya el director del trabajo. Este logro tendría un alcance directo en la mejora del "dimensionamiento y diseño" de infraestructuras hidráulicas tales como esclusas, presas, canales, defensas ribereñas, trasvases o estaciones de bombeo, entre otras. En definitiva, en la construcción de obras de ingeniería cimentadas con el objetivo de controlar el agua para fines de aprovechamiento de protección del entorno, principalmente.
+**La investigación persigue identificar y cuantificar fracciones de caudal de un río en función de su dependencia temporal**, es decir "de la memoria que tenga la cuenca", subraya el director del trabajo. Este logro tendría un alcance directo en la mejora del "dimensionamiento y diseño" de infraestructuras hidráulicas tales como esclusas, presas, canales, defensas ribereñas, trasvases o estaciones de bombeo, entre otras. En definitiva, en la construcción de obras de ingeniería cimentadas con el objetivo de controlar el agua para fines de aprovechamiento de protección del entorno, principalmente.
 
 ## Uso de serie históricas
 
