@@ -88,7 +88,7 @@ Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernaci
 
 |      |            Problema             |                           Objetivo                           |
 | :--: | :-----------------------------: | :----------------------------------------------------------: |
-|  1   | Alto índice de basura arrojada  | Campañas informativas acerca del manejo de basuras y su respectivo reciclaje |
+|  1   | Alto índice de basura arrojada  | Campañas informativas acerca del manejo de basuras y su respectivo reciclaje<br /> |
 |  2   |         Minería ilegal          | Disminuir este tipo de actividades con un plan de choque el cual tenga medidas drásticas en base a lo estipulado en la ley por parte del estado |
 |  3   |  Poca atención de la población  | Crear conciencia en las personas acerca de cuidar el medio ambiente |
 |  4   |   Desecho de residuos sólidos   | Brindar información clave que ayude a las personas a dar un adecuado procedo de eliminación de este tipo de basuras, generada más que todo para los comerciantes de las zonas. |
