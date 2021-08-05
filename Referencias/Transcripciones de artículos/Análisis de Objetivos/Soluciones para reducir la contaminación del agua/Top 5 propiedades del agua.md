@@ -20,7 +20,7 @@ De entre las diferentes propiedades del agua, tanto químicas como físicas, las
 
 2. Otra de las propiedades del agua más singulares tiene que ver con nuestra percepción del agua a través de los sentidos. El agua es inodora, incolora e insípida.
 
-* Salvo cuando contiene sustancias disueltas en ella, el [agua no tiene olor](https://www.fundacionaquae.org/cloracion-agua/). Esto se debe a que está compuesta por oxígeno e hidrógeno en proporción de dos átomos de hidrógeno y uno de oxígeno. Dado que las moléculas de estos componentes químicos son inodoras, el agua hereda de ellas esta propiedad.
+* Salvo cuando contiene sustancias disueltas en ella, el [agua no tiene olor](¿Cómo se produce la cloración del agua?.md). Esto se debe a que está compuesta por oxígeno e hidrógeno en proporción de dos átomos de hidrógeno y uno de oxígeno. Dado que las moléculas de estos componentes químicos son inodoras, el agua hereda de ellas esta propiedad.
 * El agua **no posee color** alguno y en su estado puro es transparente. Los motivos son los mismos por los que es inodora: las moléculas que componen el agua son incoloras.
 * El agua **es insípida**. No tiene un sabor determinado cuando se encuentra en estado puro, si bien cuando contiene sales o aire en disolución presenta cierto sabor.
 
