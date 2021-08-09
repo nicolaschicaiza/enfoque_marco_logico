@@ -1,0 +1,3682 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Anderson2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,uniquepart=given,hash=ac185d4aa5241ecdd5e545c4420dcb64}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Marti\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=2}}%
+      }
+      \strng{namehash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \strng{fullhash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \strng{bibnamehash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \strng{authorbibnamehash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \strng{authornamehash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \strng{authorfullhash}{ac185d4aa5241ecdd5e545c4420dcb64}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0706652X}
+      \field{journaltitle}{Canadian Journal of Fisheries and Aquatic Sciences}
+      \field{number}{3}
+      \field{title}{{Permutation tests for univariate or multivariate analysis of variance and regression}}
+      \field{volume}{58}
+      \field{year}{2001}
+      \field{pages}{626\bibrangedash 639}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1139/cjfas-58-3-626
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/Permutation tests in ecological statistics Anderson2001.pdf:pdf
+      \endverb
+    \endentry
+    \entry{anderson2004cap}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=b20a2403db64c3cb02e22643ebd84b20}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={MJ},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b20a2403db64c3cb02e22643ebd84b20}
+      \strng{fullhash}{b20a2403db64c3cb02e22643ebd84b20}
+      \strng{bibnamehash}{b20a2403db64c3cb02e22643ebd84b20}
+      \strng{authorbibnamehash}{b20a2403db64c3cb02e22643ebd84b20}
+      \strng{authornamehash}{b20a2403db64c3cb02e22643ebd84b20}
+      \strng{authorfullhash}{b20a2403db64c3cb02e22643ebd84b20}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Department of Statistics, University of Auckland, New Zealand}
+      \field{title}{CAP: a FORTRAN computer program for canonical analysis of principal coordinates}
+      \field{year}{2004}
+    \endentry
+    \entry{AnthonyBrowne2011}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=d846284ae9c0cb6176b45253a109b5a3}{%
+           family={{Anthony Browne}},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9cb9b3bdfdfcfe09df9de52f35d7874}{%
+           family={Crump},
+           familyi={C\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d5eed9ba95d99995ed31ef003b696d0}{%
+           family={{J. Niven}},
+           familyi={J\bibinitperiod},
+           given={Stewart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=de9bb632ea28faf6d9abcfdfad6f192c}{%
+           family={Teuten},
+           familyi={T\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2a77bbcd6cf3bbc53471a5a23c204bf}{%
+           family={Tonkin},
+           familyi={T\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b955a00095694c2c87c8275aa372fcce}{%
+           family={Galloway},
+           familyi={G\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=38e8b9291102fa60625ad2a82f093f41}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8f99bda9e5384dc7e14c2a05f84908f}
+      \strng{fullhash}{26db9780bf47bd20b311604772e6c01d}
+      \strng{bibnamehash}{b8f99bda9e5384dc7e14c2a05f84908f}
+      \strng{authorbibnamehash}{b8f99bda9e5384dc7e14c2a05f84908f}
+      \strng{authornamehash}{b8f99bda9e5384dc7e14c2a05f84908f}
+      \strng{authorfullhash}{26db9780bf47bd20b311604772e6c01d}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{{Accumulation of Microplastic on Shorelines Woldwide: Sources and Sinks}}
+      \field{volume}{45}
+      \field{year}{2011}
+      \field{pages}{9175\bibrangedash 9179}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/es201811s
+      \endverb
+    \endentry
+    \entry{Baldwin2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=8ca9c75b4fd67c791107b98d6cd5d3c5}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Austin\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c6c9925098b62ada526c1b214e2e0e7e}{%
+           family={Corsi},
+           familyi={C\bibinitperiod},
+           given={Steven\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc3da7ebacfbc13584dc86e1ddecafca}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Sherri\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \strng{fullhash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \strng{bibnamehash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \strng{authorbibnamehash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \strng{authornamehash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \strng{authorfullhash}{0da0e0ad18bc0cde7ecf75380793b87a}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Plastic Debris in 29 Great Lakes Tributaries: Relations to Watershed Attributes and Hydrology}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1021/acs.est.6b02917
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Baldwin, Corsi, Mason - 2016 - Plastic Debris in 29 Great Lakes Tributaries Relations to Watershed Attributes and Hydrology.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/sharingguidelines
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/sharingguidelines
+      \endverb
+    \endentry
+    \entry{Battulga2019}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=4b78d7488f3be85dbf87420d285763e4}{%
+           family={Battulga},
+           familyi={B\bibinitperiod},
+           given={Batdulam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc089df03a1d1f089095dc1caa03d4c1}{%
+           family={Kawahigashi},
+           familyi={K\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fd6cf0be90ccb9e0c560df8fd85f932d}{%
+           family={Oyuntsetseg},
+           familyi={O\bibinitperiod},
+           given={Bolormaa},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{07f7379880ab7885fc0e378352086f42}
+      \strng{fullhash}{07f7379880ab7885fc0e378352086f42}
+      \strng{bibnamehash}{07f7379880ab7885fc0e378352086f42}
+      \strng{authorbibnamehash}{07f7379880ab7885fc0e378352086f42}
+      \strng{authornamehash}{07f7379880ab7885fc0e378352086f42}
+      \strng{authorfullhash}{07f7379880ab7885fc0e378352086f42}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1614-7499}
+      \field{journaltitle}{Environmental Science and Pollution Research}
+      \field{number}{14}
+      \field{title}{{Distribution and composition of plastic debris along the river shore in the Selenga River basin in Mongolia}}
+      \field{volume}{26}
+      \field{year}{2019}
+      \field{pages}{14059\bibrangedash 14072}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s11356-019-04632-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11356-019-04632-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11356-019-04632-1
+      \endverb
+    \endentry
+    \entry{BESSA2018575}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=01186a7f7dbc8ee62035f573e24d1d42}{%
+           family={Bessa},
+           familyi={B\bibinitperiod},
+           given={Filipa},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea724aea275b1f5ce6673ed948948f28}{%
+           family={Barr{í}a},
+           familyi={B\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d84b2545d8140adc5f60a387ad1caf5}{%
+           family={Neto},
+           familyi={N\bibinitperiod},
+           given={Jo{ã}o\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b34d30d62a2ffca7ee8ea7b653a2125e}{%
+           family={Frias},
+           familyi={F\bibinitperiod},
+           given={Jo{ã}o\bibnamedelimb P\bibnamedelimb G\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f674eadd3b3bd343a7808cf207588e46}{%
+           family={Otero},
+           familyi={O\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f316445430e0e5e167192ac0fedc568f}{%
+           family={Sobral},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2e9a92189c5eaba35bdf21451f6a903}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{496ee6cf865963d619ca2c14d852ad15}
+      \strng{fullhash}{88e5aac12d2bedcc573564899a495be3}
+      \strng{bibnamehash}{496ee6cf865963d619ca2c14d852ad15}
+      \strng{authorbibnamehash}{496ee6cf865963d619ca2c14d852ad15}
+      \strng{authornamehash}{496ee6cf865963d619ca2c14d852ad15}
+      \strng{authorfullhash}{88e5aac12d2bedcc573564899a495be3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{title}{{Occurrence of microplastics in commercial fish from a natural estuarine environment}}
+      \field{volume}{128}
+      \field{year}{2018}
+      \field{pages}{575\bibrangedash 584}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2018.01.044
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X18300547
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X18300547
+      \endverb
+      \keyw{Analytical methods,Estuary,Fibers,Fish,Plastic pollution,$\mu$-FTIR}
+    \endentry
+    \entry{Blettler2017}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=2c36508e49b7e1be4f1bdd34d20e7cff}{%
+           family={Blettler},
+           familyi={B\bibinitperiod},
+           given={Martin\bibnamedelimb C\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4d4d40e86aa09fda874604cab5384640}{%
+           family={Ulla},
+           familyi={U\bibinitperiod},
+           given={Maria\bibnamedelima Alicia},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9a69fb402fcedea75c1dea0dfc32cbe2}{%
+           family={Rabuffetti},
+           familyi={R\bibinitperiod},
+           given={Ana\bibnamedelima Pia},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f76cce9f35eee89b504b4cbf5c91e56c}{%
+           family={Garello},
+           familyi={G\bibinitperiod},
+           given={Nicol{á}s},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d4e53bee64f7a7675bd64ff8aa0d7c1}
+      \strng{fullhash}{0b08af50d23666dd2c676b8a07002e21}
+      \strng{bibnamehash}{9d4e53bee64f7a7675bd64ff8aa0d7c1}
+      \strng{authorbibnamehash}{9d4e53bee64f7a7675bd64ff8aa0d7c1}
+      \strng{authornamehash}{9d4e53bee64f7a7675bd64ff8aa0d7c1}
+      \strng{authorfullhash}{0b08af50d23666dd2c676b8a07002e21}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1573-2959}
+      \field{journaltitle}{Environmental Monitoring and Assessment}
+      \field{number}{11}
+      \field{title}{{Plastic pollution in freshwater ecosystems: macro-, meso-, and microplastic debris in a floodplain lake}}
+      \field{volume}{189}
+      \field{year}{2017}
+      \field{pages}{581}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s10661-017-6305-8
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/a47233130d7c758b0a29acfccf2a5050.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10661-017-6305-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10661-017-6305-8
+      \endverb
+    \endentry
+    \entry{Boucher2017}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=9ad2abd7733c3b1203949178a53e490e}{%
+           family={Boucher},
+           familyi={B\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=47ed988b89a33be24dd55c4545d454a3}{%
+           family={Friot},
+           familyi={F\bibinitperiod},
+           given={Damien},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{593faa49ae024d17e920d73e52ed8448}
+      \strng{fullhash}{593faa49ae024d17e920d73e52ed8448}
+      \strng{bibnamehash}{593faa49ae024d17e920d73e52ed8448}
+      \strng{authorbibnamehash}{593faa49ae024d17e920d73e52ed8448}
+      \strng{authornamehash}{593faa49ae024d17e920d73e52ed8448}
+      \strng{authorfullhash}{593faa49ae024d17e920d73e52ed8448}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Marine Environmental Research}
+      \field{isbn}{9782831718279}
+      \field{title}{{Primary Microplastics in the Oceans}}
+      \field{volume}{111}
+      \field{year}{2017}
+      \field{pages}{18\bibrangedash 26}
+      \range{pages}{9}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/2017-002-En.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2305/IUCN.CH.2017.01.en
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2305/IUCN.CH.2017.01.en
+      \endverb
+    \endentry
+    \entry{doi:10.1139/cjfas-2014-0281}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=61681066e53c276ad98a475a96850b8b}{%
+           family={Casta{ñ}eda},
+           familyi={C\bibinitperiod},
+           given={Rowshyra\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2e92dff4c02438a8daf14d9113bed320}{%
+           family={Avlijas},
+           familyi={A\bibinitperiod},
+           given={Suncica},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=90362c4f45500a5f7b4d30c443928abe}{%
+           family={Simard},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima Anouk},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e70754a193d0f1b7a0088da4a9ee9af8}{%
+           family={Ricciardi},
+           familyi={R\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0afb1ee322269c0684ec5ce0fcc0ef26}
+      \strng{fullhash}{0b7cd9eb04c8a8d2d5c60d206348f568}
+      \strng{bibnamehash}{0afb1ee322269c0684ec5ce0fcc0ef26}
+      \strng{authorbibnamehash}{0afb1ee322269c0684ec5ce0fcc0ef26}
+      \strng{authornamehash}{0afb1ee322269c0684ec5ce0fcc0ef26}
+      \strng{authorfullhash}{0b7cd9eb04c8a8d2d5c60d206348f568}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Canadian Journal of Fisheries and Aquatic Sciences}
+      \field{number}{12}
+      \field{title}{{Microplastic pollution in St. Lawrence River sediments}}
+      \field{volume}{71}
+      \field{year}{2014}
+      \field{pages}{1767\bibrangedash 1771}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1139/cjfas-2014-0281
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1139/cjfas-2014-0281
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1139/cjfas-2014-0281
+      \endverb
+    \endentry
+    \entry{Cheshire2009}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=983c166d1cbd8efa420d336f28f11c3d}{%
+           family={Cheshire},
+           familyi={C\bibinitperiod},
+           given={a},
+           giveni={a\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4f2d7b4ea11bb0c74ba847261fc54e4a}{%
+           family={Adler},
+           familyi={A\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=38bb68e41f467c79603c9a09461d1695}{%
+           family={Barbi{è}re},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3773dc4ab593913e59754f63d05bfb91}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d5382dd9aad3683668c8bd5e139c5a51}
+      \strng{fullhash}{a9f693e1e0b8ce0c0f2e99b7450b9efc}
+      \strng{bibnamehash}{d5382dd9aad3683668c8bd5e139c5a51}
+      \strng{authorbibnamehash}{d5382dd9aad3683668c8bd5e139c5a51}
+      \strng{authornamehash}{d5382dd9aad3683668c8bd5e139c5a51}
+      \strng{authorfullhash}{a9f693e1e0b8ce0c0f2e99b7450b9efc}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{UNEP Regional Seas Reports and Studies, No. 186; IOC Technical Series}
+      \field{isbn}{9789280730272}
+      \field{number}{186}
+      \field{title}{{UNEP/IOC Guidelines on survey and monitoring of marine litter}}
+      \field{year}{2009}
+      \field{pages}{120 pp.}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/Marine_Litter_Survey_and_Monitoring_Guidelines_PublishedForm.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.unep.org/regionalseas/marinelitter/publications/docs/Marine_Litter_Survey_and_Monitoring_Guidelines.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.unep.org/regionalseas/marinelitter/publications/docs/Marine_Litter_Survey_and_Monitoring_Guidelines.pdf
+      \endverb
+    \endentry
+    \entry{Clapp2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=79cfc09588a017373f460083e14117f0}{%
+           family={Clapp},
+           familyi={C\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d01cfacc35eb560c8abaffba4bf02c6}{%
+           family={Swanston},
+           familyi={S\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca88735a57f6a37c86a47d41328887b6}
+      \strng{fullhash}{ca88735a57f6a37c86a47d41328887b6}
+      \strng{bibnamehash}{ca88735a57f6a37c86a47d41328887b6}
+      \strng{authorbibnamehash}{ca88735a57f6a37c86a47d41328887b6}
+      \strng{authornamehash}{ca88735a57f6a37c86a47d41328887b6}
+      \strng{authorfullhash}{ca88735a57f6a37c86a47d41328887b6}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09644016}
+      \field{journaltitle}{Environmental Politics}
+      \field{number}{3}
+      \field{title}{{Doing away with plastic shopping bags: International patterns of norm emergence and policy implementation}}
+      \field{volume}{18}
+      \field{year}{2009}
+      \field{pages}{315\bibrangedash 332}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/09644010902823717
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/Doing away with plastic shopping bags international patterns of norm emergence and policy implementation.pdf:pdf
+      \endverb
+      \keyw{International environmental norms,Material interests,Norm dynamics,Plastic shopping bags,Policy implementation}
+    \endentry
+    \entry{COLE20112588}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=17510fcf15bfee5eb2ef1a0f5102970c}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a1cd210a10409c25d440336740c6f760}{%
+           family={Lindeque},
+           familyi={L\bibinitperiod},
+           given={Pennie},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=336d6204c15965a769b2892dcaf42723}{%
+           family={Halsband},
+           familyi={H\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f99725bf7ee79e05e0dc06d3d0132eb3}{%
+           family={Galloway},
+           familyi={G\bibinitperiod},
+           given={Tamara\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{fullhash}{ad3eeb8d9b995fb7992f4accb13d32c0}
+      \strng{bibnamehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{authorbibnamehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{authornamehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{authorfullhash}{ad3eeb8d9b995fb7992f4accb13d32c0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{12}
+      \field{title}{{Microplastics as contaminants in the marine environment: A review}}
+      \field{volume}{62}
+      \field{year}{2011}
+      \field{pages}{2588\bibrangedash 2597}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2011.09.025
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X11005133
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X11005133
+      \endverb
+      \keyw{Marine litter,Microplastics,Plastic debris,Priority pollutant}
+    \endentry
+    \entry{Conkle2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=68d9a8f42d55ea1d8c4687375b23bc05}{%
+           family={Conkle},
+           familyi={C\bibinitperiod},
+           given={Jeremy\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6f699c66a90fb372569841d5347c623f}{%
+           family={{B{á}ez Del Valle}},
+           familyi={B\bibinitperiod},
+           given={Christian\bibnamedelima D},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=03288d165b72bd36930d77f0f9df2a1c}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Jeffrey\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0186aa7cc2bceb7717745ab176203d94}
+      \strng{fullhash}{0186aa7cc2bceb7717745ab176203d94}
+      \strng{bibnamehash}{0186aa7cc2bceb7717745ab176203d94}
+      \strng{authorbibnamehash}{0186aa7cc2bceb7717745ab176203d94}
+      \strng{authornamehash}{0186aa7cc2bceb7717745ab176203d94}
+      \strng{authorfullhash}{0186aa7cc2bceb7717745ab176203d94}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-1009}
+      \field{journaltitle}{Environmental Management}
+      \field{number}{1}
+      \field{title}{{Are We Underestimating Microplastic Contamination in Aquatic Environments?}}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00267-017-0947-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00267-017-0947-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00267-017-0947-8
+      \endverb
+    \endentry
+    \entry{dris2015microplastic}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=1e1ace1f83039da3741c098cf36e2118}{%
+           family={Dris},
+           familyi={D\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9b9e1a710bbe56dd6f626acc0189980a}{%
+           family={Gasperi},
+           familyi={G\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3287fa415cef7b80a0adf3aa2b61a09e}{%
+           family={Rocher},
+           familyi={R\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=08b51bd7bc1bd6411c963367f4bef996}{%
+           family={Saad},
+           familyi={S\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ec7a5da0df73efb74a47195c67922f7c}{%
+           family={Renault},
+           familyi={R\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=358d7db2eddb41edc113a226d3a41b26}{%
+           family={Tassin},
+           familyi={T\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CSIRO Publishing}%
+      }
+      \strng{namehash}{e2c08489cff33b383873600a76f8fa23}
+      \strng{fullhash}{1ad1a67a6b22f2f8402052e8c1e2588c}
+      \strng{bibnamehash}{e2c08489cff33b383873600a76f8fa23}
+      \strng{authorbibnamehash}{e2c08489cff33b383873600a76f8fa23}
+      \strng{authornamehash}{e2c08489cff33b383873600a76f8fa23}
+      \strng{authorfullhash}{1ad1a67a6b22f2f8402052e8c1e2588c}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Chemistry}
+      \field{number}{5}
+      \field{title}{Microplastic contamination in an urban area: a case study in Greater Paris}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{592\bibrangedash 599}
+      \range{pages}{8}
+    \endentry
+    \entry{ERIKSEN2013177}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=73d3386555ea60adce9a27e416e62ff7}{%
+           family={Eriksen},
+           familyi={E\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=adfe2fbb5ef48382e4ad12ad2bac68cd}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Sherri},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2e8106a5d66124358d5f5d775084228}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Stiv},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=526f13aed30842b67aaf1d56e0f3a2cc}{%
+           family={Box},
+           familyi={B\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1ddc97559ef865948055b6dbf516ef03}{%
+           family={Zellers},
+           familyi={Z\bibinitperiod},
+           given={Ann},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4143af53cf564e50bdc021fc175981bb}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d5f9459a430a43010525839c0b381442}{%
+           family={Farley},
+           familyi={F\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b095b02d95a3b842b05c57958863f0dd}{%
+           family={Amato},
+           familyi={A\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4f0704abdfedfd18e74dd72e288a0470}
+      \strng{fullhash}{acf3ced294985b85902cf8efdfc7d378}
+      \strng{bibnamehash}{4f0704abdfedfd18e74dd72e288a0470}
+      \strng{authorbibnamehash}{4f0704abdfedfd18e74dd72e288a0470}
+      \strng{authornamehash}{4f0704abdfedfd18e74dd72e288a0470}
+      \strng{authorfullhash}{acf3ced294985b85902cf8efdfc7d378}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Microplastic pollution in the surface waters of the Laurentian Great Lakes}}
+      \field{volume}{77}
+      \field{year}{2013}
+      \field{pages}{177\bibrangedash 182}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2013.10.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13006097
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13006097
+      \endverb
+      \keyw{Great Lakes,Marine debris,Microbeads,Microplastic,Plastic pollution}
+    \endentry
+    \entry{espinola2016response}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=e09a93e130747b3ba9c0574f2b4751e5}{%
+           family={Esp{ı́}nola},
+           familyi={E\bibinitperiod},
+           given={Luis\bibnamedelima Alberto},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9a69fb402fcedea75c1dea0dfc32cbe2}{%
+           family={Rabuffetti},
+           familyi={R\bibinitperiod},
+           given={Ana\bibnamedelima Pia},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4c18ec799306655a23d6d8e1e8dd4f71}{%
+           family={Abrial},
+           familyi={A\bibinitperiod},
+           given={Elie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d726625f11214c28427a232b4ca83f0}{%
+           family={Amsler},
+           familyi={A\bibinitperiod},
+           given={Mario\bibnamedelima Luis},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dae96273e080d47708d0d2717a635117}{%
+           family={Blettler},
+           familyi={B\bibinitperiod},
+           given={MCA},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3a70ac3672ede64a16beb49f9b08fe7e}{%
+           family={Paira},
+           familyi={P\bibinitperiod},
+           given={Aldo\bibnamedelima Raul},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=95fbd3b124969950c89fe0f91891d965}{%
+           family={Sim{õ}es},
+           familyi={S\bibinitperiod},
+           given={Nadson\bibnamedelima Ressy{é}},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=76aa4e2a4e45b66986df4e69f37f611f}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={LN},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {CSIRO Publishing}%
+      }
+      \strng{namehash}{2ed135f3caafd812ce81fb2831601446}
+      \strng{fullhash}{c2957b8af1550d2bf872204043a7a0c2}
+      \strng{bibnamehash}{2ed135f3caafd812ce81fb2831601446}
+      \strng{authorbibnamehash}{2ed135f3caafd812ce81fb2831601446}
+      \strng{authornamehash}{2ed135f3caafd812ce81fb2831601446}
+      \strng{authorfullhash}{c2957b8af1550d2bf872204043a7a0c2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marine and Freshwater Research}
+      \field{number}{2}
+      \field{title}{Response of fish assemblage structure to changing flood and flow pulses in a large subtropical river}
+      \field{volume}{68}
+      \field{year}{2016}
+      \field{pages}{319\bibrangedash 330}
+      \range{pages}{12}
+    \endentry
+    \entry{Waterland2013}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4807e0aebe86c17f559853f35515b533}{%
+           family={FAO},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \strng{namehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{fullhash}{4807e0aebe86c17f559853f35515b533}
+      \strng{bibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorbibnamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authornamehash}{4807e0aebe86c17f559853f35515b533}
+      \strng{authorfullhash}{4807e0aebe86c17f559853f35515b533}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780791855669}
+      \field{issn}{0277027X}
+      \field{title}{(Food and Agriculture Organization) The State of World Fisheries and Aquaculture 2016, in Contributing to Food Security and Nutrition for All)}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{20}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1115/PVP2013-97440
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/i5555s.pdf:pdf
+      \endverb
+    \endentry
+    \entry{faure2015}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=216ab99491d499d0e0fd03b31e5cd5df}{%
+           family={Faure},
+           familyi={F\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7aa62eadf9a31d86fd55e624bf776367}{%
+           family={Demars},
+           familyi={D\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3d7676f58647b7c18060588a322134f5}{%
+           family={Wieser},
+           familyi={W\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e53aaaa6de88a4cf7ef3894c497c3f1a}{%
+           family={Kunz},
+           familyi={K\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0dadd845ff04c52699523ec956e4ca5f}{%
+           family={Alencastro},
+           familyi={A\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{9ecd9bf64a11ffe587ff5550eaa7959d}
+      \strng{fullhash}{7402c4c91163c6a09d74f7d47ab993da}
+      \strng{bibnamehash}{9ecd9bf64a11ffe587ff5550eaa7959d}
+      \strng{authorbibnamehash}{9ecd9bf64a11ffe587ff5550eaa7959d}
+      \strng{authornamehash}{9ecd9bf64a11ffe587ff5550eaa7959d}
+      \strng{authorfullhash}{7402c4c91163c6a09d74f7d47ab993da}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Chemistry}
+      \field{title}{{Plastic pollution in Swiss surface waters: Nature and concentrations, interaction with pollutants}}
+      \field{volume}{12}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1071/EN14218
+      \endverb
+    \endentry
+    \entry{FRIAS201489}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=8bc9cfffaca5ad4ff0202e20864358c4}{%
+           family={Frias},
+           familyi={F\bibinitperiod},
+           given={J.P.G.L.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=023a71bd869f34bd61b27bb7433320eb}{%
+           family={Otero},
+           familyi={O\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b6d8b99036af6f7e228f041242499ac3}{%
+           family={Sobral},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{29bd201ecb063686f6ae14e4d474539c}
+      \strng{fullhash}{29bd201ecb063686f6ae14e4d474539c}
+      \strng{bibnamehash}{29bd201ecb063686f6ae14e4d474539c}
+      \strng{authorbibnamehash}{29bd201ecb063686f6ae14e4d474539c}
+      \strng{authornamehash}{29bd201ecb063686f6ae14e4d474539c}
+      \strng{authorfullhash}{29bd201ecb063686f6ae14e4d474539c}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0141-1136}
+      \field{journaltitle}{Marine Environmental Research}
+      \field{title}{{Evidence of microplastics in samples of zooplankton from Portuguese coastal waters}}
+      \field{volume}{95}
+      \field{year}{2014}
+      \field{pages}{89\bibrangedash 95}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marenvres.2014.01.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0141113614000099
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0141113614000099
+      \endverb
+      \keyw{FTIR,MSFD,Microplastics,Plastic,Portugal,Zooplankton}
+    \endentry
+    \entry{GASPERI2014163}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=9b9e1a710bbe56dd6f626acc0189980a}{%
+           family={Gasperi},
+           familyi={G\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e1ace1f83039da3741c098cf36e2118}{%
+           family={Dris},
+           familyi={D\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=850620f15950d8161fbc1cf31b566295}{%
+           family={Bonin},
+           familyi={B\bibinitperiod},
+           given={Tiffany},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3287fa415cef7b80a0adf3aa2b61a09e}{%
+           family={Rocher},
+           familyi={R\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=358d7db2eddb41edc113a226d3a41b26}{%
+           family={Tassin},
+           familyi={T\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b94f10a92964586038ff7282408e219d}
+      \strng{fullhash}{b96dce263b033e084a68052f4c24f006}
+      \strng{bibnamehash}{b94f10a92964586038ff7282408e219d}
+      \strng{authorbibnamehash}{b94f10a92964586038ff7282408e219d}
+      \strng{authornamehash}{b94f10a92964586038ff7282408e219d}
+      \strng{authorfullhash}{b96dce263b033e084a68052f4c24f006}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Assessment of floating plastic debris in surface water along the Seine River}}
+      \field{volume}{195}
+      \field{year}{2014}
+      \field{pages}{163\bibrangedash 166}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2014.09.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749114003807
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749114003807
+      \endverb
+      \keyw{Floating plastic litter,Plastic loads,River,Riverine litter}
+    \endentry
+    \entry{gouin2015}{article}{}
+      \name{author}{13}{}{%
+        {{uniquename=0,uniquepart=base,hash=ce155185a79452aa83207b06d6709dd0}{%
+           family={Gouin},
+           familyi={G\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ff7ff10f747d0a84c1daa78437f21f0d}{%
+           family={Avalos},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dbfde4f9e5f692530c5eefba041dbeca}{%
+           family={Brunning},
+           familyi={B\bibinitperiod},
+           given={Iain},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e5ff30b855cc98ea27f973b2966ca758}{%
+           family={Brzuska},
+           familyi={B\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=47420ac6e35c07372e5d07e394e3028c}{%
+           family={De},
+           familyi={D\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ab419600cf8bc7eaecc526313e911bd8}{%
+           family={Kaumanns},
+           familyi={K\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=01505732b2bcc457e3325af621e0825f}{%
+           family={Konong},
+           familyi={K\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ad79ff996122ee9706880de2dd33c101}{%
+           family={Meyberg},
+           familyi={M\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=edd26b2e0b13b8628094dcfa14f29c71}{%
+           family={Rettinger},
+           familyi={R\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6bd2df04e6591e49e9cbf722ee8a4c16}{%
+           family={Schlatter},
+           familyi={S\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=29aea1e2950ea1d9bd548d591d18a37e}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f76dcf2fa9685c072b1574f1afbc11d5}{%
+           family={Van},
+           familyi={V\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9018a5f760a7d0513c792f01bd7bc621}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93edd41108aa8ef02baaf412817c8da8}
+      \strng{fullhash}{9755cb84a058cc2530b26865a737e9f9}
+      \strng{bibnamehash}{93edd41108aa8ef02baaf412817c8da8}
+      \strng{authorbibnamehash}{93edd41108aa8ef02baaf412817c8da8}
+      \strng{authornamehash}{93edd41108aa8ef02baaf412817c8da8}
+      \strng{authorfullhash}{9755cb84a058cc2530b26865a737e9f9}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SOFW-Journal}
+      \field{title}{{Use of micro-plastic beads in cosmetic products in Europe and their estimated emissions to the North Sea environment}}
+      \field{volume}{141}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+    \endentry
+    \entry{GUERRERO2013220}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc961f83ebf5f041c64f98e4cf7e0c8d}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Lilliana\bibnamedelima Abarca},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb4c4c828a0262007afef5cd135fe043}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Ger},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=908b3bc48162b5c896bf1307cf95f2c6}{%
+           family={Hogland},
+           familyi={H\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \strng{fullhash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \strng{bibnamehash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \strng{authorbibnamehash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \strng{authornamehash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \strng{authorfullhash}{202f263f8a4c6bb1d9f6cc39c42d6e00}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0956-053X}
+      \field{journaltitle}{Waste Management}
+      \field{number}{1}
+      \field{title}{{Solid waste management challenges for cities in developing countries}}
+      \field{volume}{33}
+      \field{year}{2013}
+      \field{pages}{220\bibrangedash 232}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.wasman.2012.09.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X12004205
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X12004205
+      \endverb
+      \keyw{Developing countries,Generation rate,Influential factor,Management,Quality,Stakeholder,Integrated solid waste}
+    \endentry
+    \entry{GUNDOGDU2017341}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=3d3c49e9cc7ba8eed6eeda01310921c8}{%
+           family={G{ü}ndoğdu},
+           familyi={G\bibinitperiod},
+           given={Sedat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=540bdb62d2a81706911ad1e0b4748145}{%
+           family={{Ç}evik},
+           familyi={Ç\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0267ed4982d6b44ade162725020b64f0}
+      \strng{fullhash}{0267ed4982d6b44ade162725020b64f0}
+      \strng{bibnamehash}{0267ed4982d6b44ade162725020b64f0}
+      \strng{authorbibnamehash}{0267ed4982d6b44ade162725020b64f0}
+      \strng{authornamehash}{0267ed4982d6b44ade162725020b64f0}
+      \strng{authorfullhash}{0267ed4982d6b44ade162725020b64f0}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Micro- and mesoplastics in Northeast Levantine coast of Turkey: The preliminary results from surface samples}}
+      \field{volume}{118}
+      \field{year}{2017}
+      \field{pages}{341\bibrangedash 347}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2017.03.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X17302084
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X17302084
+      \endverb
+      \keyw{Iskenderun Bay,Levantine Sea,Marine litter,Mersin Bay,Mesoplastic,Microplastic}
+    \endentry
+    \entry{GUNDOGDU2018342}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=3d3c49e9cc7ba8eed6eeda01310921c8}{%
+           family={G{ü}ndoğdu},
+           familyi={G\bibinitperiod},
+           given={Sedat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=540bdb62d2a81706911ad1e0b4748145}{%
+           family={{Ç}evik},
+           familyi={Ç\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d77b6a83698f50c640f7b17873b66903}{%
+           family={Ayat},
+           familyi={A\bibinitperiod},
+           given={Berna},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=973f7af9e548c9c92488ffa658ca48eb}{%
+           family={Aydoğan},
+           familyi={A\bibinitperiod},
+           given={Burak},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e226d5162d93bf1e5eae9fee88fb85cd}{%
+           family={Karaca},
+           familyi={K\bibinitperiod},
+           given={Serkan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df9a62e4dfabfd10477bdf05fdc20843}
+      \strng{fullhash}{c731abc0f4fb2634c1739ddbffd606ab}
+      \strng{bibnamehash}{df9a62e4dfabfd10477bdf05fdc20843}
+      \strng{authorbibnamehash}{df9a62e4dfabfd10477bdf05fdc20843}
+      \strng{authornamehash}{df9a62e4dfabfd10477bdf05fdc20843}
+      \strng{authorfullhash}{c731abc0f4fb2634c1739ddbffd606ab}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{How microplastics quantities increase with flood events? An example from Mersin Bay NE Levantine coast of Turkey}}
+      \field{volume}{239}
+      \field{year}{2018}
+      \field{pages}{342\bibrangedash 350}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2018.04.042
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749118300939
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749118300939
+      \endverb
+      \keyw{ATR FT-IR,Levantine sea,Marine litter,Mersin bay,Rain flood,Microplastic}
+    \endentry
+    \entry{Guterl2012}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0352a446ed6b3abed2317be59b2e96e1}{%
+           family={Guterl},
+           familyi={G\bibinitperiod},
+           given={Fred},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0352a446ed6b3abed2317be59b2e96e1}
+      \strng{fullhash}{0352a446ed6b3abed2317be59b2e96e1}
+      \strng{bibnamehash}{0352a446ed6b3abed2317be59b2e96e1}
+      \strng{authorbibnamehash}{0352a446ed6b3abed2317be59b2e96e1}
+      \strng{authornamehash}{0352a446ed6b3abed2317be59b2e96e1}
+      \strng{authorfullhash}{0352a446ed6b3abed2317be59b2e96e1}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Best Countries in Science: SA's Global Science Scorecard - Scientific American Blog Network}}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://blogs.scientificamerican.com/observations/best-countries-in-science-sas-global-science-scorecard/
+      \endverb
+      \verb{url}
+      \verb https://blogs.scientificamerican.com/observations/best-countries-in-science-sas-global-science-scorecard/
+      \endverb
+    \endentry
+    \entry{Hidalgo-Ruz2012}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=a496e1fac3449c5f0ee604d84c48ea92}{%
+           family={Hidalgo-Ruz},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Valeria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=899fb5234a1bf1c6773bc20a6d66d1f1}{%
+           family={Gutow},
+           familyi={G\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b0a285a19fbc5434a69f91627c502316}{%
+           family={{C. Thompson}},
+           familyi={C\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52c54a8f83674be311ab0e53b3bbff0d}{%
+           family={Thiel},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f2c4047cead8af25b4a8b01bf30f7b2a}
+      \strng{fullhash}{891043d4d8f9b3ae7c4bf138600959d6}
+      \strng{bibnamehash}{f2c4047cead8af25b4a8b01bf30f7b2a}
+      \strng{authorbibnamehash}{f2c4047cead8af25b4a8b01bf30f7b2a}
+      \strng{authornamehash}{f2c4047cead8af25b4a8b01bf30f7b2a}
+      \strng{authorfullhash}{891043d4d8f9b3ae7c4bf138600959d6}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{3}
+      \field{number}{6}
+      \field{title}{{Microplastics in the Marine Environment: A Review of the Methods Used for Identification and Quantification}}
+      \field{volume}{46}
+      \field{year}{2012}
+      \field{pages}{3060\bibrangedash 3075}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1021/es2031505
+      \endverb
+    \endentry
+    \entry{imhof2013contamination}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=13a38ca1bc5b2732ac357368919badcd}{%
+           family={Imhof},
+           familyi={I\bibinitperiod},
+           given={Hannes\bibnamedelima K},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2d572fda6702fed6452a54022b6e162}{%
+           family={Ivleva},
+           familyi={I\bibinitperiod},
+           given={Natalia\bibnamedelima P},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7695c77bd727f44b903c2ca74df19e6e}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bfb9836124fe803dda23f6bf5fd34185}{%
+           family={Niessner},
+           familyi={N\bibinitperiod},
+           given={Reinhard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=551d39767d7bae7860e8e771495e4039}{%
+           family={Laforsch},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0bfca70166c24ff78f394d16c4000118}
+      \strng{fullhash}{5d487535a89af781284f779dc5033f3e}
+      \strng{bibnamehash}{0bfca70166c24ff78f394d16c4000118}
+      \strng{authorbibnamehash}{0bfca70166c24ff78f394d16c4000118}
+      \strng{authornamehash}{0bfca70166c24ff78f394d16c4000118}
+      \strng{authorfullhash}{5d487535a89af781284f779dc5033f3e}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Current biology}
+      \field{number}{19}
+      \field{title}{Contamination of beach sediments of a subalpine lake with microplastic particles}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{R867\bibrangedash R868}
+      \range{pages}{-1}
+    \endentry
+    \entry{JABEEN2017141}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=d7b141699234dfc991ea0b5b4cfb905e}{%
+           family={Jabeen},
+           familyi={J\bibinitperiod},
+           given={Khalida},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c785f69679e4a39d3a55a3b9256e86f}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f4377eb8d15cb252b6965e14f24b5de4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae982f807a4176cb782f4adcb938a10a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dongqi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=859c73a870665e0d250e168a8ccb8d15}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Chunfu},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a6b2456976f6fdfac0485adc0fd97b2}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={Jingli},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b666723c2006d1a0f3ef4a5370461175}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Huahong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4a81b6cba31224e78513a1fe804f16f}
+      \strng{fullhash}{8cc4c20755e1cae9769db05cc3f6c67b}
+      \strng{bibnamehash}{c4a81b6cba31224e78513a1fe804f16f}
+      \strng{authorbibnamehash}{c4a81b6cba31224e78513a1fe804f16f}
+      \strng{authornamehash}{c4a81b6cba31224e78513a1fe804f16f}
+      \strng{authorfullhash}{8cc4c20755e1cae9769db05cc3f6c67b}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics and mesoplastics in fish from coastal and fresh waters of China}}
+      \field{volume}{221}
+      \field{year}{2017}
+      \field{pages}{141\bibrangedash 149}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.11.055
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116311666
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116311666
+      \endverb
+      \keyw{Fish,Ingestion,Marine debris,Mesoplastics,Microplastics}
+    \endentry
+    \entry{Kaza2018}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=10160f41e48b7ecf7233cf4a7bc1b6cc}{%
+           family={Kaza},
+           familyi={K\bibinitperiod},
+           given={Silpa},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=75438de7a8ef0fc9a8a0ada83c06d5da}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b53b61adfe1e09e19908b2ebf36df379}{%
+           family={Bhada-Tata},
+           familyi={B\bibinithyphendelim T\bibinitperiod},
+           given={Perinaz},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=28a9a494133a7d3f36dcede2bee0baa7}{%
+           family={{Van Woerden}},
+           familyi={V\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4b233a7f35d274f38b58b9a9c597237}
+      \strng{fullhash}{3ca4c6f57d75b88ca8a12de4e9c6faa8}
+      \strng{bibnamehash}{b4b233a7f35d274f38b58b9a9c597237}
+      \strng{authorbibnamehash}{b4b233a7f35d274f38b58b9a9c597237}
+      \strng{authornamehash}{b4b233a7f35d274f38b58b9a9c597237}
+      \strng{authorfullhash}{3ca4c6f57d75b88ca8a12de4e9c6faa8}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{World Bank}
+      \field{isbn}{9781464813290}
+      \field{title}{{What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050}}
+      \field{year}{2018}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/9781464813290.pdf:pdf
+      \endverb
+    \endentry
+    \entry{ALKHATIB20101131}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=71ae00e95339716043b9ba2fad5c7721}{%
+           family={Al-Khatib},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Issam\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c14ac833e38009241e80b723590bffae}{%
+           family={Monou},
+           familyi={M\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6634e03f58d4b0d21f9a2290086b219}{%
+           family={{Abu Zahra}},
+           familyi={A\bibinitperiod},
+           given={Abdul\bibnamedelimb Salam\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a6e856c889d74c2511b1c7f954afc88c}{%
+           family={Shaheen},
+           familyi={S\bibinitperiod},
+           given={Hafez\bibnamedelima Q},
+           giveni={H\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f5bb24f8af9bb3c36d0ee808806e8dd6}{%
+           family={Kassinos},
+           familyi={K\bibinitperiod},
+           given={Despo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b3b7e58d08cd5a32dcab39ebd4ebbd1}
+      \strng{fullhash}{59fe0dc859ca90354148938fb21b40f1}
+      \strng{bibnamehash}{3b3b7e58d08cd5a32dcab39ebd4ebbd1}
+      \strng{authorbibnamehash}{3b3b7e58d08cd5a32dcab39ebd4ebbd1}
+      \strng{authornamehash}{3b3b7e58d08cd5a32dcab39ebd4ebbd1}
+      \strng{authorfullhash}{59fe0dc859ca90354148938fb21b40f1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0301-4797}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{number}{5}
+      \field{title}{{Solid waste characterization, quantification and management practices in developing countries. A case study: Nablus district – Palestine}}
+      \field{volume}{91}
+      \field{year}{2010}
+      \field{pages}{1131\bibrangedash 1138}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jenvman.2010.01.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479710000046
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479710000046
+      \endverb
+      \keyw{Municipal solid waste,Palestine,Waste characteristics,Waste disposal,Waste management,Developing countries}
+    \endentry
+    \entry{Klein2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=23cc460cfd74e3e7ecf74cb4e18eb466}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Sascha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f7316aef1dc1f9def2398c028dced141}{%
+           family={Worch},
+           familyi={W\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=de5ba54b9dacb4dd4087ba5509747b03}{%
+           family={{P. Knepper}},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \strng{fullhash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \strng{bibnamehash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \strng{authorbibnamehash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \strng{authornamehash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \strng{authorfullhash}{5e90d7aed6321fe41b1fa2659477ee9a}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{{Occurrence and Spatial Distribution of Microplastics in River Shore Sediments of the Rhine-Main Area in Germany}}
+      \field{volume}{49}
+      \field{year}{2015}
+      \field{pages}{6070\bibrangedash 6076}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/acs.est.5b00492
+      \endverb
+    \endentry
+    \entry{LAHENS2018661}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=1f90338be323c6e9a5c5360ae99db587}{%
+           family={Lahens},
+           familyi={L\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=915368441aff375b4b66a227fdd3a214}{%
+           family={Strady},
+           familyi={S\bibinitperiod},
+           given={Emilie},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=14e887a07e4b66632d7b2087cc6fc1ac}{%
+           family={Kieu-Le},
+           familyi={K\bibinithyphendelim L\bibinitperiod},
+           given={Thuy-Chung},
+           giveni={T\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e1ace1f83039da3741c098cf36e2118}{%
+           family={Dris},
+           familyi={D\bibinitperiod},
+           given={Rachid},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7cfa10c28ce4d913e69b6aa9c4e4ed86}{%
+           family={Boukerma},
+           familyi={B\bibinitperiod},
+           given={Kada},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b4a8cbced722ec7fd9dfccfac4765f03}{%
+           family={Rinnert},
+           familyi={R\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9b9e1a710bbe56dd6f626acc0189980a}{%
+           family={Gasperi},
+           familyi={G\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=358d7db2eddb41edc113a226d3a41b26}{%
+           family={Tassin},
+           familyi={T\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06faf83e04ae71f31ed67a5eae4faf18}
+      \strng{fullhash}{9c746b2b3e9b9a0f3100453a8da1462e}
+      \strng{bibnamehash}{06faf83e04ae71f31ed67a5eae4faf18}
+      \strng{authorbibnamehash}{06faf83e04ae71f31ed67a5eae4faf18}
+      \strng{authornamehash}{06faf83e04ae71f31ed67a5eae4faf18}
+      \strng{authorfullhash}{9c746b2b3e9b9a0f3100453a8da1462e}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Macroplastic and microplastic contamination assessment of a tropical river (Saigon River, Vietnam) transversed by a developing megacity}}
+      \field{volume}{236}
+      \field{year}{2018}
+      \field{pages}{661\bibrangedash 671}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2018.02.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749117330579
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749117330579
+      \endverb
+      \keyw{Anthropogenic fibers,Contamination,Macroplastic,Urban river,Microplastic}
+    \endentry
+    \entry{LATRUBESSE2008130}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=c398e65d65b11d8e92879a31a3722788}{%
+           family={Latrubesse},
+           familyi={L\bibinitperiod},
+           given={Edgardo\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c398e65d65b11d8e92879a31a3722788}
+      \strng{fullhash}{c398e65d65b11d8e92879a31a3722788}
+      \strng{bibnamehash}{c398e65d65b11d8e92879a31a3722788}
+      \strng{authorbibnamehash}{c398e65d65b11d8e92879a31a3722788}
+      \strng{authornamehash}{c398e65d65b11d8e92879a31a3722788}
+      \strng{authorfullhash}{c398e65d65b11d8e92879a31a3722788}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{The 39th Annual Binghamton Geomorphology Symposium: Fluvial Deposits and Environmental History: Geoarchaeology, Paleohydrology, and Adjustment to Environmental Change}
+      \field{issn}{0169-555X}
+      \field{journaltitle}{Geomorphology}
+      \field{number}{1}
+      \field{title}{{Patterns of anabranching channels: The ultimate end-member adjustment of mega rivers}}
+      \field{volume}{101}
+      \field{year}{2008}
+      \field{pages}{130\bibrangedash 145}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.geomorph.2008.05.035
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169555X08002389
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169555X08002389
+      \endverb
+      \keyw{Amazon River,Anabranching,Channel patterns,Hydraulic geometry,Large rivers}
+    \endentry
+    \entry{Lebreton2017}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=e19b84939281038789d7ee414f0d2b46}{%
+           family={Lebreton},
+           familyi={L\bibinitperiod},
+           given={Laurent\bibnamedelimb C\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5824c58310d32d4d7c078896aea78301}{%
+           family={{Van Der Zwet}},
+           familyi={V\bibinitperiod},
+           given={Joost},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7bcf4ee0756d25e2b6618c1ea491bf3}{%
+           family={Damsteeg},
+           familyi={D\bibinitperiod},
+           given={Jan-Willem},
+           giveni={J\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=077c2f72a8a6dbdcc160380b23a650d8}{%
+           family={Slat},
+           familyi={S\bibinitperiod},
+           given={Boyan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb3247ce950df702fe5345e8ce91f497}{%
+           family={Andrady},
+           familyi={A\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eb5b53963e4e2887e3f2800cd8c637aa}{%
+           family={Reisser},
+           familyi={R\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0927f9d9a360dc15f905d42ebfc0796}
+      \strng{fullhash}{36d862d09a35a515f5c718689e3d4ca8}
+      \strng{bibnamehash}{a0927f9d9a360dc15f905d42ebfc0796}
+      \strng{authorbibnamehash}{a0927f9d9a360dc15f905d42ebfc0796}
+      \strng{authornamehash}{a0927f9d9a360dc15f905d42ebfc0796}
+      \strng{authorfullhash}{36d862d09a35a515f5c718689e3d4ca8}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{ARTICLE River plastic emissions to the world's oceans}}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1038/ncomms15611
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Lebreton et al. - 2017 - ARTICLE River plastic emissions to the world's oceans.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.nature.com/naturecommunications
+      \endverb
+      \verb{url}
+      \verb www.nature.com/naturecommunications
+      \endverb
+    \endentry
+    \entry{LI2016177}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=f4377eb8d15cb252b6965e14f24b5de4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4214009d3a274fc9cffd5572e946511b}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Xiaoyun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c785f69679e4a39d3a55a3b9256e86f}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ac27c4113dfb3b302740f841d0f03b89}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae982f807a4176cb782f4adcb938a10a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dongqi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4fea3da8bb3a2ca11f5bf58c9a778466}{%
+           family={Kolandhasamy},
+           familyi={K\bibinitperiod},
+           given={Prabhu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=56e844f695abf3b74a770db92b9624e8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Daoji},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b666723c2006d1a0f3ef4a5370461175}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Huahong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5d3a71c63435cfb899c86514153568b5}
+      \strng{fullhash}{72df36c89b349a6860118db8ddfec990}
+      \strng{bibnamehash}{5d3a71c63435cfb899c86514153568b5}
+      \strng{authorbibnamehash}{5d3a71c63435cfb899c86514153568b5}
+      \strng{authornamehash}{5d3a71c63435cfb899c86514153568b5}
+      \strng{authorfullhash}{72df36c89b349a6860118db8ddfec990}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics in mussels along the coastal waters of China}}
+      \field{volume}{214}
+      \field{year}{2016}
+      \field{pages}{177\bibrangedash 184}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.04.012
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116302767
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116302767
+      \endverb
+      \keyw{Biomonitoring,Mussels,Seafood,Microplastic}
+    \endentry
+    \entry{lippiatt2013marine}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=f9156d0902e8c7fb101640eff1ecde22}{%
+           family={Lippiatt},
+           familyi={L\bibinitperiod},
+           given={Sherry},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4c4e224abc30ab98faf498279e41fc94}{%
+           family={Opfer},
+           familyi={O\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=21265dfdcfe7cf96a18b7f875ab88e5a}{%
+           family={Arthur},
+           familyi={A\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {NOAA Marine Debris Division}%
+      }
+      \strng{namehash}{dcb37142aca6e299d8ab127d8819156d}
+      \strng{fullhash}{dcb37142aca6e299d8ab127d8819156d}
+      \strng{bibnamehash}{dcb37142aca6e299d8ab127d8819156d}
+      \strng{authorbibnamehash}{dcb37142aca6e299d8ab127d8819156d}
+      \strng{authornamehash}{dcb37142aca6e299d8ab127d8819156d}
+      \strng{authorfullhash}{dcb37142aca6e299d8ab127d8819156d}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Marine debris monitoring and assessment: recommendations for monitoring debris trends in the marine environment.}
+      \field{year}{2013}
+    \endentry
+    \entry{Mani2015}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=511bf267b691296f969362a18875851a}{%
+           family={Mani},
+           familyi={M\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9c136cea7d33193fb0a643c17aaa8a3}{%
+           family={Hauk},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30727cfe09905572442e03869191f505}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c97425a73d5a98960aebdf278b7fed12}{%
+           family={Burkhardt-Holm},
+           familyi={B\bibinithyphendelim H\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6f5c84135d132d8a874045e9c476d0d2}
+      \strng{fullhash}{ae56201b069724111a59dca47e0b1201}
+      \strng{bibnamehash}{6f5c84135d132d8a874045e9c476d0d2}
+      \strng{authorbibnamehash}{6f5c84135d132d8a874045e9c476d0d2}
+      \strng{authornamehash}{6f5c84135d132d8a874045e9c476d0d2}
+      \strng{authorfullhash}{ae56201b069724111a59dca47e0b1201}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{{Microplastics profile along the Rhine River}}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{17988}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep17988
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/srep17988
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/srep17988
+      \endverb
+    \endentry
+    \entry{masura2015laboratory}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=90bd3dcf2d330d152054cb2a13cef5c4}{%
+           family={Masura},
+           familyi={M\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7609b45d7ea07b7cc859900bf4e6351b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=18c05ea02bd4fc79c73cec28362acb08}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=21265dfdcfe7cf96a18b7f875ab88e5a}{%
+           family={Arthur},
+           familyi={A\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {NOAA Marine Debris Division}%
+      }
+      \strng{namehash}{d368e618956cb4bfa68d84b63fb4531c}
+      \strng{fullhash}{adf6c363c25604310dbad20965056d0e}
+      \strng{bibnamehash}{d368e618956cb4bfa68d84b63fb4531c}
+      \strng{authorbibnamehash}{d368e618956cb4bfa68d84b63fb4531c}
+      \strng{authornamehash}{d368e618956cb4bfa68d84b63fb4531c}
+      \strng{authorfullhash}{adf6c363c25604310dbad20965056d0e}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laboratory Methods for the Analysis of Microplastics in the Marine Environment: Recommendations for quantifying synthetic particles in waters and sediments.}
+      \field{year}{2015}
+    \endentry
+    \entry{MINGHUA20091227}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=3ec6738e51d4ca723aea839eee9aa396}{%
+           family={Minghua},
+           familyi={M\bibinitperiod},
+           given={Zhu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ab0bb17506789794d5b6081ff57ad10a}{%
+           family={Xiumin},
+           familyi={X\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7426b39cfea21a441002c892c3108992}{%
+           family={Rovetta},
+           familyi={R\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b25e03725beb279c25b02086c39e5366}{%
+           family={Qichang},
+           familyi={Q\bibinitperiod},
+           given={He},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5bfd93c0380e06752c8e40f664046717}{%
+           family={Vicentini},
+           familyi={V\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5f714953efb9973eb91074942b157dbd}{%
+           family={Bingkai},
+           familyi={B\bibinitperiod},
+           given={Liu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=af137747f0b7c60b5f19a8827f74f728}{%
+           family={Giusti},
+           familyi={G\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c67ecef9e01eb6f56dfceacd79e8077}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Liu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f128c435982a89d77252e2c2df89b71}
+      \strng{fullhash}{32a1b0849a5313dbfcb7e7a9b0d4d1ac}
+      \strng{bibnamehash}{2f128c435982a89d77252e2c2df89b71}
+      \strng{authorbibnamehash}{2f128c435982a89d77252e2c2df89b71}
+      \strng{authornamehash}{2f128c435982a89d77252e2c2df89b71}
+      \strng{authorfullhash}{32a1b0849a5313dbfcb7e7a9b0d4d1ac}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0956-053X}
+      \field{journaltitle}{Waste Management}
+      \field{number}{3}
+      \field{title}{{Municipal solid waste management in Pudong New Area, China}}
+      \field{volume}{29}
+      \field{year}{2009}
+      \field{pages}{1227\bibrangedash 1233}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.wasman.2008.07.016
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X08002924
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0956053X08002924
+      \endverb
+    \endentry
+    \entry{MORRITT2014196}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=626610d0d23789fc8862f25f577920a3}{%
+           family={Morritt},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7efd1d3de8e7a333b4c9e05cbed44ec9}{%
+           family={Stefanoudis},
+           familyi={S\bibinitperiod},
+           given={Paris\bibnamedelima V},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9973db763a67fec07354615f50e9a0a6}{%
+           family={Pearce},
+           familyi={P\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=972464a749c98e4d2b8a1b47797ef3c8}{%
+           family={Crimmen},
+           familyi={C\bibinitperiod},
+           given={Oliver\bibnamedelima A},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=19b75b9807f10a3c7f1c3e98a210de33}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Paul\bibnamedelima F},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{185cdf760fcaaa1070cd6b21ef7cc9d9}
+      \strng{fullhash}{4ca264d6d6c3ede83d4f2003bbf3162b}
+      \strng{bibnamehash}{185cdf760fcaaa1070cd6b21ef7cc9d9}
+      \strng{authorbibnamehash}{185cdf760fcaaa1070cd6b21ef7cc9d9}
+      \strng{authornamehash}{185cdf760fcaaa1070cd6b21ef7cc9d9}
+      \strng{authorfullhash}{4ca264d6d6c3ede83d4f2003bbf3162b}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Plastic in the Thames: A river runs through it}}
+      \field{volume}{78}
+      \field{year}{2014}
+      \field{pages}{196\bibrangedash 200}
+      \range{pages}{5}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2013.10.035
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13006565
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13006565
+      \endverb
+      \keyw{Fyke-nets,Plastics,River Thames,Sanitary products,United Kingdom,Estuary}
+    \endentry
+    \entry{msfd2013guidance}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ddb8254884f7c09474915383d41288d4}{%
+           family={MSFD},
+           familyi={M\bibinitperiod},
+           given={TSGML},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddb8254884f7c09474915383d41288d4}
+      \strng{fullhash}{ddb8254884f7c09474915383d41288d4}
+      \strng{bibnamehash}{ddb8254884f7c09474915383d41288d4}
+      \strng{authorbibnamehash}{ddb8254884f7c09474915383d41288d4}
+      \strng{authornamehash}{ddb8254884f7c09474915383d41288d4}
+      \strng{authorfullhash}{ddb8254884f7c09474915383d41288d4}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{A Guidance Document within the Common Implementation Strategy for the Marine Strategy Framework Directive. Technical Subgroup on Marine Litter. Luxembourg: Publications Office of the European Union}
+      \field{title}{Guidance on monitoring of marine litter in European seas}
+      \field{volume}{26113}
+      \field{year}{2013}
+    \endentry
+    \entry{NAPPER2015178}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=d3f011c5c04c18c997951ea4b8f567c5}{%
+           family={Napper},
+           familyi={N\bibinitperiod},
+           given={Imogen\bibnamedelima E},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=19df4623cbffe9df244db7a39788a64b}{%
+           family={Bakir},
+           familyi={B\bibinitperiod},
+           given={Adil},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=27c17a1ad7a42adedce73b1d0222906d}{%
+           family={Rowland},
+           familyi={R\bibinitperiod},
+           given={Steven\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2b64117b910640897e189f2f0ad7b7a7}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Richard\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e665563a02bf6fcfaa10d439ee6bc0}
+      \strng{fullhash}{02506907bf517a19771742715e0abb8b}
+      \strng{bibnamehash}{20e665563a02bf6fcfaa10d439ee6bc0}
+      \strng{authorbibnamehash}{20e665563a02bf6fcfaa10d439ee6bc0}
+      \strng{authornamehash}{20e665563a02bf6fcfaa10d439ee6bc0}
+      \strng{authorfullhash}{02506907bf517a19771742715e0abb8b}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Characterisation, quantity and sorptive properties of microplastics extracted from cosmetics}}
+      \field{volume}{99}
+      \field{year}{2015}
+      \field{pages}{178\bibrangedash 185}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2015.07.029
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X1500449X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X1500449X
+      \endverb
+      \keyw{Contaminant,Exfoliating microbeads,Ocean pollution,Polyethylene,Microplastic}
+    \endentry
+    \entry{noren2007small}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2efb8662c3e31332db1b934a05ef7388}{%
+           family={Nor{é}n},
+           familyi={N\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2efb8662c3e31332db1b934a05ef7388}
+      \strng{fullhash}{2efb8662c3e31332db1b934a05ef7388}
+      \strng{bibnamehash}{2efb8662c3e31332db1b934a05ef7388}
+      \strng{authorbibnamehash}{2efb8662c3e31332db1b934a05ef7388}
+      \strng{authornamehash}{2efb8662c3e31332db1b934a05ef7388}
+      \strng{authorfullhash}{2efb8662c3e31332db1b934a05ef7388}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kimo Sweden}
+      \field{title}{Small plastic particles in coastal Swedish waters}
+      \field{volume}{11}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{OU2018317}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b826095471c3d4b7cabfc783d5dc4a33}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Huase},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dde6137b2f717b60e31bd2d21a86716b}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Eddy\bibnamedelima Y},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=dde6137b2f717b60e31bd2d21a86716b}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Eddy\bibnamedelima Y},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{fullhash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{bibnamehash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{authorbibnamehash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{authornamehash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{authorfullhash}{bb0c3665cd41c7acd43369bb84700450}
+      \strng{editorbibnamehash}{dde6137b2f717b60e31bd2d21a86716b}
+      \strng{editornamehash}{dde6137b2f717b60e31bd2d21a86716b}
+      \strng{editorfullhash}{dde6137b2f717b60e31bd2d21a86716b}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Microplastic Contamination in Aquatic Environments}
+      \field{isbn}{978-0-12-813747-5}
+      \field{title}{{Chapter 10 - Occurrence and Fate of Microplastics in Wastewater Treatment Plants}}
+      \field{year}{2018}
+      \field{pages}{317\bibrangedash 338}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-813747-5.00010-2
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128137475000102
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128137475000102
+      \endverb
+      \keyw{Discharge,Microbeads,Microfiber,Wastewater treatment plant,Microplastics}
+    \endentry
+    \entry{PAZOS2018134}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=080c63abdf82a762cf54be4ce3f19054}{%
+           family={Pazos},
+           familyi={P\bibinitperiod},
+           given={Roc{í}o\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e7beb5e36bbac45c4ca3a87694c8ecc3}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Delia\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2eda3f224c80e97550cc56b8cbc524b}{%
+           family={G{ó}mez},
+           familyi={G\bibinitperiod},
+           given={Nora},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9a739ab2097f4d10ef8e3b1520030200}
+      \strng{fullhash}{9a739ab2097f4d10ef8e3b1520030200}
+      \strng{bibnamehash}{9a739ab2097f4d10ef8e3b1520030200}
+      \strng{authorbibnamehash}{9a739ab2097f4d10ef8e3b1520030200}
+      \strng{authornamehash}{9a739ab2097f4d10ef8e3b1520030200}
+      \strng{authorfullhash}{9a739ab2097f4d10ef8e3b1520030200}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics integrating the coastal planktonic community in the inner zone of the R{í}o de la Plata estuary (South America)}}
+      \field{volume}{243}
+      \field{year}{2018}
+      \field{pages}{134\bibrangedash 142}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2018.08.064
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S026974911831087X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S026974911831087X
+      \endverb
+      \keyw{Plankton,Plastics fragments,Pollution,R{í}o de la Plata estuary,Fibres}
+    \endentry
+    \entry{PAZOS201785}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=080c63abdf82a762cf54be4ce3f19054}{%
+           family={Pazos},
+           familyi={P\bibinitperiod},
+           given={Roc{í}o\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fc8151884bbea2d095fd4018ac0ef7b9}{%
+           family={Maiztegui},
+           familyi={M\bibinitperiod},
+           given={Tom{á}s},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9d5a2f6664b11bd9ebaeb985b3145f2}{%
+           family={Colautti},
+           familyi={C\bibinitperiod},
+           given={Dar{í}o\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6c4c5e902b4f9fd61ebe148b2ea61a9f}{%
+           family={Paracampo},
+           familyi={P\bibinitperiod},
+           given={Ariel\bibnamedelima H},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2eda3f224c80e97550cc56b8cbc524b}{%
+           family={G{ó}mez},
+           familyi={G\bibinitperiod},
+           given={Nora},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d328e5610eb4bd29b595d82e038176f5}
+      \strng{fullhash}{79c5f6496981eb94d0212ce7580b44e7}
+      \strng{bibnamehash}{d328e5610eb4bd29b595d82e038176f5}
+      \strng{authorbibnamehash}{d328e5610eb4bd29b595d82e038176f5}
+      \strng{authornamehash}{d328e5610eb4bd29b595d82e038176f5}
+      \strng{authorfullhash}{79c5f6496981eb94d0212ce7580b44e7}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Microplastics in gut contents of coastal freshwater fish from R{í}o de la Plata estuary}}
+      \field{volume}{122}
+      \field{year}{2017}
+      \field{pages}{85\bibrangedash 90}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2017.06.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X17304873
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X17304873
+      \endverb
+      \keyw{Fish assemblages,Microplastics ingestion,South America,Estuarine debris}
+    \endentry
+    \entry{PENG2017283}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=52e035f80be209611b3518fd4c683fa7}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Guyu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=98a141b9baf65ebb4fbac575c79b4706}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Bangshang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae982f807a4176cb782f4adcb938a10a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dongqi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c785f69679e4a39d3a55a3b9256e86f}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b666723c2006d1a0f3ef4a5370461175}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Huahong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=56e844f695abf3b74a770db92b9624e8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Daoji},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44b5462546cbd43ae0bc3a4f5d4b1328}
+      \strng{fullhash}{43f091bb9b3cf603bffe356f918ba6f7}
+      \strng{bibnamehash}{44b5462546cbd43ae0bc3a4f5d4b1328}
+      \strng{authorbibnamehash}{44b5462546cbd43ae0bc3a4f5d4b1328}
+      \strng{authornamehash}{44b5462546cbd43ae0bc3a4f5d4b1328}
+      \strng{authorfullhash}{43f091bb9b3cf603bffe356f918ba6f7}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics in sediments of the Changjiang Estuary, China}}
+      \field{volume}{225}
+      \field{year}{2017}
+      \field{pages}{283\bibrangedash 290}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.12.064
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116308338
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116308338
+      \endverb
+      \keyw{Changjiang estuary,Marine pollution,Sediment,$\mu$-FT-IR,Microplastic}
+    \endentry
+    \entry{pillar2006multiv}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8c62d0cbc92d8256a0b0478ce41edc60}{%
+           family={Pillar},
+           familyi={P\bibinitperiod},
+           given={VD},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \strng{fullhash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \strng{bibnamehash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \strng{authorbibnamehash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \strng{authornamehash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \strng{authorfullhash}{8c62d0cbc92d8256a0b0478ce41edc60}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{User’s guide}
+      \field{title}{MULTIV: Multivariate exploratory analysis, randomization testing and bootstrap resampling}
+      \field{volume}{24}
+      \field{year}{2006}
+    \endentry
+    \entry{RIC}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9421539b960fe6c40130e16792b2db90}{%
+           family={RIC},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9421539b960fe6c40130e16792b2db90}
+      \strng{fullhash}{9421539b960fe6c40130e16792b2db90}
+      \strng{bibnamehash}{9421539b960fe6c40130e16792b2db90}
+      \strng{authorbibnamehash}{9421539b960fe6c40130e16792b2db90}
+      \strng{authornamehash}{9421539b960fe6c40130e16792b2db90}
+      \strng{authorfullhash}{9421539b960fe6c40130e16792b2db90}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Standard Practice for Codig Plastic Manufatured Articles for Resin Identification}}
+      \field{year}{2016}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/ASTM-7611-13.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Rochman2015}{article}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,uniquepart=base,hash=2577671c5da3e3a6497a3fc24a3ba177}{%
+           family={Rochman},
+           familyi={R\bibinitperiod},
+           given={Chelsea\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d15d1e1a1e1dcdbd3e9cf9f7e072a48}{%
+           family={Tahir},
+           familyi={T\bibinitperiod},
+           given={Akbar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6bbfe3f458e8e84bffa12325a0733bcb}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Susan\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=15c75b81b6a3511446ef4bd7e71b2d69}{%
+           family={Baxa},
+           familyi={B\bibinitperiod},
+           given={Dolores\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=594ba00b5affe71421de398850ed4a49}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Rosalyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=781ad158d4a902f9e59eba60473d76a6}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Jeffrey\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0cec0918fce9def5a88d71c7ce04ab9b}{%
+           family={Teh},
+           familyi={T\bibinitperiod},
+           given={Foo\bibnamedelima Ching},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=144869bd90bcbe17fa4e5a96eb0c749b}{%
+           family={Werorilangi},
+           familyi={W\bibinitperiod},
+           given={Shinta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f0a471115cd18be6779920725b0be67b}{%
+           family={Teh},
+           familyi={T\bibinitperiod},
+           given={Swee\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{04b5907283d21705a44d9419b42416da}
+      \strng{fullhash}{cc6b8a83c0c3aea5bdcb1e60e162ee87}
+      \strng{bibnamehash}{04b5907283d21705a44d9419b42416da}
+      \strng{authorbibnamehash}{04b5907283d21705a44d9419b42416da}
+      \strng{authornamehash}{04b5907283d21705a44d9419b42416da}
+      \strng{authorfullhash}{cc6b8a83c0c3aea5bdcb1e60e162ee87}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{20452322}
+      \field{journaltitle}{Scientific Reports}
+      \field{title}{{Anthropogenic debris in seafood: Plastic debris and fibers from textiles in fish and bivalves sold for human consumption}}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{14340}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep14340
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Rochman et al. - 2015 - Anthropogenic debris in seafood Plastic debris and fibers from textiles in fish and bivalves sold for human cons.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.nature.com/scientificreports
+      \endverb
+      \verb{url}
+      \verb www.nature.com/scientificreports
+      \endverb
+    \endentry
+    \entry{Schmidt2017}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=aee05b0af60d2a2ea656c86440898286}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c639439bba23eb46502cdca2239c399}{%
+           family={Krauth},
+           familyi={K\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aefda5d80f00842e1e290d88b3d27ef1}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \strng{fullhash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \strng{bibnamehash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \strng{authorbibnamehash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \strng{authornamehash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \strng{authorfullhash}{c0a689bfe69d67e93bb640441e8d8a6e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{{Export of Plastic Debris by Rivers into the Sea}}
+      \field{volume}{51}
+      \field{year}{2017}
+      \field{pages}{12246\bibrangedash 12253}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acs.est.7b02368
+      \endverb
+    \endentry
+    \entry{SILVACAVALCANTI2017218}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=0fd94f8b7aa693801da6c41944bd53ac}{%
+           family={Silva-Cavalcanti},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Jacqueline\bibnamedelima Santos},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=22600a0654ebb34516545d9c8cbdcacb}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Jos{é}\bibnamedelimb Diego\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99c76fa5dc7a5bf32bcc651c2ebaedc2}{%
+           family={Fran{ç}a},
+           familyi={F\bibinitperiod},
+           given={Elton\bibnamedelima Jos{é}},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=595d276cfdd0fafdae7df95fe9f2977d}{%
+           family={Ara{ú}jo},
+           familyi={A\bibinitperiod},
+           given={Maria\bibnamedelimb Christina\bibnamedelima Barbosa},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=97bd1396d29dcb2efbaf73e2b409aac4}{%
+           family={Gusm{ã}o},
+           familyi={G\bibinitperiod},
+           given={Felipe},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f1736a30ed6b850f5e50471db863121}
+      \strng{fullhash}{7fdfc493380c48d067dcebb39e056560}
+      \strng{bibnamehash}{2f1736a30ed6b850f5e50471db863121}
+      \strng{authorbibnamehash}{2f1736a30ed6b850f5e50471db863121}
+      \strng{authornamehash}{2f1736a30ed6b850f5e50471db863121}
+      \strng{authorfullhash}{7fdfc493380c48d067dcebb39e056560}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics ingestion by a common tropical freshwater fishing resource}}
+      \field{volume}{221}
+      \field{year}{2017}
+      \field{pages}{218\bibrangedash 226}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.11.068
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S026974911632396X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S026974911632396X
+      \endverb
+      \keyw{Microfibres,River,Seafood,Semi-arid,Urbanization}
+    \endentry
+    \entry{SONG2015202}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=1f1fe4babc5d2630dd871b33ef6625ce}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Young\bibnamedelima Kyoung},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=69602ee0f82d46505bda8a1300c5a8c2}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Sang\bibnamedelima Hee},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea0ed5279ce13d15207b5c343e150b79}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Mi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2fcb951bc2f385d552212c19b705b708}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Gi\bibnamedelima Myung},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d3191699a006ff7a6f2ff41ef3632277}{%
+           family={Rani},
+           familyi={R\bibinitperiod},
+           given={Manviri},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a266e1ac5d18865de8a87e1f0d0f5d33}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jongmyoung},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a08022afa7910fbc94997c95c1e7cbc4}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Won\bibnamedelima Joon},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{667184826964cb8c3742d04bf8985143}
+      \strng{fullhash}{0e573e69498cfafc6fb94a658189af17}
+      \strng{bibnamehash}{667184826964cb8c3742d04bf8985143}
+      \strng{authorbibnamehash}{667184826964cb8c3742d04bf8985143}
+      \strng{authornamehash}{667184826964cb8c3742d04bf8985143}
+      \strng{authorfullhash}{0e573e69498cfafc6fb94a658189af17}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{A comparison of microscopic and spectroscopic identification methods for analysis of microplastics in environmental samples}}
+      \field{volume}{93}
+      \field{year}{2015}
+      \field{pages}{202\bibrangedash 209}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2015.01.015
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X15000314
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X15000314
+      \endverb
+      \keyw{FT-IR microscope,Identification,Stereomicroscope,Microplastics}
+    \endentry
+    \entry{SU2016711}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=0c785f69679e4a39d3a55a3b9256e86f}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3358ef1289c10d9a5a3f63d032f8dc26}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Yingang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bba94667e8f58403e414364804690adc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Lingyun},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae982f807a4176cb782f4adcb938a10a}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Dongqi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4fea3da8bb3a2ca11f5bf58c9a778466}{%
+           family={Kolandhasamy},
+           familyi={K\bibinitperiod},
+           given={Prabhu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=56e844f695abf3b74a770db92b9624e8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Daoji},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b666723c2006d1a0f3ef4a5370461175}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Huahong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95a4875d6988dd06cc1f81969ad0dabe}
+      \strng{fullhash}{e75de2e0aeca574464b9bc6f88f573c4}
+      \strng{bibnamehash}{95a4875d6988dd06cc1f81969ad0dabe}
+      \strng{authorbibnamehash}{95a4875d6988dd06cc1f81969ad0dabe}
+      \strng{authornamehash}{95a4875d6988dd06cc1f81969ad0dabe}
+      \strng{authorfullhash}{e75de2e0aeca574464b9bc6f88f573c4}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Microplastics in Taihu Lake, China}}
+      \field{volume}{216}
+      \field{year}{2016}
+      \field{pages}{711\bibrangedash 719}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.06.036
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116305243
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116305243
+      \endverb
+      \keyw{Asian clam,Biomonitoring,Freshwater,Microplastic}
+    \endentry
+    \entry{T.Yonkos2014}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=cd15f9a48af353e5038f76f5daff2229}{%
+           family={{T. Yonkos}},
+           familyi={T\bibinitperiod},
+           given={Lance},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b1af22fb1500721990b1d61c6352a378}{%
+           family={{A. Friedel}},
+           familyi={A\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b1627fe7e6e1847613648e7c2a808820}{%
+           family={{C. Perez-Reyes}},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fbd3ec78951888a14996f84fdfbbefa1}{%
+           family={Ghosal},
+           familyi={G\bibinitperiod},
+           given={Sutapa},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=03f5cc5cf37368cfb6e0ce1fa0f54a7b}{%
+           family={{D. Arthur}},
+           familyi={D\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{651278649e49d0e81540cf4375e2e14a}
+      \strng{fullhash}{c4914c814d2aa9d548f750eb39a4e79e}
+      \strng{bibnamehash}{651278649e49d0e81540cf4375e2e14a}
+      \strng{authorbibnamehash}{651278649e49d0e81540cf4375e2e14a}
+      \strng{authornamehash}{651278649e49d0e81540cf4375e2e14a}
+      \strng{authorfullhash}{c4914c814d2aa9d548f750eb39a4e79e}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{11}
+      \field{number}{24}
+      \field{title}{{Microplastics in Four Estuarine Rivers in the Chesapeake Bay, U.S.A.}}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{pages}{14195\bibrangedash 14202}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/es5036317
+      \endverb
+    \endentry
+    \entry{UnitedNationsHumanSettlementsProgramme2016}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=eb93e412e870c6e9124d30c65427354e}{%
+           family={{United Nations Human Settlements Programme}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Nairobi, Kenya}%
+      }
+      \strng{namehash}{eb93e412e870c6e9124d30c65427354e}
+      \strng{fullhash}{eb93e412e870c6e9124d30c65427354e}
+      \strng{bibnamehash}{eb93e412e870c6e9124d30c65427354e}
+      \strng{authorbibnamehash}{eb93e412e870c6e9124d30c65427354e}
+      \strng{authornamehash}{eb93e412e870c6e9124d30c65427354e}
+      \strng{authorfullhash}{eb93e412e870c6e9124d30c65427354e}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{booktitle}{Urbanization and Development: Emerging Futures}
+      \field{isbn}{9789211333954}
+      \field{issn}{19328095}
+      \field{number}{4}
+      \field{volume}{21}
+      \field{year}{2016}
+      \field{pages}{247}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/NCM.0000000000000166
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/WCR-2016-WEB.pdf:pdf
+      \endverb
+      \keyw{Case management,Certification,Ethical practice,Ethics,Outcomes}
+    \endentry
+    \entry{VERMEIREN20167}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=08983a4f1b38d3685f3db6b6cdcc61bd}{%
+           family={Vermeiren},
+           familyi={V\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dea4610918d90f2f073412a1e390fe98}{%
+           family={Mu{ñ}oz},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=547cb200a91f586cd0565f69bb60925b}{%
+           family={Ikejima},
+           familyi={I\bibinitperiod},
+           given={Kou},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae321588185d3232dd7c38652d2831a7}
+      \strng{fullhash}{ae321588185d3232dd7c38652d2831a7}
+      \strng{bibnamehash}{ae321588185d3232dd7c38652d2831a7}
+      \strng{authorbibnamehash}{ae321588185d3232dd7c38652d2831a7}
+      \strng{authornamehash}{ae321588185d3232dd7c38652d2831a7}
+      \strng{authorfullhash}{ae321588185d3232dd7c38652d2831a7}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Sources and sinks of plastic debris in estuaries: A conceptual model integrating biological, physical and chemical distribution mechanisms}}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{pages}{7\bibrangedash 16}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2016.10.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16308189
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16308189
+      \endverb
+      \keyw{Estuary,Landscape scale,Management,Plastic debris,Spatial distribution,Conceptual model}
+    \endentry
+    \entry{WANG20171369}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=1bc8702e5f3d617294e3b1da9b599cbe}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wenfeng},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9f82ec3fba8468c0e2f09910ef238b76}{%
+           family={Ndungu},
+           familyi={N\bibinitperiod},
+           given={Anne\bibnamedelima Wairimu},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e181d320377f5c489b768686bb952ee}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2f3ea981fa5a715a69118b48e576a9f5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fdb96cc14ce80a988141d5f18354f7ac}
+      \strng{fullhash}{5d9298a6225a21d3814d917d3af42118}
+      \strng{bibnamehash}{fdb96cc14ce80a988141d5f18354f7ac}
+      \strng{authorbibnamehash}{fdb96cc14ce80a988141d5f18354f7ac}
+      \strng{authornamehash}{fdb96cc14ce80a988141d5f18354f7ac}
+      \strng{authorfullhash}{5d9298a6225a21d3814d917d3af42118}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{{Microplastics pollution in inland freshwaters of China: A case study in urban surface waters of Wuhan, China}}
+      \field{volume}{575}
+      \field{year}{2017}
+      \field{pages}{1369\bibrangedash 1374}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2016.09.213
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S004896971632143X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S004896971632143X
+      \endverb
+      \keyw{Pollution,Urban surface waters,Wuhan,Microplastics}
+    \endentry
+    \entry{Weinstein2016}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=131b6db3be17875c688d0d6e476b77d4}{%
+           family={Weinstein},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eed3a1a1d1c698bebc48ccb12c53db90}{%
+           family={Crocker},
+           familyi={C\bibinitperiod},
+           given={Brittany\bibnamedelima K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c60c13254c131f1c2e72892efd880def}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={Austin\bibnamedelima D.},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d955bc2e5cf572d89920c5137a9feeae}
+      \strng{fullhash}{d955bc2e5cf572d89920c5137a9feeae}
+      \strng{bibnamehash}{d955bc2e5cf572d89920c5137a9feeae}
+      \strng{authorbibnamehash}{d955bc2e5cf572d89920c5137a9feeae}
+      \strng{authornamehash}{d955bc2e5cf572d89920c5137a9feeae}
+      \strng{authorfullhash}{d955bc2e5cf572d89920c5137a9feeae}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15528618}
+      \field{journaltitle}{Environmental Toxicology and Chemistry}
+      \field{number}{7}
+      \field{title}{{From macroplastic to microplastic: Degradation of high-density polyethylene, polypropylene, and polystyrene in a salt marsh habitat}}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{1632\bibrangedash 1640}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1002/etc.3432
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/weinstein2016.pdf:pdf
+      \endverb
+      \keyw{High-density polyethylene,Marine plastic,Microplastic,Polypropylene,Polystyrene}
+    \endentry
+    \entry{VANWIJNEN2019392}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=9a0d5cc99ca1400c93a4b023ef0626b0}{%
+           family={Wijnen},
+           familyi={W\bibinitperiod},
+           given={Jikke},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6becbd38c949620c25b1316f5c31754}{%
+           family={Ragas},
+           familyi={R\bibinitperiod},
+           given={Ad\bibnamedelima M\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8c3bbf2e9ae0f8533fbad67a6156f514}{%
+           family={Kroeze},
+           familyi={K\bibinitperiod},
+           given={Carolien},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \strng{fullhash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \strng{bibnamehash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \strng{authorbibnamehash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \strng{authornamehash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \strng{authorfullhash}{b38a6a2b5576c1e4aed8268bcf048810}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{{Modelling global river export of microplastics to the marine environment: Sources and future trends}}
+      \field{volume}{673}
+      \field{year}{2019}
+      \field{pages}{392\bibrangedash 401}
+      \range{pages}{10}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2019.04.078
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969719315980
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969719315980
+      \endverb
+      \keyw{Coastal seas,Future scenarios,GREMiS model,Plastic soup,River transport,Microplastics}
+    \endentry
+    \entry{wong2007world}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=23cf600646f6e7a79bca8902909c9cf3}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={C\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df6772827593fcbd77a84ba0f5161ac8}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={C\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fa3a0f7ce24f57419c66329391671fdc}{%
+           family={Collier},
+           familyi={C\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea8fb4f78329d52c32996ba3df3411ae}{%
+           family={Schelle},
+           familyi={S\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a19e77d0b468ff6d0a305711c3201ca1}{%
+           family={Pittock},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b40f643e82f0c1eddb29adf49cd9df4}
+      \strng{fullhash}{cb8f3b20d13a6a858802630459df01c2}
+      \strng{bibnamehash}{2b40f643e82f0c1eddb29adf49cd9df4}
+      \strng{authorbibnamehash}{2b40f643e82f0c1eddb29adf49cd9df4}
+      \strng{authornamehash}{2b40f643e82f0c1eddb29adf49cd9df4}
+      \strng{authorfullhash}{cb8f3b20d13a6a858802630459df01c2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{esocialsciences. com Working Papers}
+      \field{title}{{World's top 10 rivers at risk}}
+      \field{year}{2007}
+    \endentry
+    \entry{Wu2018}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7a5a43a5f4aa32b6e4676bbda28a231c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chenxi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=accfaf086a407bfb746d7875478d9130}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e51c5d677cf9110e4a09988171cd7685}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2028294cab363c720738973751a8f05d}
+      \strng{fullhash}{2028294cab363c720738973751a8f05d}
+      \strng{bibnamehash}{2028294cab363c720738973751a8f05d}
+      \strng{authorbibnamehash}{2028294cab363c720738973751a8f05d}
+      \strng{authornamehash}{2028294cab363c720738973751a8f05d}
+      \strng{authorfullhash}{2028294cab363c720738973751a8f05d}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Environmental Chemistry}
+      \field{isbn}{9783319616148}
+      \field{issn}{1867979X}
+      \field{title}{{Microplastic pollution in inland waters focusing on Asia}}
+      \field{volume}{58}
+      \field{year}{2018}
+      \field{pages}{85\bibrangedash 99}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/978-3-319-61615-5_5
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/1002201.pdf:pdf
+      \endverb
+      \keyw{Asia,Lakes,Microplastics,Occurrence,Rivers,Source}
+    \endentry
+    \entry{XIONG2018899}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=e51c5d677cf9110e4a09988171cd7685}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=accfaf086a407bfb746d7875478d9130}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=50bd86087a62a9ee68025bdd127db367}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xianchuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b666723c2006d1a0f3ef4a5370461175}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Huahong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=36efc7ff316f97f9295b6612a220395f}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Ze},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7a5a43a5f4aa32b6e4676bbda28a231c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chenxi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0bff77aa2c02719b0c6717faa8b47ae8}
+      \strng{fullhash}{912e2c20a7b3a9477a2a54b8462c8525}
+      \strng{bibnamehash}{0bff77aa2c02719b0c6717faa8b47ae8}
+      \strng{authorbibnamehash}{0bff77aa2c02719b0c6717faa8b47ae8}
+      \strng{authornamehash}{0bff77aa2c02719b0c6717faa8b47ae8}
+      \strng{authorfullhash}{912e2c20a7b3a9477a2a54b8462c8525}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Sources and distribution of microplastics in China's largest inland lake – Qinghai Lake}}
+      \field{volume}{235}
+      \field{year}{2018}
+      \field{pages}{899\bibrangedash 906}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2017.12.081
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749117345591
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749117345591
+      \endverb
+      \keyw{Lake current,Plastic debris,Tourism,Weathering,Remote lake}
+    \endentry
+    \entry{ZHANG2015117}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=accfaf086a407bfb746d7875478d9130}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a11255b584ff13142944c0253751cefc}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e49846187793f11ed0d0ee291b10383}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Jizhong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e51c5d677cf9110e4a09988171cd7685}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7a5a43a5f4aa32b6e4676bbda28a231c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chenxi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fd6a5094a8b1a5f861b841bf491f204}
+      \strng{fullhash}{7934548a08921b430d54903fcb07ef58}
+      \strng{bibnamehash}{7fd6a5094a8b1a5f861b841bf491f204}
+      \strng{authorbibnamehash}{7fd6a5094a8b1a5f861b841bf491f204}
+      \strng{authornamehash}{7fd6a5094a8b1a5f861b841bf491f204}
+      \strng{authorfullhash}{7934548a08921b430d54903fcb07ef58}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{Accumulation of floating microplastics behind the Three Gorges Dam}}
+      \field{volume}{204}
+      \field{year}{2015}
+      \field{pages}{117\bibrangedash 123}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2015.04.023
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749115002122
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749115002122
+      \endverb
+      \keyw{Accumulation,Dam,Distribution,Reservoir,Microplastics}
+    \endentry
+    \entry{Zhang2017}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=accfaf086a407bfb746d7875478d9130}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e51c5d677cf9110e4a09988171cd7685}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Xiong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=406639611990d313d0d1462dcdd14384}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Hongjuan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7a5a43a5f4aa32b6e4676bbda28a231c}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chenxi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6a302912f311d5d37e0b750d06115c7a}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Yonghong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f297db5652966993d3bf4b56d006887b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yonghong},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae419852e39f3a938e10cd0e748477da}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Bingsheng},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6ba2f74d075b0b9a257c97dcca783c2}{%
+           family={{K. S. Lam}},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5b18ab1a8e9806ad3afd9423d8dd8dfb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiantong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e380e3d4bc0e5090c641d05de265534}
+      \strng{fullhash}{71c68b0863ab120254f2de5f719e65e7}
+      \strng{bibnamehash}{3e380e3d4bc0e5090c641d05de265534}
+      \strng{authorbibnamehash}{3e380e3d4bc0e5090c641d05de265534}
+      \strng{authornamehash}{3e380e3d4bc0e5090c641d05de265534}
+      \strng{authorfullhash}{71c68b0863ab120254f2de5f719e65e7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{3}
+      \field{number}{7}
+      \field{title}{{Occurrence and Characteristics of Microplastic Pollution in Xiangxi Bay of Three Gorges Reservoir, China}}
+      \field{volume}{51}
+      \field{year}{2017}
+      \field{pages}{3794\bibrangedash 3801}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acs.est.7b00369
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Beaumont2019}
+\endrefsection
+\endinput
+

@@ -1,0 +1,94 @@
+% Preambulo
+\documentclass[10pt,letterpaper,twocolumn]{article}
+\input{codigofuente/preambulo.tex}
+%
+%
+% Configuración de margen
+\geometry{
+	papersize = {216mm, 279.4mm},
+	width = 18cm,
+	height = 25cm,
+	headsep = 5mm,
+	head = 1cm,
+	marginpar = 2mm,
+	includeall,
+}
+%
+%
+% Configuración de hipervinculos
+\hypersetup{
+	colorlinks = true, % falso: enlace en caja; verdadero: enlaces de colores
+	linkcolor = black, % color de los enlaces internos
+	citecolor = blue, % color de los enlaces a la bibliografía
+	filecolor = magenta, % color de los enlaces de archivos
+	urlcolor = black,
+}
+%
+%
+% Configuración de estilo de margen
+
+
+%
+%
+% Algunas configuraciones del cuerpo del documento
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\baselinestretch}{1.0} % Para indicar el tamaño del entrelineado
+\setlength{\parskip}{1.5mm} % Modificar espacio entre párrafos
+\renewcommand*{\bibfont}{\footnotesize} % Cambiar tamaño bibliografía
+%
+%
+% Configuración de estilo para autores y afiliaciones
+\renewcommand*{\Authsep}{, }
+\renewcommand*{\Authand}{ y }
+\renewcommand*{\Authands}{ y }
+\renewcommand*{\Affilfont}{\normalsize}
+\setlength{\affilsep}{-2mm} % asignar espacio entre autores y afiliaciones
+\renewcommand\Authfont{\fontsize{10}{10}\selectfont} % cambiar tamaño de letra autores
+\renewcommand\Affilfont{\fontsize{7}{7}\itshape} % cambiar tamaño de letra afiliaciones de autores
+%
+%
+% Carpeta contenedora de las imágenes
+\graphicspath{ {codigofuente/img/} }
+
+
+
+%
+%
+% Título, autores e información afiliada a los autores
+\title{
+	\fontsize{18}{18}\selectfont
+	\textbf{Contaminación plástica masiva en un mega-río de un país en desarrollo: Depósito de sedimentos e ingestión por peces (Prochilodus lineatus)*
+		\vspace{-1mm}
+	}}
+\author[1]{Martín C.M. Blettler}
+\author[1]{Nicolás Garello}
+\author[2]{Léa Ginon}
+\author[1]{Elie Abrial}
+\author[1]{Luis A. Espinola}
+\author[3]{Karl M. Wantzen}
+\vspace{-1mm}
+\affil[1]{{\textit{National Institute of Limnology (INALI, UNL-CONICET), Santa Fe, Argentina}}\vspace{-2mm}}
+\affil[2]{{\textit{University of Polytech Tours (IMA), 37200, Tours,France}}\vspace{-2mm}}
+\affil[3]{{\textit {UNESCO Chair ``River Culture\_ Fleuves et Patrimoine'', Tours University, 37200, Tours, France}}\vspace{-2mm}}
+\date{}
+%
+%
+% Vincular archivo de biliogarafias
+\bibliography{codigofuente/bibliografia.bib}
+%
+%
+% Cuerpo del documento
+\begin{document}
+%
+%
+%
+\input{codigofuente/resumen.tex}
+\input{codigofuente/introduccion.tex}
+\input{codigofuente/materiales_metodos.tex}
+\input{codigofuente/resultados.tex}
+\input{codigofuente/discusiones.tex}
+%
+%
+%
+\printbibliography[title={Bibliografía}]
+\end{document}
