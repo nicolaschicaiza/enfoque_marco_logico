@@ -1,22 +1,27 @@
-[1] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:304> INFO - This is Biber 2.12
 [1] Config.pm:307> INFO - Logfile is 'main.blg'
-[49] biber:315> INFO - === lun ago  9, 2021, 14:26:34
+[47] biber:315> INFO - === lun ago  9, 2021, 21:09:42
 [82] Biber.pm:371> INFO - Reading 'main.bcf'
-[205] Biber.pm:889> INFO - Found 66 citekeys in bib section 0
-[230] Biber.pm:4093> INFO - Processing section 0
-[247] Biber.pm:4254> INFO - Looking for bibtex format file 'codigofuente/bibliografia.bib' for section 0
-[253] bibtex.pm:1512> INFO - LaTeX decoding ...
-[438] bibtex.pm:1329> INFO - Found BibTeX data source 'codigofuente/bibliografia.bib'
-[505] Utils.pm:193> WARN - month field 'oct' in entry 'AnthonyBrowne2011' is not an integer - this will probably not sort properly.
-[646] Utils.pm:193> WARN - month field 'oct' in entry 'Schmidt2017' is not an integer - this will probably not sort properly.
-[799] Utils.pm:193> WARN - month field 'may' in entry 'Klein2015' is not an integer - this will probably not sort properly.
-[944] Utils.pm:193> WARN - month field 'nov' in entry 'T.Yonkos2014' is not an integer - this will probably not sort properly.
-[957] Utils.pm:193> WARN - month field 'mar' in entry 'Hidalgo-Ruz2012' is not an integer - this will probably not sort properly.
-[1301] Utils.pm:193> WARN - month field 'mar' in entry 'Zhang2017' is not an integer - this will probably not sort properly.
-[1410] Utils.pm:193> WARN - I didn't find a database entry for 'Beaumont2019' (section 0)
-[1622] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1622] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1622] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[1767] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1888] bbl.pm:739> INFO - Output to main.bbl
-[1888] Biber.pm:110> INFO - WARNINGS: 7
+[218] Biber.pm:889> INFO - Found 85 citekeys in bib section 0
+[244] Biber.pm:4093> INFO - Processing section 0
+[262] Biber.pm:4254> INFO - Looking for bibtex format file 'codigofuente/bibliografia.bib' for section 0
+[270] bibtex.pm:1512> INFO - LaTeX decoding ...
+[536] bibtex.pm:1329> INFO - Found BibTeX data source 'codigofuente/bibliografia.bib'
+[550] Utils.pm:193> WARN - Duplicate entry key: 'AnthonyBrowne2011' in file 'codigofuente/bibliografia.bib', skipping ...
+[628] Utils.pm:193> WARN - month field 'oct' in entry 'AnthonyBrowne2011' is not an integer - this will probably not sort properly.
+[801] Utils.pm:193> WARN - month field 'oct' in entry 'Schmidt2017' is not an integer - this will probably not sort properly.
+[973] Utils.pm:193> WARN - month field 'may' in entry 'Klein2015' is not an integer - this will probably not sort properly.
+[1165] Utils.pm:193> WARN - month field 'nov' in entry 'T.Yonkos2014' is not an integer - this will probably not sort properly.
+[1183] Utils.pm:193> WARN - month field 'mar' in entry 'Hidalgo-Ruz2012' is not an integer - this will probably not sort properly.
+[1539] Utils.pm:193> WARN - month field 'jun' in entry 'Cole2013' is not an integer - this will probably not sort properly.
+[1635] Utils.pm:193> WARN - month field 'mar' in entry 'Zhang2017' is not an integer - this will probably not sort properly.
+[1869] Utils.pm:193> WARN - month field 'oct' in entry 'McCormick2014' is not an integer - this will probably not sort properly.
+[2019] Utils.pm:193> WARN - month field 'dec' in entry 'Azevedo-Santos2019' is not an integer - this will probably not sort properly.
+[2070] Utils.pm:193> WARN - month field 'aug' in entry 'Pegado2018' is not an integer - this will probably not sort properly.
+[2164] Utils.pm:193> WARN - I didn't find a database entry for 'Beaumont2019' (section 0)
+[2488] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2488] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2488] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[2718] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2899] bbl.pm:739> INFO - Output to main.bbl
+[2899] Biber.pm:110> INFO - WARNINGS: 12

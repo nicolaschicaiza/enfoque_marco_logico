@@ -613,6 +613,8 @@ INPUT ./codigofuente/img/figura4/figura4b.png
 INPUT ./codigofuente/img/figura4/figura4b.png
 INPUT codigofuente/discusiones.tex
 INPUT codigofuente/discusiones.tex
+INPUT codigofuente/conclusiones.tex
+INPUT codigofuente/conclusiones.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futri8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futrc8t.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd

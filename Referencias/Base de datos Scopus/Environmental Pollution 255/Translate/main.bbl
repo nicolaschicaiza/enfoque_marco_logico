@@ -149,6 +149,74 @@
       \verb 10.1021/es201811s
       \endverb
     \endentry
+    \entry{Azevedo-Santos2019}{misc}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=0396a9bf4e98ea892fb0efc60c60bf91}{%
+           family={Azevedo-Santos},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Valter\bibnamedelima M},
+           giveni={V\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9a53cd0b51ded33d75a3b4e97bb908e6}{%
+           family={Gon{ç}alves},
+           familyi={G\bibinitperiod},
+           given={Geslaine\bibnamedelimb R\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c3aeff67a39967e1ca3c2580199b412b}{%
+           family={Manoel},
+           familyi={M\bibinitperiod},
+           given={Pedro\bibnamedelima S},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb43ea8301c35193f9206b3fa03362f1}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Marcelo\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=542bea2c61d28d9414989b6d7f8105f7}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Felipe\bibnamedelima P},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e022a19b6ec861e78a439a5c5abc36a9}{%
+           family={Pelicice},
+           familyi={P\bibinitperiod},
+           given={Fernando\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{e7788350a2a21bbda54e626646134024}
+      \strng{fullhash}{dcfcfac718b7035c578ea8a864a9c590}
+      \strng{bibnamehash}{e7788350a2a21bbda54e626646134024}
+      \strng{authorbibnamehash}{e7788350a2a21bbda54e626646134024}
+      \strng{authornamehash}{e7788350a2a21bbda54e626646134024}
+      \strng{authorfullhash}{dcfcfac718b7035c578ea8a864a9c590}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Environmental pollution (Barking, Essex : 1987)}
+      \field{issn}{1873-6424 (Electronic)}
+      \field{month}{12}
+      \field{number}{Pt 1}
+      \field{title}{{Plastic ingestion by fish: A global assessment.}}
+      \field{volume}{255}
+      \field{year}{2019}
+      \field{pages}{112994}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.envpol.2019.112994
+      \endverb
+      \keyw{Animals,Eating,Environmental Monitoring,Fishes,Plastics,Water Pollutants,Chemical}
+    \endentry
     \entry{Baldwin2016}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=8ca9c75b4fd67c791107b98d6cd5d3c5}{%
@@ -248,6 +316,70 @@
       \verb https://doi.org/10.1007/s11356-019-04632-1
       \endverb
     \endentry
+    \entry{BELLAS201655}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=c41cfe61e431bb90f3b990b2d320032f}{%
+           family={Bellas},
+           familyi={B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1c95aa6d6e3f94d8327c4971fdd00469}{%
+           family={Mart{í}nez-Armental},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={Jos{é}},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=204d6168cf357f67052b8e8dc1a2a9ad}{%
+           family={Mart{í}nez-C{á}mara},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Ariana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3f30c8acfc1b3af798691b1bc162f5e}{%
+           family={Besada},
+           familyi={B\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d4c5392aae9e63353af72c08ef8f055f}{%
+           family={Mart{í}nez-G{ó}mez},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Concepci{ó}n},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcac676bdbbd7c04aa1db16d5e8fe7b3}
+      \strng{fullhash}{5f0277a63bb435e1aa5ccdd969ad5d97}
+      \strng{bibnamehash}{fcac676bdbbd7c04aa1db16d5e8fe7b3}
+      \strng{authorbibnamehash}{fcac676bdbbd7c04aa1db16d5e8fe7b3}
+      \strng{authornamehash}{fcac676bdbbd7c04aa1db16d5e8fe7b3}
+      \strng{authorfullhash}{5f0277a63bb435e1aa5ccdd969ad5d97}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Ingestion of microplastics by demersal fish from the Spanish Atlantic and Mediterranean coasts}}
+      \field{volume}{109}
+      \field{year}{2016}
+      \field{pages}{55\bibrangedash 60}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2016.06.026
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16304301
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16304301
+      \endverb
+      \keyw{MSFD,Marine litter,Pollution}
+    \endentry
     \entry{BESSA2018575}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=01186a7f7dbc8ee62035f573e24d1d42}{%
@@ -325,12 +457,12 @@
     \endentry
     \entry{Blettler2017}{article}{}
       \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=2c36508e49b7e1be4f1bdd34d20e7cff}{%
+        {{uniquename=1,uniquepart=given,hash=2c36508e49b7e1be4f1bdd34d20e7cff}{%
            family={Blettler},
            familyi={B\bibinitperiod},
            given={Martin\bibnamedelimb C\bibnamedelima M},
            giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=4d4d40e86aa09fda874604cab5384640}{%
            family={Ulla},
            familyi={U\bibinitperiod},
@@ -426,6 +558,123 @@
       \verb{url}
       \verb https://doi.org/10.2305/IUCN.CH.2017.01.en
       \endverb
+    \endentry
+    \entry{CANNON2016286}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e7c821e1bb67722919a9c87e9bee8863}{%
+           family={Cannon},
+           familyi={C\bibinitperiod},
+           given={Seon\bibnamedelimb M\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d8b0015e85974587fbf9d8041821cab9}{%
+           family={Lavers},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5cf9b895e617548a0b0d073aa98da5bd}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \strng{fullhash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \strng{bibnamehash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \strng{authorbibnamehash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \strng{authornamehash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \strng{authorfullhash}{89e81dc93cf616b27bc80d037ea9b2a0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Plastic ingestion by fish in the Southern Hemisphere: A baseline study and review of methods}}
+      \field{volume}{107}
+      \field{year}{2016}
+      \field{pages}{286\bibrangedash 291}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2016.03.057
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16301850
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X16301850
+      \endverb
+      \keyw{Actinopterygii,Australia,FT-IR,Plastic pollution,Southern Ocean}
+    \endentry
+    \entry{CarneyAlmroth}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=78eca1e1f00dfdb341f3e07165f0ba4d}{%
+           family={{Carney Almroth}},
+           familyi={C\bibinitperiod},
+           given={Bethanie\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=92f98e6854646c63ba93129706b8b231}{%
+           family={{Å}str{ö}m},
+           familyi={Å\bibinitperiod},
+           given={Linn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c0eeddf82efdfc538b21ee9505eaef27}{%
+           family={Roslund},
+           familyi={R\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=328632adba9697a5cdffa6347561b928}{%
+           family={Petersson},
+           familyi={P\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5eab739194b2b4c8fb83f48383d65d7f}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Mats},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a450d17c378c0683c13f139a262c9ada}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Nils-Krister},
+           giveni={N\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2aa5e95393766c4be6f0d39bbd6b4f1}
+      \strng{fullhash}{942b2f61684e30d6890a466e603cb334}
+      \strng{bibnamehash}{b2aa5e95393766c4be6f0d39bbd6b4f1}
+      \strng{authorbibnamehash}{b2aa5e95393766c4be6f0d39bbd6b4f1}
+      \strng{authornamehash}{b2aa5e95393766c4be6f0d39bbd6b4f1}
+      \strng{authorfullhash}{942b2f61684e30d6890a466e603cb334}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Quantifying shedding of synthetic fibers from textiles; a source of microplastics released into the environment}}
+      \verb{doi}
+      \verb 10.1007/s11356-017-0528-7
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Carney Almroth et al. - Unknown - Quantifying shedding of synthetic fibers from textiles a source of microplastics released into the env.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11356-017-0528-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11356-017-0528-7
+      \endverb
+      \keyw{Fabric,Fibers,Microplastics,Shedding,Synthetic textiles}
     \endentry
     \entry{doi:10.1139/cjfas-2014-0281}{article}{}
       \name{author}{4}{}{%
@@ -582,8 +831,77 @@
       \endverb
       \keyw{International environmental norms,Material interests,Norm dynamics,Plastic shopping bags,Policy implementation}
     \endentry
+    \entry{Cole2013}{article}{}
+      \name{author}{7}{uniquelist=3}{%
+        {{uniquename=0,uniquepart=base,hash=17510fcf15bfee5eb2ef1a0f5102970c}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a1cd210a10409c25d440336740c6f760}{%
+           family={Lindeque},
+           familyi={L\bibinitperiod},
+           given={Pennie},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5ad9173feebe0a3e7ada4b92a33e39ce}{%
+           family={Fileman},
+           familyi={F\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=336d6204c15965a769b2892dcaf42723}{%
+           family={Halsband},
+           familyi={H\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=beca8d6291099416d42a13940d7220af}{%
+           family={Goodhead},
+           familyi={G\bibinitperiod},
+           given={Rhys},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=26f4ca7d4a426927d001741fe7fb65ea}{%
+           family={Moger},
+           familyi={M\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f5471d24e8529b92960f0985d17b1620}{%
+           family={{S. Galloway}},
+           familyi={S\bibinitperiod},
+           given={Tamara},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f1da4dedb0bd02995e752afa05eb051b}
+      \strng{fullhash}{522a493b40c5e8ae1fb25f7e3c67ff0f}
+      \strng{bibnamehash}{f1da4dedb0bd02995e752afa05eb051b}
+      \strng{authorbibnamehash}{f1da4dedb0bd02995e752afa05eb051b}
+      \strng{authornamehash}{f1da4dedb0bd02995e752afa05eb051b}
+      \strng{authorfullhash}{522a493b40c5e8ae1fb25f7e3c67ff0f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{6}
+      \field{number}{12}
+      \field{title}{{Microplastic Ingestion by Zooplankton}}
+      \field{volume}{47}
+      \field{year}{2013}
+      \field{pages}{6646\bibrangedash 6655}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/es400663f
+      \endverb
+    \endentry
     \entry{COLE20112588}{article}{}
-      \name{author}{4}{}{%
+      \name{author}{4}{uniquelist=3}{%
         {{uniquename=0,uniquepart=base,hash=17510fcf15bfee5eb2ef1a0f5102970c}{%
            family={Cole},
            familyi={C\bibinitperiod},
@@ -609,11 +927,11 @@
            giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{namehash}{14f8b45b69ebae397d3bd77c9ff88778}
       \strng{fullhash}{ad3eeb8d9b995fb7992f4accb13d32c0}
-      \strng{bibnamehash}{1b2d8ecade0b62d9753015c510692805}
-      \strng{authorbibnamehash}{1b2d8ecade0b62d9753015c510692805}
-      \strng{authornamehash}{1b2d8ecade0b62d9753015c510692805}
+      \strng{bibnamehash}{14f8b45b69ebae397d3bd77c9ff88778}
+      \strng{authorbibnamehash}{14f8b45b69ebae397d3bd77c9ff88778}
+      \strng{authornamehash}{14f8b45b69ebae397d3bd77c9ff88778}
       \strng{authorfullhash}{ad3eeb8d9b995fb7992f4accb13d32c0}
       \field{sortinit}{C}
       \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
@@ -1747,6 +2065,69 @@
       \verb 10.1021/acs.est.5b00492
       \endverb
     \endentry
+    \entry{Kyaw2012}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=ed03498110c7358400c50a5841629b14}{%
+           family={Kyaw},
+           familyi={K\bibinitperiod},
+           given={Bhone\bibnamedelima Myint},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=01aad491b018372809d29371286db219}{%
+           family={Champakalakshmi},
+           familyi={C\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4fbe7a4206fa3b08a706695799c1d773}{%
+           family={Sakharkar},
+           familyi={S\bibinitperiod},
+           given={Meena\bibnamedelima Kishore},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a7b26360947eb44281dd04ab476f152}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Chu\bibnamedelima Sing},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1453359cba2dbd6e4efb9603595f8992}{%
+           family={Sakharkar},
+           familyi={S\bibinitperiod},
+           given={Kishore\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{38c704ca7b74a47ae0acf42067145bd2}
+      \strng{fullhash}{42bbdbb5daabc46a22984033b3a92b36}
+      \strng{bibnamehash}{38c704ca7b74a47ae0acf42067145bd2}
+      \strng{authorbibnamehash}{38c704ca7b74a47ae0acf42067145bd2}
+      \strng{authornamehash}{38c704ca7b74a47ae0acf42067145bd2}
+      \strng{authorfullhash}{42bbdbb5daabc46a22984033b3a92b36}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0973-7715}
+      \field{journaltitle}{Indian Journal of Microbiology}
+      \field{number}{3}
+      \field{title}{{Biodegradation of Low Density Polythene (LDPE) by Pseudomonas Species}}
+      \field{volume}{52}
+      \field{year}{2012}
+      \field{pages}{411\bibrangedash 419}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/s12088-012-0250-6
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s12088-012-0250-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s12088-012-0250-6
+      \endverb
+    \endentry
     \entry{LAHENS2018661}{article}{}
       \name{author}{8}{}{%
         {{uniquename=0,uniquepart=base,hash=1f90338be323c6e9a5c5360ae99db587}{%
@@ -1934,6 +2315,106 @@
       \verb{url}
       \verb www.nature.com/naturecommunications
       \endverb
+    \endentry
+    \entry{LEE2013349}{article}{}
+      \name{author}{11}{}{%
+        {{uniquename=0,uniquepart=base,hash=a266e1ac5d18865de8a87e1f0d0f5d33}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jongmyoung},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7777d3a70c376e148f088b7fdb4be55d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Sunwook},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fd0e95083417e10d41ae55d224e4c9db}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Young\bibnamedelima Kyung},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=69602ee0f82d46505bda8a1300c5a8c2}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Sang\bibnamedelima Hee},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=60b37eac47ea1b896278a08bdda434f7}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Yong\bibnamedelima Chang},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ea0ed5279ce13d15207b5c343e150b79}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Mi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1b9def1dd357276aa53f8acdfd901c27}{%
+           family={Heo},
+           familyi={H\bibinitperiod},
+           given={Nak\bibnamedelima Won},
+           giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2fcb951bc2f385d552212c19b705b708}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Gi\bibnamedelima Myung},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e96265f65c4d3efb9b16bb15d361805a}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Mi\bibnamedelima Jeong},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1a806b52dea7a260358d7452548fbb6c}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Daeseok},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a08022afa7910fbc94997c95c1e7cbc4}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Won\bibnamedelima Joon},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{da4c01caac210c4d8363fa190f6c674e}
+      \strng{fullhash}{885c81acb040670cdc0835675db5095b}
+      \strng{bibnamehash}{da4c01caac210c4d8363fa190f6c674e}
+      \strng{authorbibnamehash}{da4c01caac210c4d8363fa190f6c674e}
+      \strng{authornamehash}{da4c01caac210c4d8363fa190f6c674e}
+      \strng{authorfullhash}{885c81acb040670cdc0835675db5095b}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Relationships among the abundances of plastic debris in different size classes on beaches in South Korea}}
+      \field{volume}{77}
+      \field{year}{2013}
+      \field{pages}{349\bibrangedash 354}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2013.08.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13004657
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X13004657
+      \endverb
+      \keyw{Macroplastics,Mesoplastics,Microplastics,Styrofoam,Marine debris}
     \endentry
     \entry{LI2016177}{article}{}
       \name{author}{8}{}{%
@@ -2157,6 +2638,168 @@
       \field{title}{Laboratory Methods for the Analysis of Microplastics in the Marine Environment: Recommendations for quantifying synthetic particles in waters and sediments.}
       \field{year}{2015}
     \endentry
+    \entry{Mccormick2016}{article}{}
+      \name{author}{12}{}{%
+        {{uniquename=0,uniquepart=base,hash=583e9020254cff31190db3321fd9c49b}{%
+           family={Mccormick},
+           familyi={M\bibinitperiod},
+           given={Amanda\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dfd81cf70e77fa1edaae63c4354880d0}{%
+           family={Hoellein},
+           familyi={H\bibinitperiod},
+           given={Timothy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=94e4c05968fa8dd64a013013348577a6}{%
+           family={London},
+           familyi={L\bibinitperiod},
+           given={Maxwell\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b92fd18e4d8aa2f304bd6581d0191eaa}{%
+           family={Hittie},
+           familyi={H\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=23c6b1c1ea4cbc18f822fa20ce4ceb95}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8bfdb85898f2b489df2e4f2c95591fb9}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5e1f3a6fa3d4be79a984f1665dc5449c}{%
+           family={Mccormick},
+           familyi={M\bibinitperiod},
+           given={Citation\bibnamedelima :},
+           giveni={C\bibinitperiod\bibinitdelim :\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=882cbc85ea28dc6e0659329387a9044c}{%
+           family={Hoellein},
+           familyi={H\bibinitperiod},
+           given={T\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8936e73a10f4e31b85ae935945f13d60}{%
+           family={London},
+           familyi={L\bibinitperiod},
+           given={M\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9146a33672949fd9e135e53ba8cb12b4}{%
+           family={Hittie},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c12ad539749082a6d5554635ac8e7890}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d6ab4a9a79c686c6fa05dc00a8b2c054}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={J\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{317ba1cd2677307fd04e4c3e27661a65}
+      \strng{fullhash}{0db2c8f67ea651891eb580bd5916dd51}
+      \strng{bibnamehash}{317ba1cd2677307fd04e4c3e27661a65}
+      \strng{authorbibnamehash}{317ba1cd2677307fd04e4c3e27661a65}
+      \strng{authornamehash}{317ba1cd2677307fd04e4c3e27661a65}
+      \strng{authorfullhash}{0db2c8f67ea651891eb580bd5916dd51}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{11}
+      \field{title}{{Microplastic in surface waters of urban rivers: concentration, sources, and associated bacterial assemblages}}
+      \field{volume}{7}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1002/ecs2.1556
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/Mccormick et al. - 2016 - Microplastic in surface waters of urban rivers concentration, sources, and associated bacterial assemblages(2).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.esajournals.org
+      \endverb
+      \verb{url}
+      \verb www.esajournals.org
+      \endverb
+      \keyw{16s rRNA,bacterial assemblages,microbial ecology,microplastic}
+    \endentry
+    \entry{McCormick2014}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=80e8c19ce76c37c56f2ae535879ed60e}{%
+           family={McCormick},
+           familyi={M\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6ec7cf4e8e4f69bfdfe734f8fbf9dc3a}{%
+           family={{J. Hoellein}},
+           familyi={J\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=20b75c6e7ba648c88c9dbdc5572580cb}{%
+           family={{A. Mason}},
+           familyi={A\bibinitperiod},
+           given={Sherri},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9118446567a2fc75a44c18283be7b810}{%
+           family={Schluep},
+           familyi={S\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2f7ed5e1f1d9236dbc2624ea3724caf}{%
+           family={{J. Kelly}},
+           familyi={J\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb18344b9ce908859185ef3b2ab6f137}
+      \strng{fullhash}{69898b2778579b5d25cf1d2b84172807}
+      \strng{bibnamehash}{eb18344b9ce908859185ef3b2ab6f137}
+      \strng{authorbibnamehash}{eb18344b9ce908859185ef3b2ab6f137}
+      \strng{authornamehash}{eb18344b9ce908859185ef3b2ab6f137}
+      \strng{authorfullhash}{69898b2778579b5d25cf1d2b84172807}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science & Technology}
+      \field{month}{10}
+      \field{number}{20}
+      \field{title}{{Microplastic is an Abundant and Distinct Microbial Habitat in an Urban River}}
+      \field{volume}{48}
+      \field{year}{2014}
+      \field{pages}{11863\bibrangedash 11871}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/es503610r
+      \endverb
+    \endentry
     \entry{MINGHUA20091227}{article}{}
       \name{author}{8}{}{%
         {{uniquename=0,uniquepart=base,hash=3ec6738e51d4ca723aea839eee9aa396}{%
@@ -2328,6 +2971,57 @@
       \field{volume}{26113}
       \field{year}{2013}
     \endentry
+    \entry{NADAL2016517}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=96ff93f1157458ff306f736aeca5eec3}{%
+           family={Nadal},
+           familyi={N\bibinitperiod},
+           given={M\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6260ce9b5684d5e1374e9f0682f77515}{%
+           family={Alomar},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2629e3fd3d3712e28e89dd85e1c9fc0a}{%
+           family={Deudero},
+           familyi={D\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c6bdfc64e4578ba1a476822b97a64555}
+      \strng{fullhash}{c6bdfc64e4578ba1a476822b97a64555}
+      \strng{bibnamehash}{c6bdfc64e4578ba1a476822b97a64555}
+      \strng{authorbibnamehash}{c6bdfc64e4578ba1a476822b97a64555}
+      \strng{authornamehash}{c6bdfc64e4578ba1a476822b97a64555}
+      \strng{authorfullhash}{c6bdfc64e4578ba1a476822b97a64555}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-7491}
+      \field{journaltitle}{Environmental Pollution}
+      \field{title}{{High levels of microplastic ingestion by the semipelagic fish bogue Boops boops (L.) around the Balearic Islands}}
+      \field{volume}{214}
+      \field{year}{2016}
+      \field{pages}{517\bibrangedash 523}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.envpol.2016.04.054
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116303219
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749116303219
+      \endverb
+      \keyw{Fish,Marine litter,Mediterranean Sea,Feeding}
+    \endentry
     \entry{NAPPER2015178}{article}{}
       \name{author}{4}{}{%
         {{uniquename=0,uniquepart=base,hash=d3f011c5c04c18c997951ea4b8f567c5}{%
@@ -2385,6 +3079,64 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0025326X1500449X
       \endverb
       \keyw{Contaminant,Exfoliating microbeads,Ocean pollution,Polyethylene,Microplastic}
+    \endentry
+    \entry{NEVES2015119}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=0e929c972896a3daa2e3ce8bb8921016}{%
+           family={Neves},
+           familyi={N\bibinitperiod},
+           given={Diogo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f316445430e0e5e167192ac0fedc568f}{%
+           family={Sobral},
+           familyi={S\bibinitperiod},
+           given={Paula},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=51f22364988e3ff4ad6255b55efed23f}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Joana\bibnamedelima Lia},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=40a502bfc1d5bbf2d4ee7f2832788585}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={T{â}nia},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c3a942eae3f7f92f808d3ff835fb0ad}
+      \strng{fullhash}{1ce9c501e54a5fd00c3d5a0e256360ee}
+      \strng{bibnamehash}{5c3a942eae3f7f92f808d3ff835fb0ad}
+      \strng{authorbibnamehash}{5c3a942eae3f7f92f808d3ff835fb0ad}
+      \strng{authornamehash}{5c3a942eae3f7f92f808d3ff835fb0ad}
+      \strng{authorfullhash}{1ce9c501e54a5fd00c3d5a0e256360ee}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{1}
+      \field{title}{{Ingestion of microplastics by commercial fish off the Portuguese coast}}
+      \field{volume}{101}
+      \field{year}{2015}
+      \field{pages}{119\bibrangedash 126}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2015.11.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X15301582
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X15301582
+      \endverb
+      \keyw{Commercial fish,Ingestion,Portugal,Microplastics}
     \endentry
     \entry{noren2007small}{article}{}
       \name{author}{1}{}{%
@@ -2586,6 +3338,82 @@
       \endverb
       \keyw{Fish assemblages,Microplastics ingestion,South America,Estuarine debris}
     \endentry
+    \entry{Pegado2018}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=478c4a5480ddeb639d39a44b31bf097e}{%
+           family={Pegado},
+           familyi={P\bibinitperiod},
+           given={Tamyris\bibnamedelimb de\bibnamedelima Souza},
+           giveni={T\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           prefix={e.Silva},
+           prefixi={e\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=43be4b3b48fff128e370face5adc92e6}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={Kurt},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=413c27e274954ab911ed6a084097a218}{%
+           family={Winemiller},
+           familyi={W\bibinitperiod},
+           given={Kirk\bibnamedelima O.},
+           giveni={K\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8bd016a9f56dbaefd8dc676a8a2df426}{%
+           family={Chelazzi},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6e40160d2d6f630ca2f0d89701050eba}{%
+           family={Cincinelli},
+           familyi={C\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=910e1e92e776c324f4aeca240ff2dd37}{%
+           family={Dei},
+           familyi={D\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d5a9decd4dde6e3cbccaf823c4f9697d}{%
+           family={Giarrizzo},
+           familyi={G\bibinitperiod},
+           given={Tommaso},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{1e7b045980e50bc928542527b5999d1f}
+      \strng{fullhash}{c638aba7d3820a57269be5037573a577}
+      \strng{bibnamehash}{1e7b045980e50bc928542527b5999d1f}
+      \strng{authorbibnamehash}{1e7b045980e50bc928542527b5999d1f}
+      \strng{authornamehash}{1e7b045980e50bc928542527b5999d1f}
+      \strng{authorfullhash}{c638aba7d3820a57269be5037573a577}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{month}{8}
+      \field{title}{{First evidence of microplastic ingestion by fishes from the Amazon River estuary}}
+      \field{volume}{133}
+      \field{year}{2018}
+      \field{pages}{814\bibrangedash 821}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/J.MARPOLBUL.2018.06.035
+      \endverb
+      \keyw{Brazil,Bycatch,Pollution,Trophic level}
+    \endentry
     \entry{PENG2017283}{article}{}
       \name{author}{6}{}{%
         {{uniquename=0,uniquepart=base,hash=52e035f80be209611b3518fd4c683fa7}{%
@@ -2680,6 +3508,177 @@
       \field{title}{MULTIV: Multivariate exploratory analysis, randomization testing and bootstrap resampling}
       \field{volume}{24}
       \field{year}{2006}
+    \endentry
+    \entry{POSSATTO20111098}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=da8113687c7cb261000601204da68da8}{%
+           family={Possatto},
+           familyi={P\bibinitperiod},
+           given={Fernanda\bibnamedelima E},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2d524982dedecaae55ac09665def74c8}{%
+           family={Barletta},
+           familyi={B\bibinitperiod},
+           given={M{á}rio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7e55684c4f644c174b69dac0bc09929}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Monica\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=98afb2d6630594861a1981b8f0f068b8}{%
+           family={{Ivar do Sul}},
+           familyi={I\bibinitperiod},
+           given={Juliana\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=51fbf2298250b7dfc7be1d21e8e34f8f}{%
+           family={Dantas},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f0c351bfcbcd762bb607ef0b98b3778}
+      \strng{fullhash}{5c6789f95171b79b2dd5103b1cbfe9a2}
+      \strng{bibnamehash}{9f0c351bfcbcd762bb607ef0b98b3778}
+      \strng{authorbibnamehash}{9f0c351bfcbcd762bb607ef0b98b3778}
+      \strng{authornamehash}{9f0c351bfcbcd762bb607ef0b98b3778}
+      \strng{authorfullhash}{5c6789f95171b79b2dd5103b1cbfe9a2}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{5}
+      \field{title}{{Plastic debris ingestion by marine catfish: An unexpected fisheries impact}}
+      \field{volume}{62}
+      \field{year}{2011}
+      \field{pages}{1098\bibrangedash 1102}
+      \range{pages}{5}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2011.01.036
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X11000567
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X11000567
+      \endverb
+      \keyw{Fishery,Goiana Estuary,Living resources conservation,Marine debris,Nylon,Polyamide,South America}
+    \endentry
+    \entry{Ramos2012}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=7c54e172a0f19a7e67cada059cea0ad1}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Jonas\bibnamedelima A.A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2d524982dedecaae55ac09665def74c8}{%
+           family={Barletta},
+           familyi={B\bibinitperiod},
+           given={M{á}rio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7e55684c4f644c174b69dac0bc09929}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Monica\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \strng{fullhash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \strng{bibnamehash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \strng{authorbibnamehash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \strng{authornamehash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \strng{authorfullhash}{a2170d9b34abf2e68fb48ca7f5db6700}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18647782}
+      \field{journaltitle}{Aquatic Biology}
+      \field{number}{1}
+      \field{title}{{Ingestion of nylon threads by gerreidae while using a tropical estuary as foraging grounds}}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{pages}{29\bibrangedash 34}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.3354/ab00461
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/b017p029.pdf:pdf
+      \endverb
+      \keyw{Marine conservation,Mojarra,Ontogenetic phase,Plastic marine debris,Polyamide thread}
+    \endentry
+    \entry{RIBIC2012994}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=2096354aa85fbe93153bb41e340b42f9}{%
+           family={Ribic},
+           familyi={R\bibinitperiod},
+           given={Christine\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ea292cd734a04d07961b30b2dd13eaa}{%
+           family={Sheavly},
+           familyi={S\bibinitperiod},
+           given={Seba\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e9fae0b8757ba20ab66b257f710cba6}{%
+           family={Rugg},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8161c65ecc5f3a0713de7efcacd8e3af}{%
+           family={Erdmann},
+           familyi={E\bibinitperiod},
+           given={Eric\bibnamedelima S},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3dd100f3c4a554f27cea5ae70de29fe4}
+      \strng{fullhash}{4264a8acf34708b9412ab9f9922788c5}
+      \strng{bibnamehash}{3dd100f3c4a554f27cea5ae70de29fe4}
+      \strng{authorbibnamehash}{3dd100f3c4a554f27cea5ae70de29fe4}
+      \strng{authornamehash}{3dd100f3c4a554f27cea5ae70de29fe4}
+      \strng{authorfullhash}{4264a8acf34708b9412ab9f9922788c5}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-326X}
+      \field{journaltitle}{Marine Pollution Bulletin}
+      \field{number}{5}
+      \field{title}{{Trends in marine debris along the U.S. Pacific Coast and Hawai'i 1998–2007}}
+      \field{volume}{64}
+      \field{year}{2012}
+      \field{pages}{994\bibrangedash 1004}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marpolbul.2012.02.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X12000860
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0025326X12000860
+      \endverb
+      \keyw{ENSO,Hawai'i,Monitoring,Pacific Coast,Upwelling,Marine debris}
     \endentry
     \entry{RIC}{article}{}
       \name{author}{1}{}{%
@@ -3116,6 +4115,24 @@
       \verb 10.1021/es5036317
       \endverb
     \endentry
+    \entry{ocean}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{{Trash Free Seas: International Coastal Cleanup - Ocean Conservancy}}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/
+      \endverb
+      \verb{url}
+      \verb https://oceanconservancy.org/trash-free-seas/international-coastal-cleanup/
+      \endverb
+    \endentry
     \entry{UnitedNationsHumanSettlementsProgramme2016}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=eb93e412e870c6e9124d30c65427354e}{%
@@ -3260,6 +4277,94 @@
       \verb https://www.sciencedirect.com/science/article/pii/S004896971632143X
       \endverb
       \keyw{Pollution,Urban surface waters,Wuhan,Microplastics}
+    \endentry
+    \entry{wantzen2019urban}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=a496f01e5bb46d8d128e75acd2ce7f35}{%
+           family={Wantzen},
+           familyi={W\bibinitperiod},
+           given={Karl\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=84f5b55871e6dcdd40dcb0b325e3cf88}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Carlos\bibnamedelimb Bernardo\bibnamedelima Mascarenhas},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2a190b263309bf77a379a1c1ea3ebb05}{%
+           family={Badiane},
+           familyi={B\bibinitperiod},
+           given={Sidia\bibnamedelima Diaouma},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=faf6c653dc8a4a0fab074b1d334ac488}{%
+           family={Bala},
+           familyi={B\bibinitperiod},
+           given={Raita},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=cb3ac256fefc27bef529aacefae13c8d}{%
+           family={Blettler},
+           familyi={B\bibinitperiod},
+           given={Mart{ı́}n},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=c973f5500846ee7bafd948e7eae52837}{%
+           family={Callisto},
+           familyi={C\bibinitperiod},
+           given={Marcos},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ffbd440be3d518a696e50320511efbfa}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yixin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f459a334c8d45b2fff96fbe7f2989c26}{%
+           family={Kolb},
+           familyi={K\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=12cf3ed838db9154eb6532bc75726133}{%
+           family={Kondolf},
+           familyi={K\bibinitperiod},
+           given={G\bibnamedelima Mathias},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dc91ee01183e5b577de7b57fb7d067ea}{%
+           family={Leite},
+           familyi={L\bibinitperiod},
+           given={Marina\bibnamedelima Fernandes},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{67a94e85324834c9d05cf82d71f59e3d}
+      \strng{fullhash}{538b65d614ba9607b916b9d64a4c3b0f}
+      \strng{bibnamehash}{67a94e85324834c9d05cf82d71f59e3d}
+      \strng{authorbibnamehash}{67a94e85324834c9d05cf82d71f59e3d}
+      \strng{authornamehash}{67a94e85324834c9d05cf82d71f59e3d}
+      \strng{authorfullhash}{538b65d614ba9607b916b9d64a4c3b0f}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{number}{18}
+      \field{title}{Urban stream and wetland restoration in the Global South—A DPSIR analysis}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{4975}
+      \range{pages}{1}
     \endentry
     \entry{Weinstein2016}{article}{}
       \name{author}{3}{}{%
@@ -3530,6 +4635,127 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0269749117345591
       \endverb
       \keyw{Lake current,Plastic debris,Tourism,Weathering,Remote lake}
+    \endentry
+    \entry{Xu2019}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=e939bd7f2f334d487a57cc212414bf14}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zuxin},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c192742f19141562ab08b13a0d9cf23a}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eb35ac0a5ecfbc65ee76d57a84fbda36}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Hailong},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a8de624d5118be2e7c4acdcdacde17c}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=067844950567ebe3aa1e9d0defeb0597}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Huaizheng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=952bd79ef18226de1207bbaf3407c797}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5e065b6a82552c5f3b6a9f6cf1bf3586}
+      \strng{fullhash}{811def7af16422753fbf1cc3f2e15d29}
+      \strng{bibnamehash}{5e065b6a82552c5f3b6a9f6cf1bf3586}
+      \strng{authorbibnamehash}{5e065b6a82552c5f3b6a9f6cf1bf3586}
+      \strng{authornamehash}{5e065b6a82552c5f3b6a9f6cf1bf3586}
+      \strng{authorfullhash}{811def7af16422753fbf1cc3f2e15d29}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2398-9629}
+      \field{journaltitle}{Nature Sustainability}
+      \field{number}{3}
+      \field{title}{{Urban river pollution control in developing countries}}
+      \field{volume}{2}
+      \field{year}{2019}
+      \field{pages}{158\bibrangedash 160}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/s41893-019-0249-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41893-019-0249-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41893-019-0249-7
+      \endverb
+    \endentry
+    \entry{ZBYSZEWSKI2014288}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=8cb58656d27746eb3096a1c4d6667a23}{%
+           family={Zbyszewski},
+           familyi={Z\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=014f7327d15da0058f3a99ee798cde5e}{%
+           family={Corcoran},
+           familyi={C\bibinitperiod},
+           given={Patricia\bibnamedelima L},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d1dc951c6bd2505d623e68ddc7c180d7}{%
+           family={Hockin},
+           familyi={H\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8717eeab4fe9072bb91507856be5ff7}
+      \strng{fullhash}{b8717eeab4fe9072bb91507856be5ff7}
+      \strng{bibnamehash}{b8717eeab4fe9072bb91507856be5ff7}
+      \strng{authorbibnamehash}{b8717eeab4fe9072bb91507856be5ff7}
+      \strng{authornamehash}{b8717eeab4fe9072bb91507856be5ff7}
+      \strng{authorfullhash}{b8717eeab4fe9072bb91507856be5ff7}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0380-1330}
+      \field{journaltitle}{Journal of Great Lakes Research}
+      \field{number}{2}
+      \field{title}{{Comparison of the distribution and degradation of plastic debris along shorelines of the Great Lakes, North America}}
+      \field{volume}{40}
+      \field{year}{2014}
+      \field{pages}{288\bibrangedash 299}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jglr.2014.02.012
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S038013301400046X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S038013301400046X
+      \endverb
+      \keyw{FTIR,Great Lakes,Pollution,SEM,Shorelines,Plastic debris}
     \endentry
     \entry{ZHANG2015117}{article}{}
       \name{author}{5}{uniquelist=2}{%

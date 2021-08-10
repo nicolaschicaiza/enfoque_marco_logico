@@ -2076,7 +2076,7 @@
     <bcf:citekey order="79">XIONG2018899</bcf:citekey>
     <bcf:citekey order="80">COLE20112588</bcf:citekey>
     <bcf:citekey order="81">Conkle2018</bcf:citekey>
-    <bcf:citekey order="82">COLLE20112588</bcf:citekey>
+    <bcf:citekey order="82">Cole2013</bcf:citekey>
     <bcf:citekey order="83">dris2015microplastic</bcf:citekey>
     <bcf:citekey order="84">ZHANG2015117</bcf:citekey>
     <bcf:citekey order="85">Zhang2017</bcf:citekey>
@@ -2092,6 +2092,31 @@
     <bcf:citekey order="95">ZHANG2015117</bcf:citekey>
     <bcf:citekey order="96">LAHENS2018661</bcf:citekey>
     <bcf:citekey order="97">PAZOS2018134</bcf:citekey>
+    <bcf:citekey order="98">RIBIC2012994</bcf:citekey>
+    <bcf:citekey order="99">WANG20171369</bcf:citekey>
+    <bcf:citekey order="100">wantzen2019urban</bcf:citekey>
+    <bcf:citekey order="101">Xu2019</bcf:citekey>
+    <bcf:citekey order="102">McCormick2014</bcf:citekey>
+    <bcf:citekey order="103">Mccormick2016</bcf:citekey>
+    <bcf:citekey order="104">GUNDOGDU2018342</bcf:citekey>
+    <bcf:citekey order="105">Kyaw2012</bcf:citekey>
+    <bcf:citekey order="106">LEE2013349</bcf:citekey>
+    <bcf:citekey order="107">ocean</bcf:citekey>
+    <bcf:citekey order="108">ZBYSZEWSKI2014288</bcf:citekey>
+    <bcf:citekey order="109">Azevedo-Santos2019</bcf:citekey>
+    <bcf:citekey order="110">CANNON2016286</bcf:citekey>
+    <bcf:citekey order="111">NADAL2016517</bcf:citekey>
+    <bcf:citekey order="112">PAZOS201785</bcf:citekey>
+    <bcf:citekey order="113">Pegado2018</bcf:citekey>
+    <bcf:citekey order="114">POSSATTO20111098</bcf:citekey>
+    <bcf:citekey order="115">Ramos2012</bcf:citekey>
+    <bcf:citekey order="116">NEVES2015119</bcf:citekey>
+    <bcf:citekey order="117">BELLAS201655</bcf:citekey>
+    <bcf:citekey order="118">NADAL2016517</bcf:citekey>
+    <bcf:citekey order="119">PAZOS201785</bcf:citekey>
+    <bcf:citekey order="120">AnthonyBrowne2011</bcf:citekey>
+    <bcf:citekey order="121">CarneyAlmroth</bcf:citekey>
+    <bcf:citekey order="122">JABEEN2017141</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

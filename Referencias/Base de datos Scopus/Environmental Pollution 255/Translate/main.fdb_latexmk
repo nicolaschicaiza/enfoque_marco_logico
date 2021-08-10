@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1628537193 "main.bcf" "main.bbl" "main" 1628537202
-  "codigofuente/bibliografia.bib" 1628536458 32595 e750db9ef8ae8a5a7ed825ec019783cf ""
-  "main.bcf" 1628537200 96865 6fc0b1a0e26fef924716e8f5d199869d ""
+["biber main"] 1628561381 "main.bcf" "main.bbl" "main" 1628563115
+  "codigofuente/bibliografia.bib" 1628561235 43224 a8d24260748af5c2aacb3cb985a07fd1 ""
+  "main.bcf" 1628562772 98265 4dc65a892799e90d9801d036584d50c5 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1628537202 "main.tex" "main.pdf" "main" 1628537202
+  "main.blg"
+["pdflatex"] 1628563115 "main.tex" "main.pdf" "main" 1628563115
   "/etc/texmf/web2c/texmf.cnf" 1622387624 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -292,7 +292,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551493644 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1622387696 3236060 fd056e42459c13cbcb0cc6e0a7cae8d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1622387714 4227212 7ed702a6805a2c41ff57093eccde89ff ""
-  "codigofuente/discusiones.tex" 1628537185 9089 76093bcd0e9d9bc0e5f879e01382b6b9 ""
+  "codigofuente/conclusiones.tex" 1628563114 2722 eaeb4eb99523304f151049e2190a788d ""
+  "codigofuente/discusiones.tex" 1628561384 15880 352c8a22d609fd1c08032769dfa26487 ""
   "codigofuente/img/figura1/figura1a.png" 1628391129 264445 67e853a1956fa6909858b12693b33030 ""
   "codigofuente/img/figura1/figura1b.png" 1628391167 1180792 b565f2476f6f0628ea344cadacdd17c5 ""
   "codigofuente/img/figura1/figura1c.png" 1628391197 1613611 8eb5e9cecb93e39a63546ae059a96fdc ""
@@ -308,15 +309,15 @@
   "codigofuente/preambulo.tex" 1628431565 2055 d3b0e40b8e5875acda9be662d99d9d0a ""
   "codigofuente/resultados.tex" 1628523075 14791 5dd46852385e8287a7eae2af5929e58d ""
   "codigofuente/resumen.tex" 1628365904 2459 444511ff0b087be82985fcfe8a67366d ""
-  "main.aux" 1628537200 20830 03f9a7081d3c8d87cd7236f3bc53494f ""
-  "main.bbl" 1628537196 154060 15b6a558f6ce2105430e114316025767 "biber main"
-  "main.out" 1628537200 879 2d03ee943677d76738b0356aa19151ae ""
-  "main.run.xml" 1628537200 2323 6d802c49717bf841158b9f6ca40de2d7 ""
-  "main.tex" 1628478627 2644 065dff9a65ad36775afc81634d5a3491 ""
+  "main.aux" 1628562772 24243 95e3dee84e49c718411c5dd7def261df ""
+  "main.bbl" 1628561385 205820 07386ddaa613d03efa9f5076dc10afc9 "biber main"
+  "main.out" 1628562772 1151 3be0973a858a6ffe0a6656a7897565e9 ""
+  "main.run.xml" 1628562772 2323 6d802c49717bf841158b9f6ca40de2d7 ""
+  "main.tex" 1628561458 2682 8bbcda8b30a075845a6c8ccd3fb287b7 ""
   (generated)
-  "main.pdf"
-  "main.out"
-  "main.aux"
-  "main.log"
-  "main.run.xml"
   "main.bcf"
+  "main.pdf"
+  "main.log"
+  "main.aux"
+  "main.run.xml"
+  "main.out"
