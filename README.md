@@ -113,7 +113,7 @@ Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernaci
 |  14  |     Lecho fluvial reducido      | Generar una serie de dirección artificial de los ríos que permita la circulación normal para evitar estancamientos. |
 |  15  |  Aumento del nivel del caudal   | Extraer basuras del fondo de los ríos para que el nivel del agua no suba y permita que se desborde |
 |  16  |         Sedimento débil         | Tener control acerca del suelo en los cuales los ríos circulan para evitar deslizamientos que afecten otros factores. |
-|  17  |         Desbordamientos         | Disminuir los desechos en los ríos y fortificar las zonas más débiles que pueden tender a producirse un desbordamientos. |
+|  17  |         Desbordamientos         | Disminuir los desechos en los ríos y fortificar las zonas más débiles que pueden tender a producirse un desbordamiento. |
 |  18  |     Flujo hídrico represado     | Realizar reparaciones en los canales naturales de los arroyos urbanos para evitar interrumpir su flujo. |
 |  19  |     Presencia de bacterias      | Toma de muestras para estudiar e investigar que agentes están presentes en los cuerpos de agua de la ciudad. |
 |  20  |          Aguas turbias          | Aplicar sistemas de monitoreo para medir en continuo los valores de turbidez y fijar un control de estos valores para contrarrestar el fenómeno. |
