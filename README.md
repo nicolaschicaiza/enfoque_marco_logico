@@ -97,16 +97,6 @@ Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernaci
 
 |      |            Problema             |                           Objetivo                           |
 | :--: | :-----------------------------: | :----------------------------------------------------------: |
-<<<<<<< HEAD
-|  1   | Alto índice de basura arrojada  | Campañas informativas acerca del manejo de basuras y su respectivo reciclaje<br /> |
-|  2   |         Minería ilegal          | Disminuir este tipo de actividades con un plan de choque el cual tenga medidas drásticas en base a lo estipulado en la ley por parte del estado |
-|  3   |  Poca atención de la población  | Crear conciencia en las personas acerca de cuidar el medio ambiente |
-|  4   |   Desecho de residuos sólidos   | Brindar información clave que ayude a las personas a dar un adecuado procedo de eliminación de este tipo de basuras, generada más que todo para los comerciantes de las zonas. |
-|  5   |       Apoyo insuficiente        | Campañas de apoyo hacia el bienestar de la ciudad y las zonas verdes de la ciudad, generando así atención a la problemática que se desarrolla en los ríos |
-|  6   |      Problemas sanitarios       | Proveer atención médica a zonas donde la contaminación es evidente para controlar los casos de enfermedades |
-|  7   |       Descontento social        | Tener una organización adecuada de las basuras para que el ambiente de la ciudad y de dicha zonas en especifico sean más limpias y genere satisfacción |
-|  8   |  Destrucción de flora y fauna   | Generar limpieza de los ríos para que las zonas verdes que los rodean abunda vegetación y los animales puedan subsistir |
-=======
 |  1   | Alto índice de basura arrojada  | Aumentar la cantidad de señales informativas cerca a las zonas de los ríos, en especial los puentes de transito. |
 |  2   |        Aguas residuales         | Generar un proyecto de decreto para el buen uso de las aguas residuales según la actividad que se este realizando. |
 |  3   |  Poca atención de la población  | Usar los medios de comunicación para generar mayor conciencia en las personas acerca del cuidado del estado ambiental de los ríos. |
@@ -115,14 +105,13 @@ Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernaci
 |  6   |      Problemas sanitarios       | Proveer atención médica a zonas donde la contaminación es evidente para controlar los casos de enfermedades. |
 |  7   |       Descontento social        | Tener una organización adecuada de las basuras para que el ambiente de la ciudad y de dicha zonas en especifico sean más limpias y genere satisfacción. |
 |  8   |  Destrucción de flora y fauna   | Utilizar un sistema que tenga la capacidad de filtrar y gestionar los desechos macroplásticos y micrioplásticos que ponen en peligro a las especies del lugar. |
->>>>>>> objectives
-|  9   | Disminución de fuentes potables | Con mayor vegetación en la zona puede producirse una cierta pureza en el agua, y también se podría utilizar un sistema de filtración para obtener agua potable (a largo plazo) |
+|  9   | Disminución de fuentes potables | Con mayor vegetación en la zona puede producirse una cierta pureza en el agua, y también se podría utilizar un sistema de filtración para obtener agua potable (a largo plazo). |
 |  10  |        Químicos dañinos         | Aspirar a aplicar una ley que existe en países desarrollados en nuestro país como la Ley de Agua Limpia en los Estados Unidos y la Directiva Marco del Agua (DMA) en Europa. |
-|  11  |     Transparencia del agua      | Con actividades de limpieza y control en los ríos puede generarse un ambiente nuevo, el cual produzca orden en las personas y un cierto grado de pureza en el agua |
+|  11  |     Transparencia del agua      | Con actividades de limpieza y control en los ríos puede generarse un ambiente nuevo, el cual produzca orden en las personas y un cierto grado de pureza en el agua. |
 |  12  |          Malos olores           | Organizar movimientos de voluntarios ambientales con respecto a los ríos mal olientes a través de universidades y el gobierno local. |
 |  13  |        Aumento de plagas        | Hacer control del agua estancada que se genera debido al bloqueo del cauce para reducir la cantidad de insectos u otro tipo de plagas en las zonas aledañas. |
 |  14  |     Lecho fluvial reducido      | Generar una serie de dirección artificial de los ríos que permita la circulación normal para evitar estancamientos. |
-|  15  |  Aumento del nivel del caudal   | Extraer basuras del fondo de los ríos para que el nivel del agua no suba y permita que se desborde |
+|  15  |  Aumento del nivel del caudal   | Extraer basuras del fondo de los ríos para que el nivel del agua no suba y permita que se desborde. |
 |  16  |         Sedimento débil         | Tener control acerca del suelo en los cuales los ríos circulan para evitar deslizamientos que afecten otros factores. |
 |  17  |         Desbordamientos         | Disminuir los desechos en los ríos y fortificar las zonas más débiles que pueden tender a producirse un desbordamiento. |
 |  18  |     Flujo hídrico represado     | Realizar reparaciones en los canales naturales de los arroyos urbanos para evitar interrumpir su flujo. |
@@ -130,7 +119,7 @@ Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernaci
 |  20  |          Aguas turbias          | Aplicar sistemas de monitoreo para medir en continuo los valores de turbidez y fijar un control de estos valores para contrarrestar el fenómeno. |
 |  21  |    Mala gestión de la basura    | Realizar una buena gestión de la basura en los hogares es una tarea compleja, sin embargo estudios muestran que aplicar impuestos de "pago por uso" reduce significativamente la cantidad de desechos que generan las personas. |
 |  22  |        Daños ambientales        | La contaminación en los ríos no unicamente es producto de una contaminación directa, cualquier contaminación presente en zonas verdes este terminara en los ríos por medio del subsuelo, por lo que es de gran importancia tomar medidas ante esta situación. |
-|  23  |      Contaminación hídrica      | Limpiar los ríos de todo factor contaminante que afecte el agua y generar bienestar ambiental para las zonas circundantes a dichas fuentes de vida |
+|  23  |      Contaminación hídrica      | Limpiar los ríos de todo factor contaminante que afecte el agua y generar bienestar ambiental para las zonas circundantes a dichas fuentes de vida. |
 
 ### Glosario
 
