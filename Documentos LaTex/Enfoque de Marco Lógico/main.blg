@@ -1,5 +1,16 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [1] Config.pm:307> INFO - Logfile is 'main.blg'
-[48] biber:315> INFO - === vie ago 20, 2021, 11:26:06
-[72] Utils.pm:209> ERROR - main.bcf is malformed, last biblatex run probably failed. Deleted main.bbl
-[72] Biber.pm:114> INFO - ERRORS: 1
+[49] biber:315> INFO - === vie ago 20, 2021, 15:07:51
+[82] Biber.pm:371> INFO - Reading 'main.bcf'
+[204] Biber.pm:889> INFO - Found 5 citekeys in bib section 0
+[229] Biber.pm:4093> INFO - Processing section 0
+[247] Biber.pm:4254> INFO - Looking for bibtex format file 'codigofuente/bibliografia.bib' for section 0
+[248] bibtex.pm:1512> INFO - LaTeX decoding ...
+[267] bibtex.pm:1329> INFO - Found BibTeX data source 'codigofuente/bibliografia.bib'
+[355] Utils.pm:193> WARN - ISBN '8613151185049' in entry 'Yu2021' is invalid - run biber with '--validate_datamodel' for details.
+[377] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[378] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[378] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[391] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[394] bbl.pm:739> INFO - Output to main.bbl
+[395] Biber.pm:110> INFO - WARNINGS: 1

@@ -1,0 +1,231 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{SecretariadeSalud2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9abe6b8c61b901f5a7125ea293504752}{%
+           family={{Secretar{í}a de Salud}},
+           familyi={S\bibinitperiod},
+           given={Gobernaci{ó}n},
+           giveni={G\bibinitperiod},
+           prefix={del\bibnamedelima cauca},
+           prefixi={d\bibinitperiod\bibinitdelim c\bibinitperiod}}}%
+      }
+      \strng{namehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{fullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{bibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorbibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authornamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorfullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781479978007}
+      \field{journaltitle}{Boletines periodicos sobre la limpieza y el estado de pureza de las aguas realizados por los municipios del departamento del Cauca.}
+      \field{title}{{Mapa De Riesgo De La Calidad Del Agua Para Consumo Humano}}
+      \field{year}{2019}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Secretaria de Salud Departamental del Cauca/BoletinAGUA-Nov-Dic-2019.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://observatoriosaludcauca.gov.co/wp-content/uploads/2019/
+      \endverb
+      \verb{url}
+      \verb http://observatoriosaludcauca.gov.co/wp-content/uploads/2019/
+      \endverb
+    \endentry
+    \entry{tipocontaminacion}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Acciones para reducir la contaminaci{ó}n del agua | Fundaci{ó}n Aquae}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+      \verb{url}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+    \endentry
+    \entry{Stepien2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5bba12f3913e2cd881a6f52023a35029}{%
+           family={St{ȩ}pie{ń}},
+           familyi={S\bibinitperiod},
+           given={Edyta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c971273d69331797e36fb1724ada28d5}{%
+           family={Zawal},
+           familyi={Z\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59dd71a7a993a23549e4546d1c7e0088}{%
+           family={Buczy{ń}ski},
+           familyi={B\bibinitperiod},
+           given={Pawe{ł}},
+           giveni={P\bibinitperiod}}}%
+        {{hash=36a4343b0509e59ee65e75be37465db0}{%
+           family={Buczy{ń}ska},
+           familyi={B\bibinitperiod},
+           given={Edyta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1023475ce50b858d67303ce5456e6084}{%
+           family={Szenejko},
+           familyi={S\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c864d36b64a0b06efa31f8246f491422}
+      \strng{fullhash}{523f51f3e73bcc1fb2963bf38a3e3672}
+      \strng{bibnamehash}{523f51f3e73bcc1fb2963bf38a3e3672}
+      \strng{authorbibnamehash}{523f51f3e73bcc1fb2963bf38a3e3672}
+      \strng{authornamehash}{c864d36b64a0b06efa31f8246f491422}
+      \strng{authorfullhash}{523f51f3e73bcc1fb2963bf38a3e3672}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Effects of dredging on the vegetation in a small lowland river}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.7717/peerj.6282
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/St{\c{e}}pie{\'{n}} et al. - Unknown - Effects of dredging on the vegetation in a small lowland river.pdf:pdf;:home/jnicolaschc/.local/share/data/Mendeley Ltd./Mendeley Desktop/Downloaded/St{\c{e}}pie{\'{n}} et al. - Unknown - Effects of dredging on the vegetation in a small lowland river(2).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.org/10.7717/peerj.6282
+      \endverb
+      \verb{url}
+      \verb http://doi.org/10.7717/peerj.6282
+      \endverb
+    \endentry
+    \entry{SecretariadeSalud2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9abe6b8c61b901f5a7125ea293504752}{%
+           family={{Secretar{í}a de Salud}},
+           familyi={S\bibinitperiod},
+           given={Gobernaci{ó}n},
+           giveni={G\bibinitperiod},
+           prefix={del\bibnamedelima cauca},
+           prefixi={d\bibinitperiod\bibinitdelim c\bibinitperiod}}}%
+      }
+      \strng{namehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{fullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{bibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorbibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authornamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorfullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{En municipios end{é}micos se recolectan cerca de tres toneladas de inservibles para prevenir el Dengue}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.saludcauca.gov.co/sala-de-prensa/noticias/768-en-municipios-endemicos-se-recolectan-cerca-de-tres-toneladas-de-inservibles-para-prevenir-el-dengue?highlight=WyJlc3RhbmNhZGFzIl0=
+      \endverb
+      \verb{url}
+      \verb https://www.saludcauca.gov.co/sala-de-prensa/noticias/768-en-municipios-endemicos-se-recolectan-cerca-de-tres-toneladas-de-inservibles-para-prevenir-el-dengue?highlight=WyJlc3RhbmNhZGFzIl0=
+      \endverb
+    \endentry
+    \entry{Yu2021}{article}{}
+      \name{author}{8}{}{%
+        {{hash=1061df2ae47c9f35947c28cecb695d4a}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Shiwang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9506c46f1ec94cf8121c2b221a12e418}{%
+           family={Bao},
+           familyi={B\bibinitperiod},
+           given={Jianxia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3852d06dd5209a1a2a9b45b9ec46fbbc}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3ce6a3f9286ea3b0873b6583cf3b8faf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xue},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8fe0a1952dd1615dc5518612d2751a88}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xiaonan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5a0ffa33baa1b92a562810cc67c7428a}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Jianli},
+           giveni={J\bibinitperiod}}}%
+        {{hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=56e5f121d3fd8184478a32a92f333d2f}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Prateek},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e9c087bb4a8732f710a0f8fa6a2b323}
+      \strng{fullhash}{fd61b8d83921cad48b76bbd7f6c92710}
+      \strng{bibnamehash}{fd61b8d83921cad48b76bbd7f6c92710}
+      \strng{authorbibnamehash}{fd61b8d83921cad48b76bbd7f6c92710}
+      \strng{authornamehash}{0e9c087bb4a8732f710a0f8fa6a2b323}
+      \strng{authorfullhash}{fd61b8d83921cad48b76bbd7f6c92710}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{8613151185049}
+      \field{issn}{20711050}
+      \field{journaltitle}{Sustainability (Switzerland)}
+      \field{number}{6}
+      \field{title}{{Investigating the relationship between public satisfaction and public environmental participation during government treatment of urban malodorous black river in China}}
+      \field{volume}{13}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/su13063584
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Base de datos Scopus/Sustainability/sustainability-13-03584-v3.pdf:pdf
+      \endverb
+      \keyw{Environmental impact,Government policies,Malodorous black river,Participation,Public satisfaction,Urbanization}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
