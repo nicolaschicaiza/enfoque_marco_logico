@@ -16,5 +16,60 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{SecretariadeSalud2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9abe6b8c61b901f5a7125ea293504752}{%
+           family={{Secretar{í}a de Salud}},
+           familyi={S\bibinitperiod},
+           given={Gobernaci{ó}n},
+           giveni={G\bibinitperiod},
+           prefix={del\bibnamedelima cauca},
+           prefixi={d\bibinitperiod\bibinitdelim c\bibinitperiod}}}%
+      }
+      \strng{namehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{fullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{bibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorbibnamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authornamehash}{9abe6b8c61b901f5a7125ea293504752}
+      \strng{authorfullhash}{9abe6b8c61b901f5a7125ea293504752}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781479978007}
+      \field{journaltitle}{Boletines periodicos sobre la limpieza y el estado de pureza de las aguas realizados por los municipios del departamento del Cauca.}
+      \field{title}{{Mapa De Riesgo De La Calidad Del Agua Para Consumo Humano}}
+      \field{year}{2019}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Secretaria de Salud Departamental del Cauca/BoletinAGUA-Nov-Dic-2019.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://observatoriosaludcauca.gov.co/wp-content/uploads/2019/
+      \endverb
+      \verb{url}
+      \verb http://observatoriosaludcauca.gov.co/wp-content/uploads/2019/
+      \endverb
+    \endentry
+    \entry{tipocontaminacion}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{title}{{Acciones para reducir la contaminaci{ó}n del agua | Fundaci{ó}n Aquae}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+      \verb{url}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
