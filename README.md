@@ -2,6 +2,10 @@
 
 Todas las actividades que se realizaran para llevar a cabo el informe del enfoque de marco lógico se registraran en este repositorio.
 
+---
+
+# Titulo: Contaminación de los ríos que atraviesan la ciudad de Popayán
+
 ## Identificación de aspectos importantes y desarrollo del problema 
 
 ### Descripción del problema
@@ -11,6 +15,10 @@ Por la ciudad de Popayán pasan varios riachuelos, los cuales atraviesan distint
 Muchos de los riachuelos no están en una situación de total atención por parte de los residentes de la ciudad, estos sufren graves daños como la contaminación generada por desechos o residuos abandonados en las avenidas circundantes. Es muy conocido que en los sectores comerciales cercanos la tasa de acumulación de desechos es bastante alta, por lo que en ocasiones las corrientes de aguas lluvias se mezclan con las sustancias que se producen de los residuos de diferentes materiales, terminando estos siendo parte de las corrientes de aguas pluviales de la ciudad.
 
 Teniendo en cuenta que el apoyo que brinda entes como la Alcaldía, la Gobernación, la CRC, la Secretaria de Salud y el Acueducto de la ciudad, son insuficientes para maximizar la realización de proyectos de limpieza y control de calidad de agua de los riachuelos, se puede identificar cierto descontento por las comunidades que de cierta manera se ven perjudicadas por los malos olores, la preocupación del aumento del nivel del agua, presencia de plagas en la zona, entre otros.
+
+### Hipótesis
+
+La contaminación de los ríos es una de las principales causas de los desbordes y enfermedades en persona en las zonas urbanas aledañas. **¿Cómo se podría reducir la contaminación de los ríos que atraviesan la zona urbana de Popayán?**
 
 ### Posibles participantes
 
