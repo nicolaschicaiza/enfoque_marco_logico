@@ -608,11 +608,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT img/Escudo.jpg
 INPUT ./img/Escudo.jpg
+INPUT img/Escudo.jpg
+INPUT ./img/Escudo.jpg
 INPUT codigofuente/objetivos.tex
 INPUT codigofuente/objetivos.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm
-INPUT img/Escudo.jpg
-INPUT ./img/Escudo.jpg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futrc8t.tfm
 INPUT img/Escudo.jpg
 INPUT ./img/Escudo.jpg
