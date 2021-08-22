@@ -1996,11 +1996,17 @@
     <bcf:datasource type="file" datatype="bibtex">codigofuente/bibliografia.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">SecretariadeSalud2019</bcf:citekey>
-    <bcf:citekey order="2">tipocontaminacion</bcf:citekey>
+    <bcf:citekey order="1">Blettler2017</bcf:citekey>
+    <bcf:citekey order="2">Gastezzi-Arias2016</bcf:citekey>
     <bcf:citekey order="3">Stepien2019</bcf:citekey>
-    <bcf:citekey order="4">SecretariadeSalud2020</bcf:citekey>
-    <bcf:citekey order="5">Yu2021</bcf:citekey>
+    <bcf:citekey order="4">MendozaCarino2014</bcf:citekey>
+    <bcf:citekey order="6">Garcia-Morales2021</bcf:citekey>
+    <bcf:citekey order="7">Ahumada-Santos2014</bcf:citekey>
+    <bcf:citekey order="8">He2021</bcf:citekey>
+    <bcf:citekey order="9">Morita2021</bcf:citekey>
+    <bcf:citekey order="10">MERCHAN2021</bcf:citekey>
+    <bcf:citekey order="11">SecretariadeSalud2019</bcf:citekey>
+    <bcf:citekey order="12">tipocontaminacion</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
