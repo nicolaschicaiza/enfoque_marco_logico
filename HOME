@@ -1,0 +1,625 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/\Vitemize
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&\Vitemize
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:w
+|2,0,1629687628,,"w"
+:,$s/\Vitemize/enumerate/gc
+|2,0,1629682781,,",$s/\\Vitemize/enumerate/gc"
+:483
+<,$s/\V\\begin{itemize}\n	\\item Análisis de los efectos de aumentar el ancho del filtro ideal.\n	\\item Análisis de los efectos de disminuir el ancho del filtro ideal.\n	\\item Análisis de los efectos de variar el rango de frecuencias del filtro trapezoidal donde su respuesta es constante.\n	\\item Análisis de resultados a partir del teorema de la energía de Rayleigh.\n	\\item Análisis de los resultados a partir de la teoría de distorsión lineal.\n\\end{itemize}\n//gc
+|2,0,1629682766,,>504
+|<",$s/\\V\\\\begin{itemize}\\n	\\\\item Análisis de los efectos de aumentar el ancho del filtro ideal.\\n	\\\\item Análisis de los efectos de disminuir el ancho del filtro ideal.\\n	\\\\item Análisis de los efectos de variar el rango de frecuencias del filtro trapezoidal donde su respuesta es constante.\\n	\\\\item Análisis de resultados a partir del teorema de la energía de Rayleigh.\\n	\\\\item Análisis de los resultados a partir de la teoría de distorsión lineal.\\n\\\\end{ite
+|<mize}\\n//gc"
+:,$s/\Vfunción/filtro/gc
+|2,0,1629677517,,",$s/\\Vfunción/filtro/gc"
+:%s/scriptsize/tiny/g
+|2,0,1629607377,,"%s/scriptsize/tiny/g"
+:%s/au//g
+|2,0,1629523779,,"%s/au//g"
+:%s/tau/$\tau$/gc
+|2,0,1629523761,,"%s/tau/$\\tau$/gc"
+:%s/tau/$\tau$/g
+|2,0,1629523744,,"%s/tau/$\\tau$/g"
+:%s/\ensuremath{/backslach}tau/$\tau$/g
+|2,0,1629521501,,"%s/\\ensuremath{/backslach}tau/$\\tau$/g"
+:%s/\en
+|2,0,1629521469,,"%s/\\en"
+:%s/tiny/scriptsize/g
+|2,0,1629519332,,"%s/tiny/scriptsize/g"
+:w!
+|2,0,1629477558,,"w!"
+:q
+|2,0,1629477225,,"q"
+:W
+|2,0,1629472926,,"W"
+:%s/footnotesize/scriptsize/gc
+|2,0,1629299407,,"%s/footnotesize/scriptsize/gc"
+:'<,'>w
+|2,0,1629135562,,"'<,'>w"
+:'<,'>s/figura3/figura4/g
+|2,0,1628472893,,"'<,'>s/figura3/figura4/g"
+:'<,'>s/0.45/0.3/g
+|2,0,1628471629,,"'<,'>s/0.45/0.3/g"
+:'<,'>s/scriptsize/tiny/g
+|2,0,1628461898,,"'<,'>s/scriptsize/tiny/g"
+:ww
+|2,0,1628361820,,"ww"
+:%s/store/Store/g
+|2,0,1628101143,,"%s/store/Store/g"
+:%s/tienda/Store/g
+|2,0,1628101133,,"%s/tienda/Store/g"
+:s/add/clear/g
+|2,0,1628099040,,"s/add/clear/g"
+:s/add/substrat/g
+|2,0,1628099018,,"s/add/substrat/g"
+:s/delete/del/g
+|2,0,1628098998,,"s/delete/del/g"
+:s/add/del/g
+|2,0,1628098989,,"s/add/del/g"
+:s/add/delete/g
+|2,0,1628098965,,"s/add/delete/g"
+:wq
+|2,0,1628097845,,"wq"
+:%s/post/article/g
+|2,0,1628032210,,"%s/post/article/g"
+:s/post/articles
+|2,0,1628032175,,"s/post/articles"
+:'<,'>s/contact/store/g
+|2,0,1628022145,,"'<,'>s/contact/store/g"
+:s/%/{/g
+|2,0,1628015080,,"s/%/{/g"
+:s/p/table/g
+|2,0,1628012670,,"s/p/table/g"
+:%s/label%g/label/g
+|2,0,1628012225,,"%s/label%g/label/g"
+:%s/labal/label%g
+|2,0,1628012210,,"%s/labal/label%g"
+:%s/jpg//g
+|2,0,1627943036,,"%s/jpg//g"
+:s/Front/Back/g
+|2,0,1627942484,,"s/Front/Back/g"
+:%s/FandersLado/Front/g
+|2,0,1627942467,,"%s/FandersLado/Front/g"
+:'<,'>s/service/post/g
+|2,0,1627923913,,"'<,'>s/service/post/g"
+:'<,'>s/service/
+|2,0,1627923896,,"'<,'>s/service/"
+:'<,'>s/services/blog/g
+|2,0,1627923515,,"'<,'>s/services/blog/g"
+:'<,'>s/registe/register/g
+|2,0,1627916694,,"'<,'>s/registe/register/g"
+:'<,'>s/Register/registe/g
+|2,0,1627916651,,"'<,'>s/Register/registe/g"
+:'<,'>s/Category/Post/g
+|2,0,1627916584,,"'<,'>s/Category/Post/g"
+:'<,'>s/]/}
+|2,0,1627848284,,"'<,'>s/]/}"
+:'<,'>s/.html/
+|2,0,1627846955,,"'<,'>s/.html/"
+:we
+|2,0,1627833902,,"we"
+:%s/messange/message/cg
+|2,0,1627778934,,"%s/messange/message/cg"
+:w Assets/main.html
+|2,0,1627415052,,"w Assets/main.html"
+:w+
+|2,0,1627412754,,"w+"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? \Vitemize
+|2,1,1629682781,,"\\Vitemize"
+? \m<|1|>
+|2,1,1629681111,,"\\m<|1|>"
+? anali
+|2,1,1629678787,,"anali"
+? aplico
+|2,1,1629678776,,"aplico"
+? analizo
+|2,1,1629678724,,"analizo"
+? señal
+|2,1,1629678369,,"señal"
+? contin
+|2,1,1629678016,,"contin"
+? espec
+|2,1,1629677884,,"espec"
+? \Vfunción
+|2,1,1629677517,,"\\Vfunción"
+? \<El\>
+|2,1,1629677299,,"\\<El\\>"
+? las
+|2,1,1629641012,,"las"
+? scriptsize
+|2,1,1629607377,,"scriptsize"
+? ele
+|2,1,1629598538,,"ele"
+? repre
+|2,1,1629598510,,"repre"
+? Aun
+|2,1,1629598467,,"Aun"
+? a
+|2,1,1629598442,,"a"
+? Gaste
+|2,1,1629596322,,"Gaste"
+? [
+|2,1,1629593268,,"["
+? figu
+|2,1,1629587685,,"figu"
+? llevo
+|2,1,1629572043,,"llevo"
+? cumpla
+|2,1,1629566116,,"cumpla"
+? y(
+|2,1,1629524411,,"y("
+? au
+|2,1,1629523779,,"au"
+? tau
+|2,1,1629523761,,"tau"
+? tiny
+|2,1,1629519332,,"tiny"
+? -a
+|2,1,1629519154,,"-a"
+? utili
+|2,1,1629512059,,"utili"
+? cero
+|2,1,1629488409,,"cero"
+? interrum
+|2,1,1629486226,,"interrum"
+? basura
+|2,1,1629478634,,"basura"
+? GIT
+|2,1,1629476804,,"GIT"
+? secre
+|2,1,1629470711,,"secre"
+? plan
+|2,1,1629306038,,"plan"
+? ellos
+|2,1,1629305156,,"ellos"
+? desbordamien
+|2,1,1629304703,,"desbordamien"
+? alc
+|2,1,1629303586,,"alc"
+? Acu
+|2,1,1629303564,,"Acu"
+? Dismi
+|2,1,1629301293,,"Dismi"
+? Sc
+|2,1,1629299734,,"Sc"
+? útil
+|2,1,1629299585,,"útil"
+? footnotesize
+|2,1,1629299407,,"footnotesize"
+? Pro
+|2,1,1629299320,,"Pro"
+? Disminuci
+|2,1,1629299287,,"Disminuci"
+? hídr
+|2,1,1629298730,,"hídr"
+? riachue
+|2,1,1629298638,,"riachue"
+? codigofuente
+|2,1,1629298410,,"codigofuente"
+? de
+|2,1,1629298185,,"de"
+? "
+|2,1,1629224932,,"\""
+? HE
+|2,1,1629138666,,"HE"
+? Generar
+|2,1,1629135685,,"Generar"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+@/home/jnicolaschc/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/pgf/diagramaBloques.tex
+|2,3,1629519404,,"/home/jnicolaschc/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/pgf/diagramaBloques.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/matrizMarcoLogico.tex
+|2,3,1629298528,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/matrizMarcoLogico.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/Matriz.csv
+|2,3,1629298512,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/Matriz.csv"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/
+|2,3,1629298502,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/pgf/"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/main.tex
+|2,3,1629298488,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Esquemas/Matriz Marco Lógico/main.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/codigofuente/analisisMatrizML.tex
+|2,3,1629297707,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/codigofuente/analisisMatrizML.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/codigofuente/pgf/matrizMarcoLogico.tex
+|2,3,1629297672,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/codigofuente/pgf/matrizMarcoLogico.tex"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/coerción.js
+|2,3,1628642705,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/coerción.js"
+@soy
+|2,3,1628639380,,"soy"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/hoisting.js
+|2,3,1628638975,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/hoisting.js"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/agradecimientos.tex
+|2,3,1628562830,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/agradecimientos.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/conclusiones.tex
+|2,3,1628561406,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/conclusiones.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/wantzen2019urban.bib
+|2,3,1628547758,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/wantzen2019urban.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/dris2015microplastic.bib
+|2,3,1628533180,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/dris2015microplastic.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/imhof2013contamination.bib
+|2,3,1628521275,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/imhof2013contamination.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/discusiones.tex
+|2,3,1628478330,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/discusiones.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/resultados.tex
+|2,3,1628444072,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/resultados.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/pillar2006multiv.bib
+|2,3,1628443130,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/pillar2006multiv.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/noren2007small.bib
+|2,3,1628438832,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/noren2007small.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/masura2015laboratory.bib
+|2,3,1628435244,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/masura2015laboratory.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/img/figura1a.png
+|2,3,1628392699,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/img/figura1a.png"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/img
+|2,3,1628392252,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/img"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1.tex
+|2,3,1628391485,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1.tex
+|2,3,1628391473,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1d.png
+|2,3,1628391464,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1d.png"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1c.png
+|2,3,1628391458,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1c.png"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1b.png
+|2,3,1628391452,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1b.png"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1a.png
+|2,3,1628391445,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/figura1a.png"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/
+|2,3,1628391434,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img/figura1/"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img
+|2,3,1628391419,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/img"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/espinola2016response.bib
+|2,3,1628390319,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/espinola2016response.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/msfd2013guidance.bib
+|2,3,1628387772,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/msfd2013guidance.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/lippiatt2013marine.bib
+|2,3,1628387032,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/ExportBIB/lippiatt2013marine.bib"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/materiales_metodos.tex
+|2,3,1628382601,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/materiales_metodos.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/introduccion.tex
+|2,3,1628365968,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/introduccion.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/resumen.tex
+|2,3,1628365887,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopus/Environmental Pollution 255/Translate/codigofuente/resumen.tex"
+@/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopues/Environmental Pollution 255/Translate/codigofuente/bibliografia.bib
+|2,3,1628303475,,"/home/jnicolaschc/GitHub/Metodología de la Investigación/enfoque_marco_logico/Referencias/Base de datos Scopues/Environmental Pollution 255/Translate/codigofuente/bibliografia.bib"
+@));
+|2,3,1628292960,,"));"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/functions.js
+|2,3,1628292092,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/functions.js"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/variables.js
+|2,3,1628290636,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/variables.js"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/values.js
+|2,3,1628290621,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-básico/values.js"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-vásico/values.js
+|2,3,1628290604,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/js-vásico/values.js"
+@/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/values.js
+|2,3,1628289893,,"/home/jnicolaschc/GitHub/Curso de Desarrollo de Apps con React Native/Curso Básico de JavaScript/values.js"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/urls.py
+|2,3,1628098838,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/urls.py"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/shopping_cart
+|2,3,1628092330,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/shopping_cart"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/shopping_cart
+|2,3,1628092268,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/shopping_cart"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/sohpping_cart
+|2,3,1628092255,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/sohpping_cart"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/shpping_cart/widget.html
+|2,3,1628092096,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/store/templates/store/shpping_cart/widget.html"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/shopping_cart.py
+|2,3,1628046847,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/shopping_cart.py"
+@/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/
+|2,3,1628046842,,"/home/jnicolaschc/GitHub/course-django/WebProject/WebProject/shopping_cart/"
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+@:q
+|2,4,1628963337,,":q"
+@sdgasdg
+|2,4,1628963324,,"sdgasdg"
+@gasd
+|2,4,1628963323,,"gasd"
+@ga
+|2,4,1628963323,,"ga"
+@asdfasdfjlñasdkfjasdkf
+|2,4,1628963322,,"asdfasdfjlñasdkfjasdkf"
+@+}asdf
+|2,4,1628963322,,"+}asdf"
+@asdf
+|2,4,1628963322,,"asdf"
+@asd
+|2,4,1628963322,,"asd"
+@fasd
+|2,4,1628963322,,"fasd"
+@exit()
+|2,4,1628963319,,"exit()"
+@exit
+|2,4,1628963317,,"exit"
+@cmd*
+|2,4,1628963315,,"cmd*"
+@*
+|2,4,1628963312,,"*"
+@cmd
+|2,4,1628963309,,"cmd"
+@.
+|2,4,1628963307,,"."
+@:q
+|2,4,1628963337,,":q"
+@sdgasdg
+|2,4,1628963324,,"sdgasdg"
+@ga
+|2,4,1628963323,,"ga"
+@gasd
+|2,4,1628963323,,"gasd"
+@fasd
+|2,4,1628963322,,"fasd"
+@asd
+|2,4,1628963322,,"asd"
+@asdf
+|2,4,1628963322,,"asdf"
+@+}asdf
+|2,4,1628963322,,"+}asdf"
+@asdfasdfjlñasdkfjasdkf
+|2,4,1628963322,,"asdfasdfjlñasdkfjasdkf"
+@exit()
+|2,4,1628963319,,"exit()"
+@exit
+|2,4,1628963317,,"exit"
+@cmd*
+|2,4,1628963315,,"cmd*"
+@*
+|2,4,1628963312,,"*"
+@cmd
+|2,4,1628963309,,"cmd"
+@.
+|2,4,1628963307,,"."
+
+# Registros:
+"0	LINE	0
+	\usepackage[inline]{enumitem} % tipo de enumeraciones
+|3,0,0,1,1,0,1629687381,"\\usepackage[inline]{enumitem} % tipo de enumeraciones"
+"1	LINE	0
+	297
+<	\item la eliminación de los macroplásticos en los ríos (por ejemplo, utilizando barreras de auge artesanales) es una acción efectiva/bajo costo para evitar que los plásticos lleguen al océano pero, por el contrario, la misma acción sobre los microplásticos es prácticamente imposible.
+|3,0,1,1,1,0,1629687321,"	\\item la eliminación de los macroplásticos en los ríos (por ejemplo, utilizando barreras de auge artesanales) es una acción efectiva/bajo costo para evitar que los plásticos lleguen al océano pero, por el contrario, la misma acción sobre los microplásticos es prácticamente imposible."
+"2	LINE	0
+	270
+<	\item los estudios globales que estiman la cantidad de plástico exportado de los ríos al océano han evidenciado una entrada significativamente mayor ($\>100$ veces) en términos de peso de macroplásticos (en comparación con microplásticos,~\cite{Schmidt2017});
+|3,0,2,1,1,0,1629687320,"	\\item los estudios globales que estiman la cantidad de plástico exportado de los ríos al océano han evidenciado una entrada significativamente mayor ($\\>100$ veces) en términos de peso de macroplásticos (en comparación con microplásticos,~\\cite{Schmidt2017});"
+"3	LINE	0
+		\item los estudios que estiman la cantidad de plástico exportado de los ríos al océano son limitados debido a la escasez de datos de campo en los ríos (~\cite{Lebreton2017};~\cite{Schmidt2017});
+|3,0,3,1,1,0,1629687319,"	\\item los estudios que estiman la cantidad de plástico exportado de los ríos al océano son limitados debido a la escasez de datos de campo en los ríos (~\\cite{Lebreton2017};~\\cite{Schmidt2017});"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1629685617,""
+"5	LINE	0
+	% Parte Brayan
+	1295
+<Por otro lado, hay un efecto de consideración ya que se hace mención muchas veces en los artículos en los cuales se busco información y es que la presencia de bacterias es crucial en el estudio de la contaminación del agua debido a los inconvenientes que estos generan en el ambiente, la flora y fauna, la misma salud de las personas que viven cerca de estos mismos~\cite{MendozaCarino2014} y es que esto es producto de los diferentes factores que se identificaron. Debido a lo anterior en muchos países se ha venido estudiando rigurosamente la calidad del agua ya que este problema es común en todas las partes del mundo tanto en países desarrollados como los países en vía de desarrollo, gracias a estos estudios se ha podido identificar numerosas bacterias como coliformes totales, coliformes fecales, enterococos fecales, Pseudomonas, aeruginosa y Salmonella~\cite{}. Todo esto aparece en gran medida por el inadecuado manejo de sus desechos, las actividades antrópicas, el vertimiento de residuos sólidos y líquidos que en el peor de los casos se han visto que son químicos farmacéuticos~\cite{Garcia-Morales2021} y desechos de aguas residuales producto de las actividades humanas~\cite {Ahumada-Santos2014} que se generan en las zonas urbanas aledañas a estos afluentes.
+|3,0,5,1,2,0,1629685611,"% Parte Brayan",>1298
+|<"Por otro lado, hay un efecto de consideración ya que se hace mención muchas veces en los artículos en los cuales se busco información y es que la presencia de bacterias es crucial en el estudio de la contaminación del agua debido a los inconvenientes que estos generan en el ambiente, la flora y fauna, la misma salud de las personas que viven cerca de estos mismos~\\cite{MendozaCarino2014} y es que esto es producto de los diferentes factores que se identificaron. Debido a lo anteri
+|<or en muchos países se ha venido estudiando rigurosamente la calidad del agua ya que este problema es común en todas las partes del mundo tanto en países desarrollados como los países en vía de desarrollo, gracias a estos estudios se ha podido identificar numerosas bacterias como coliformes totales, coliformes fecales, enterococos fecales, Pseudomonas, aeruginosa y Salmonella~\\cite{}. Todo esto aparece en gran medida por el inadecuado manejo de sus desechos, las actividades antr�
+|<�picas, el vertimiento de residuos sólidos y líquidos que en el peor de los casos se han visto que son químicos farmacéuticos~\\cite{Garcia-Morales2021} y desechos de aguas residuales producto de las actividades humanas~\\cite {Ahumada-Santos2014} que se generan en las zonas urbanas aledañas a estos afluentes."
+"6	LINE	0
+	
+|3,0,6,1,1,0,1629682962,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1629682317,""
+"8	LINE	0
+	313
+<Después de haber realizado el planteamiento de cómo desarrollar y obtener los resultados en el script, se procedió a realizar la planificación de las pruebas de funcionamiento del código con el objetivo de verificar y analizar los resultados a través de algunos escenarios que se definen a continuación:
+	
+	\begin{itemize}
+		\item Aumentar y disminuir el rango de frecuencias del filtro ideal.
+		\item Variar el rango de frecuencias del filtro de trapezoidal donde su respuesta es constante.
+	\end{itemize}
+	
+|3,0,8,1,7,0,1629682312,"Después de haber realizado el planteamiento de cómo desarrollar y obtener los resultados en el script, se procedió a realizar la planificación de las pruebas de funcionamiento del código con el objetivo de verificar y analizar los resultados a través de algunos escenarios que se definen a continuación:","","\\begin{itemize}","	\\item Aumentar y disminuir el rango de frecuencias del filtro ideal.",>99
+|<"	\\item Variar el rango de frecuencias del filtro de trapezoidal donde su respuesta es constante.","\\end{itemize}",""
+"9	LINE	0
+	
+|3,0,9,1,1,0,1629682269,""
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1629687530," "
+
+# Marcas en el archivo:
+'0  16  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1
+|4,48,16,0,1629687635,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1"
+'1  2  11  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG
+|4,49,2,11,1629683058,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG"
+'2  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.
+|4,50,1,0,1629672091,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main."
+'3  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,51,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+'4  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,52,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+'5  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,53,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+'6  1  44  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG
+|4,54,1,44,1629609472,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG"
+'7  1  44  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG
+|4,55,1,44,1629609472,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG"
+'8  142  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,56,142,0,1629609408,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+'9  141  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,57,141,0,1629609408,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+
+# Lista de saltos (el más reciente va primero):
+-'  16  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1
+|4,39,16,0,1629687635,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1"
+-'  49  2  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1
+|4,39,49,2,1629687634,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1"
+-'  1  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1
+|4,39,1,0,1629687634,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/NERD_tree_1"
+-'  2  11  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG
+|4,39,2,11,1629683058,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG"
+-'  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG
+|4,39,1,0,1629683004,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/.git/COMMIT_EDITMSG"
+-'  26  414  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,414,1629677827,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  414  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,414,1629677827,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  25  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,25,0,1629677802,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  25  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,25,0,1629677802,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  141  9  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,39,141,9,1629672100,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+-'  141  9  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,39,141,9,1629672100,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+-'  136  9  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,39,136,9,1629672095,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+-'  136  9  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex
+|4,39,136,9,1629672095,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.tex"
+-'  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.
+|4,39,1,0,1629672091,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main."
+-'  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.
+|4,39,1,0,1629672091,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main."
+-'  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.
+|4,39,1,0,1629672091,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main."
+-'  1  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main.
+|4,39,1,0,1629672091,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/main."
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  173  0  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,173,0,1629665854,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  153  6  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex
+|4,39,153,6,1629662840,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/Documentos LaTex/Enfoque de Marco Lógico/main.tex"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  1  32  ~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG
+|4,39,1,32,1629662647,"~/GitHub/Metodología de la Investigación/enfoque_marco_logico/.git/COMMIT_EDITMSG"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  26  609  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,26,609,1629642587,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex"
+-'  16  0  ~/GitHub/Teoría de Telecominicaciones I /ttl1_trabajo3/Documentos/desarrollo/codigofuente/metodologia.tex
+|4,39,16,0,1629641029,"~/GitHub/Teoría de Te

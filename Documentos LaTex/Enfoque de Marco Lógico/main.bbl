@@ -166,207 +166,6 @@
       \verb http://doi.org/10.7717/peerj.6282
       \endverb
     \endentry
-    \entry{MendozaCarino2014}{article}{}
-      \name{author}{7}{}{%
-        {{hash=2dc2e2296ede74371576dbaa4cfe2288}{%
-           family={{Mendoza Cari{ñ}o}},
-           familyi={M\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=74f39df9b07d8f8000008e1d5c1bcba3}{%
-           family={{Quevedo Nolasco}},
-           familyi={Q\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d3d80359aaca3c3361ac6135ba6a43c1}{%
-           family={{Bravo Vinaja}},
-           familyi={B\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=c47ba303bacbeb7993705df7b88922bc}{%
-           family={{Flores Magdaleno}},
-           familyi={F\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod}}}%
-        {{hash=48f90c45d491a104b8c65d3c57fe6405}{%
-           family={{De La Isla De Bauer}},
-           familyi={D\bibinitperiod},
-           given={M.\bibnamedelimi L.},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=104c4d5b6c86ea4e5e422145fe4dd7ea}{%
-           family={{Gavi Reyes}},
-           familyi={G\bibinitperiod},
-           given={F.},
-           giveni={F\bibinitperiod}}}%
-        {{hash=996df001f64b62e2ea5f902b74243003}{%
-           family={{Zamora Morales}},
-           familyi={Z\bibinitperiod},
-           given={B.\bibnamedelimi P.},
-           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \strng{namehash}{309607b2f900c15cda9e995cb2090f84}
-      \strng{fullhash}{1af62377283dc1043d80097cee3fd5f8}
-      \strng{bibnamehash}{1af62377283dc1043d80097cee3fd5f8}
-      \strng{authorbibnamehash}{1af62377283dc1043d80097cee3fd5f8}
-      \strng{authornamehash}{309607b2f900c15cda9e995cb2090f84}
-      \strng{authorfullhash}{1af62377283dc1043d80097cee3fd5f8}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{01884999}
-      \field{journaltitle}{Revista Internacional de Contaminacion Ambiental}
-      \field{number}{4}
-      \field{title}{{Estado ecol{ó}gico de r{í}os y vegetaci{ó}n ribere{ñ}a en el contexto de la nueva ley general de aguas de M{é}xico}}
-      \field{volume}{30}
-      \field{year}{2014}
-      \field{pages}{11\bibrangedash 16}
-      \range{pages}{6}
-      \verb{file}
-      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/v30n4a10.pdf:pdf
-      \endverb
-      \keyw{Biological corridor,Ecological health,Riparian vegetation}
-    \endentry
-    \entry{Garcia-Morales2021}{article}{}
-      \name{author}{5}{}{%
-        {{hash=d2e30fbbcfb9e1b7a221f9b4cb6f4253}{%
-           family={Garc{í}a-Morales},
-           familyi={G\bibinithyphendelim M\bibinitperiod},
-           given={Marco\bibnamedelima Antonio},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=302762a23e84c1967d5750696802ac6f}{%
-           family={Contreras-Rodr{í}guez},
-           familyi={C\bibinithyphendelim R\bibinitperiod},
-           given={Araceli},
-           giveni={A\bibinitperiod}}}%
-        {{hash=6e0f053e44ae59173ce7fcb533f1c6de}{%
-           family={{Aguilera Arreola}},
-           familyi={A\bibinitperiod},
-           given={Ma.\bibnamedelimi Guadalupe},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-        {{hash=10811ecaeb0da091bc08cd37c6f6783b}{%
-           family={Ruiz},
-           familyi={R\bibinitperiod},
-           given={Enrico\bibnamedelima Alejandro},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=f5a7cbe433788da63c484eef45241c42}{%
-           family={{Morales Garc{í}a}},
-           familyi={M\bibinitperiod},
-           given={Mar{í}a\bibnamedelima Rosario},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{aaedf34e7d901ec9cf675b922b9d5446}
-      \strng{fullhash}{386cebecb14fba11a95b5b45d45a604c}
-      \strng{bibnamehash}{386cebecb14fba11a95b5b45d45a604c}
-      \strng{authorbibnamehash}{386cebecb14fba11a95b5b45d45a604c}
-      \strng{authornamehash}{aaedf34e7d901ec9cf675b922b9d5446}
-      \strng{authorfullhash}{386cebecb14fba11a95b5b45d45a604c}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista Internacional de Contaminaci{ó}n Ambiental}
-      \field{title}{{Manejo De Residuos De F{á}rmacos: Una Breve Revisi{ó}n}}
-      \field{year}{2021}
-      \field{pages}{329\bibrangedash 344}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.20937/rica.53505
-      \endverb
-      \verb{file}
-      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/53505-Texto del art{\'{i}}culo-164618-1-10-20210610.pdf:pdf
-      \endverb
-      \keyw{caducos,contaminaci{ó}n,desechos,t{ó}xicos}
-    \endentry
-    \entry{Ahumada-Santos2014}{article}{}
-      \name{author}{12}{}{%
-        {{hash=2e4de0eff698bafc0501861428367910}{%
-           family={Ahumada-Santos},
-           familyi={A\bibinithyphendelim S\bibinitperiod},
-           given={Yesmi\bibnamedelima Patricia},
-           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=371fc1bb661bfaca653f731e7648e2fe}{%
-           family={B{á}ez-Flores},
-           familyi={B\bibinitperiod},
-           given={Mar{í}a\bibnamedelima Elena},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=ea7589aa0876011024fd58a3fca75284}{%
-           family={D{í}az-Camacho},
-           familyi={D\bibinitperiod},
-           given={Sylvia\bibnamedelima Paz},
-           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=bdbe79314e805a5de577dab5c2e2f204}{%
-           family={Uribe-Beltr{á}n},
-           familyi={U\bibinithyphendelim B\bibinitperiod},
-           given={Magdalena\bibnamedelimb de\bibnamedelima Jes{ú}s},
-           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=db6438d8c2a5238da68b6114d2b003cb}{%
-           family={L{ó}pez-Angulo},
-           familyi={L\bibinithyphendelim A\bibinitperiod},
-           given={Gabriela},
-           giveni={G\bibinitperiod}}}%
-        {{hash=cb39cfca8ac6ae67f4c02c913d810bc6}{%
-           family={Vega-Avi{ñ}a},
-           familyi={V\bibinithyphendelim A\bibinitperiod},
-           given={Rito},
-           giveni={R\bibinitperiod}}}%
-        {{hash=2d63ecdc85c39d810b5ca3706c235961}{%
-           family={Ch{á}vez-Duran},
-           familyi={C\bibinithyphendelim D\bibinitperiod},
-           given={Francisco\bibnamedelima Armando},
-           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=8d904831a4755e7d77c910fe985215d1}{%
-           family={Montes-Avila},
-           familyi={M\bibinithyphendelim A\bibinitperiod},
-           given={Julio},
-           giveni={J\bibinitperiod}}}%
-        {{hash=d6d21f2200782634eba71c35ee87bfd1}{%
-           family={Carranza-D{í}az},
-           familyi={C\bibinithyphendelim D\bibinitperiod},
-           given={Otoniel},
-           giveni={O\bibinitperiod}}}%
-        {{hash=6e3f16137c54f700c6921d7462e17700}{%
-           family={M{ö}der},
-           familyi={M\bibinitperiod},
-           given={Monika},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a9d2b049beacc78317154f27af8bc132}{%
-           family={Kuschk},
-           familyi={K\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=3cf7596f0d86528cb28ea6755797f1e2}{%
-           family={Delgado-Vargas},
-           familyi={D\bibinithyphendelim V\bibinitperiod},
-           given={Francisco},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{6c5bd9d8d39fd240129761cf9ced4044}
-      \strng{fullhash}{d5a19f2800f357f38b566b53b086fa9c}
-      \strng{bibnamehash}{d5a19f2800f357f38b566b53b086fa9c}
-      \strng{authorbibnamehash}{d5a19f2800f357f38b566b53b086fa9c}
-      \strng{authornamehash}{6c5bd9d8d39fd240129761cf9ced4044}
-      \strng{authorfullhash}{d5a19f2800f357f38b566b53b086fa9c}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{01853880}
-      \field{journaltitle}{Ciencias Marinas}
-      \field{number}{4}
-      \field{title}{{Distribuci{ó}n espaciotemporal de la contaminaci{ó}n bacteriana del agua residual agr{í}cola y dom{é}stica descargada a un canal de drenaje (Sinaloa, M{é}xico)}}
-      \field{volume}{40}
-      \field{year}{2014}
-      \field{pages}{277\bibrangedash 289}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.7773/cm.v40i4.2456
-      \endverb
-      \verb{file}
-      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/document.pdf:pdf
-      \endverb
-      \keyw{Agricultural drains,Bacteria removal,Coliforms,Sanitation,Water quality}
-    \endentry
     \entry{He2021}{article}{}
       \name{author}{2}{}{%
         {{hash=248c84bbf6dd25f54386aaea068f5ffb}{%
@@ -386,8 +185,8 @@
       \strng{authorbibnamehash}{a41e83145ed664aab333ace3587eabe6}
       \strng{authornamehash}{a41e83145ed664aab333ace3587eabe6}
       \strng{authorfullhash}{a41e83145ed664aab333ace3587eabe6}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{22671242}
@@ -472,8 +271,8 @@
       \strng{authorbibnamehash}{41f79b0c10546dd1ae6f1bb5eaaca5b4}
       \strng{authornamehash}{835a4c0ce9d5478eef4e85f5c17866f2}
       \strng{authorfullhash}{41f79b0c10546dd1ae6f1bb5eaaca5b4}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18792456}
@@ -537,8 +336,8 @@
       \strng{authorbibnamehash}{e00c67af76984e436e01e9dce549ccd4}
       \strng{authornamehash}{8c310948536121b62ece56c0dbfefb87}
       \strng{authorfullhash}{e00c67af76984e436e01e9dce549ccd4}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9781784664237}
@@ -556,6 +355,207 @@
       \verb :C\:/Users/Andres291/Desktop/21- Tratamiento de aguas (Ecuador).pdf:pdf
       \endverb
       \keyw{environmental impact,sanitation,sewage,wastewater treatment system,water quality}
+    \endentry
+    \entry{MendozaCarino2014}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2dc2e2296ede74371576dbaa4cfe2288}{%
+           family={{Mendoza Cari{ñ}o}},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=74f39df9b07d8f8000008e1d5c1bcba3}{%
+           family={{Quevedo Nolasco}},
+           familyi={Q\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d3d80359aaca3c3361ac6135ba6a43c1}{%
+           family={{Bravo Vinaja}},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c47ba303bacbeb7993705df7b88922bc}{%
+           family={{Flores Magdaleno}},
+           familyi={F\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=48f90c45d491a104b8c65d3c57fe6405}{%
+           family={{De La Isla De Bauer}},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=104c4d5b6c86ea4e5e422145fe4dd7ea}{%
+           family={{Gavi Reyes}},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=996df001f64b62e2ea5f902b74243003}{%
+           family={{Zamora Morales}},
+           familyi={Z\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{309607b2f900c15cda9e995cb2090f84}
+      \strng{fullhash}{1af62377283dc1043d80097cee3fd5f8}
+      \strng{bibnamehash}{1af62377283dc1043d80097cee3fd5f8}
+      \strng{authorbibnamehash}{1af62377283dc1043d80097cee3fd5f8}
+      \strng{authornamehash}{309607b2f900c15cda9e995cb2090f84}
+      \strng{authorfullhash}{1af62377283dc1043d80097cee3fd5f8}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01884999}
+      \field{journaltitle}{Revista Internacional de Contaminacion Ambiental}
+      \field{number}{4}
+      \field{title}{{Estado ecol{ó}gico de r{í}os y vegetaci{ó}n ribere{ñ}a en el contexto de la nueva ley general de aguas de M{é}xico}}
+      \field{volume}{30}
+      \field{year}{2014}
+      \field{pages}{11\bibrangedash 16}
+      \range{pages}{6}
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/v30n4a10.pdf:pdf
+      \endverb
+      \keyw{Biological corridor,Ecological health,Riparian vegetation}
+    \endentry
+    \entry{Garcia-Morales2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d2e30fbbcfb9e1b7a221f9b4cb6f4253}{%
+           family={Garc{í}a-Morales},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Marco\bibnamedelima Antonio},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=302762a23e84c1967d5750696802ac6f}{%
+           family={Contreras-Rodr{í}guez},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Araceli},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6e0f053e44ae59173ce7fcb533f1c6de}{%
+           family={{Aguilera Arreola}},
+           familyi={A\bibinitperiod},
+           given={Ma.\bibnamedelimi Guadalupe},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=10811ecaeb0da091bc08cd37c6f6783b}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Enrico\bibnamedelima Alejandro},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f5a7cbe433788da63c484eef45241c42}{%
+           family={{Morales Garc{í}a}},
+           familyi={M\bibinitperiod},
+           given={Mar{í}a\bibnamedelima Rosario},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{aaedf34e7d901ec9cf675b922b9d5446}
+      \strng{fullhash}{386cebecb14fba11a95b5b45d45a604c}
+      \strng{bibnamehash}{386cebecb14fba11a95b5b45d45a604c}
+      \strng{authorbibnamehash}{386cebecb14fba11a95b5b45d45a604c}
+      \strng{authornamehash}{aaedf34e7d901ec9cf675b922b9d5446}
+      \strng{authorfullhash}{386cebecb14fba11a95b5b45d45a604c}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Internacional de Contaminaci{ó}n Ambiental}
+      \field{title}{{Manejo De Residuos De F{á}rmacos: Una Breve Revisi{ó}n}}
+      \field{year}{2021}
+      \field{pages}{329\bibrangedash 344}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.20937/rica.53505
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/53505-Texto del art{\'{i}}culo-164618-1-10-20210610.pdf:pdf
+      \endverb
+      \keyw{caducos,contaminaci{ó}n,desechos,t{ó}xicos}
+    \endentry
+    \entry{Ahumada-Santos2014}{article}{}
+      \name{author}{12}{}{%
+        {{hash=2e4de0eff698bafc0501861428367910}{%
+           family={Ahumada-Santos},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Yesmi\bibnamedelima Patricia},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=371fc1bb661bfaca653f731e7648e2fe}{%
+           family={B{á}ez-Flores},
+           familyi={B\bibinitperiod},
+           given={Mar{í}a\bibnamedelima Elena},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ea7589aa0876011024fd58a3fca75284}{%
+           family={D{í}az-Camacho},
+           familyi={D\bibinitperiod},
+           given={Sylvia\bibnamedelima Paz},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bdbe79314e805a5de577dab5c2e2f204}{%
+           family={Uribe-Beltr{á}n},
+           familyi={U\bibinithyphendelim B\bibinitperiod},
+           given={Magdalena\bibnamedelimb de\bibnamedelima Jes{ú}s},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=db6438d8c2a5238da68b6114d2b003cb}{%
+           family={L{ó}pez-Angulo},
+           familyi={L\bibinithyphendelim A\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cb39cfca8ac6ae67f4c02c913d810bc6}{%
+           family={Vega-Avi{ñ}a},
+           familyi={V\bibinithyphendelim A\bibinitperiod},
+           given={Rito},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2d63ecdc85c39d810b5ca3706c235961}{%
+           family={Ch{á}vez-Duran},
+           familyi={C\bibinithyphendelim D\bibinitperiod},
+           given={Francisco\bibnamedelima Armando},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8d904831a4755e7d77c910fe985215d1}{%
+           family={Montes-Avila},
+           familyi={M\bibinithyphendelim A\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d6d21f2200782634eba71c35ee87bfd1}{%
+           family={Carranza-D{í}az},
+           familyi={C\bibinithyphendelim D\bibinitperiod},
+           given={Otoniel},
+           giveni={O\bibinitperiod}}}%
+        {{hash=6e3f16137c54f700c6921d7462e17700}{%
+           family={M{ö}der},
+           familyi={M\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a9d2b049beacc78317154f27af8bc132}{%
+           family={Kuschk},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3cf7596f0d86528cb28ea6755797f1e2}{%
+           family={Delgado-Vargas},
+           familyi={D\bibinithyphendelim V\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c5bd9d8d39fd240129761cf9ced4044}
+      \strng{fullhash}{d5a19f2800f357f38b566b53b086fa9c}
+      \strng{bibnamehash}{d5a19f2800f357f38b566b53b086fa9c}
+      \strng{authorbibnamehash}{d5a19f2800f357f38b566b53b086fa9c}
+      \strng{authornamehash}{6c5bd9d8d39fd240129761cf9ced4044}
+      \strng{authorfullhash}{d5a19f2800f357f38b566b53b086fa9c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01853880}
+      \field{journaltitle}{Ciencias Marinas}
+      \field{number}{4}
+      \field{title}{{Distribuci{ó}n espaciotemporal de la contaminaci{ó}n bacteriana del agua residual agr{í}cola y dom{é}stica descargada a un canal de drenaje (Sinaloa, M{é}xico)}}
+      \field{volume}{40}
+      \field{year}{2014}
+      \field{pages}{277\bibrangedash 289}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.7773/cm.v40i4.2456
+      \endverb
+      \verb{file}
+      \verb :home/jnicolaschc/GitHub/Metodolog{\'{i}}a de la Investigaci{\'{o}}n/enfoque_marco_logico/Referencias/Brayan/document.pdf:pdf
+      \endverb
+      \keyw{Agricultural drains,Bacteria removal,Coliforms,Sanitation,Water quality}
     \endentry
     \entry{SecretariadeSalud2019}{article}{}
       \name{author}{1}{}{%
@@ -591,8 +591,38 @@
       \verb http://observatoriosaludcauca.gov.co/wp-content/uploads/2019/
       \endverb
     \endentry
+    \entry{Aquae}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=151d329383cee1762182291e57f3109e}{%
+           family={Aquae},
+           familyi={A\bibinitperiod},
+           given={Fundaci{ó}n},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{151d329383cee1762182291e57f3109e}
+      \strng{fullhash}{151d329383cee1762182291e57f3109e}
+      \strng{bibnamehash}{151d329383cee1762182291e57f3109e}
+      \strng{authorbibnamehash}{151d329383cee1762182291e57f3109e}
+      \strng{authornamehash}{151d329383cee1762182291e57f3109e}
+      \strng{authorfullhash}{151d329383cee1762182291e57f3109e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Art{í}culo informativo}
+      \field{title}{{¿C{ó}mo reducir la contaminaci{ó}n del agua? | Fundaci{ó}n Aquae}}
+      \field{urlday}{20}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+      \verb{url}
+      \verb https://www.fundacionaquae.org/reducir-contaminacion-agua/
+      \endverb
+    \endentry
   \enddatalist
-  \missing{tipocontaminacion}
 \endrefsection
 \endinput
 
